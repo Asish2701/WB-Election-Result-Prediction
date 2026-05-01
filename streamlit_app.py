@@ -227,9 +227,9 @@ st.markdown(
 # Create tabs for different analyses
 tab1, tab2, tab3, tab4, tab5 = st.tabs([
     "📊 Overview", 
-    "💪 Margin Squeeze", 
-    "⚖️ Anti-Incumbency",
-    "🎯 Scenarios",
+    " Margin Squeeze", 
+    " Anti-Incumbency",
+    " Scenarios",
     "🔍 Details"
 ])
 
