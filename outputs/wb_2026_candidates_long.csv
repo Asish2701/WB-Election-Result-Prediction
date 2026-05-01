@@ -1,0 +1,1097 @@
+AC_Number,Constituency_Name,Party,Candidate
+1,Mekliganj (SC),AITC,Paresh Chandra Adhikary
+1,Mekliganj (SC),BJP,???? ?????? ??? (Shri Dadhiram Roy)
+1,Mekliganj (SC),INC,Smt. Ila Rani Roy
+1,Mekliganj (SC),LF,KAMAL ROY
+2,Mathabhanga (SC),AITC,Sablu Barman
+2,Mathabhanga (SC),BJP,???? ????? ????????? (Shri Nisith Pramanik)
+2,Mathabhanga (SC),INC,Khitendra Nath Barman
+2,Mathabhanga (SC),LF,KHAGEN BARMAN
+3,Coochbehar Uttar (SC),AITC,Partha Pratim Roy
+3,Coochbehar Uttar (SC),BJP,???? ??????? ??? (Shri Sukumar Roy)
+3,Coochbehar Uttar (SC),INC,Partha Pratim Ishore
+3,Coochbehar Uttar (SC),LF,PRANAY KARJI
+4,Coochbehar Dakshin,AITC,Avijit De Bhowmick (Hippy)
+4,Coochbehar Dakshin,BJP,???? ???????? ??? ??? (Shri Rathindra Nath Bose)
+4,Coochbehar Dakshin,INC,Khokan Mian
+4,Coochbehar Dakshin,LF,NAZMUL ALAM SARKAR
+5,Sitalkuchi (SC),AITC,Harihar Das
+5,Sitalkuchi (SC),BJP,??????? ???????? ????? (Smt. Savitri Barman)
+5,Sitalkuchi (SC),INC,Sukamal Barman
+5,Sitalkuchi (SC),LF,NABADIPTI ADHIKARY
+6,Sitai (SC),AITC,Sangita Roy Basunia
+6,Sitai (SC),BJP,???? ?????? ????? (Shri Ashosh Barma)
+6,Sitai (SC),INC,Rabin Roy
+7,Dinhata,AITC,Udayan Guha
+7,Dinhata,BJP,???? ??? ??? (Shri Ajay Roy)
+7,Dinhata,INC,Harihar Ray Singha
+7,Dinhata,LF,BIKASH MONDAL
+8,Natabari,AITC,Sailen Barma
+8,Natabari,BJP,???? ?????? ???? ??? (Shri Girija Shankar Roy)
+8,Natabari,INC,Biswajit Sarkar
+8,Natabari,LF,DHANANJOY RAVA (SC)
+9,Tufanganj,AITC,Shib Sankar Paul
+9,Tufanganj,BJP,??????? ????? ???? ??? (Smt. Malati Rava Roy)
+9,Tufanganj,INC,Debendra Nath Barma
+9,Tufanganj,LF,SHYAMAL ROY
+10,Kumargram (ST),AITC,Rajeev Tirkey
+10,Kumargram (ST),BJP,???? ???? ????? ????? (Shri Manoj Kumar Oraon)
+10,Kumargram (ST),INC,Sudham Lama
+10,Kumargram (ST),LF,KISHORE MINZ
+11,Kalchini (ST),AITC,Birendra Bara
+11,Kalchini (ST),BJP,???? ????? ???? (Shri Bishal Lama)
+11,Kalchini (ST),INC,Anjan Chik Baraik
+11,Kalchini (ST),LF,PASSANG SHERPA
+12,Alipurduar,AITC,Suman Kanjilal
+12,Alipurduar,BJP,???? ?????? ??? (Shri Paritosh Das)
+13,Falakata (SC),AITC,Subhash Chandra Roy
+13,Falakata (SC),BJP,???? ???? ????? (Shri Deepak Barman)
+13,Falakata (SC),INC,Akshoy Kumar Barman
+13,Falakata (SC),LF,KAMAL KISHORE ROY
+14,Madarihat (ST),AITC,Jayprakash Toppo
+14,Madarihat (ST),BJP,???? ??????? ?????? (Shri Lakshman Limbu)
+14,Madarihat (ST),INC,Dr. Joy Prafulla Lakra
+14,Madarihat (ST),LF,SUBHAS LOHAR
+15,Dhupguri (SC),AITC,Dr Nirmal Chandra Roy
+15,Dhupguri (SC),BJP,???? ???? ????? ??? (Shri Naresh Chandra Roy)
+15,Dhupguri (SC),INC,Harish Chandra Roy
+15,Dhupguri (SC),LF,NIRANJAN ROY
+16,Maynaguri (SC),AITC,Ram Mohan Roy
+16,Maynaguri (SC),BJP,???? ????? ??? (Shri Dalim Roy)
+16,Maynaguri (SC),INC,Jogen Sarkar
+16,Maynaguri (SC),LF,SUDEB ROY
+17,Jalpaiguri (SC),AITC,Krishna Das
+17,Jalpaiguri (SC),BJP,???? ???? ??? ??????? (Shri Ananta Deb Adhikary)
+17,Jalpaiguri (SC),INC,Sudipto Mohonto
+17,Jalpaiguri (SC),LF,DEBRAJ BARMAN
+18,Rajganj (SC),AITC,Swapna Barman
+18,Rajganj (SC),BJP,???? ????? ????? (????? ?????) (Shri Dinesh Sarkar (Haradhan Sarkar))
+18,Rajganj (SC),INC,Tushar Kanti Roy
+18,Rajganj (SC),LF,KHARENDRA NATH ROY
+19,Dabgram-Phulbari,AITC,Ranjan Shil Sharma
+19,Dabgram-Phulbari,BJP,??????? ???? ?????? (Smt. Sikha Chatterjee)
+19,Dabgram-Phulbari,INC,Rohit Singh Sisodiya (Guddu)
+19,Dabgram-Phulbari,LF,DILIP SINGH
+20,Mal (ST),AITC,Bulu Chik Baraik
+20,Mal (ST),BJP,???? ????? ????? (Shri Sukra Munda)
+20,Mal (ST),INC,Rakesh Kujur
+20,Mal (ST),LF,MANU ORAON
+21,Nagrakata (ST),AITC,Sanjay Kujur
+21,Nagrakata (ST),BJP,???? ???? ????? (Shri Puna Bhengra)
+21,Nagrakata (ST),INC,Shinu Munda
+21,Nagrakata (ST),LF,DILKUMAR ORAON
+22,Kalimpong,AITC,*********
+22,Kalimpong,BJP,???? ??? ?????? (Shri Bharat Chetri)
+22,Kalimpong,INC,Santa Kumar Pradhan
+23,Darjeeling,AITC,*********
+23,Darjeeling,BJP,???? ???? ??? (Shri Noman Rai)
+23,Darjeeling,INC,Madhap Rai
+24,Kurseong,AITC,*********
+24,Kurseong,BJP,???? ???? ???? (Shri Sonam Lama)
+24,Kurseong,INC,Saroj Kumar Khatri
+25,Matigara-Naxalbari (SC),AITC,Sankar Malakar
+25,Matigara-Naxalbari (SC),BJP,???? ?????? ????? (Shri Anandamay Barman)
+25,Matigara-Naxalbari (SC),INC,Amitava Sarkar
+25,Matigara-Naxalbari (SC),LF,JHAREN ROY
+26,Siliguri,AITC,Goutam Deb
+26,Siliguri,BJP,??. ???? ??? (Dr. Shankar Ghosh)
+26,Siliguri,INC,Aloke Dhara
+26,Siliguri,LF,SHARADINDU CHAKRABORTY
+27,Phansidewa (ST),AITC,Reena Toppo Ekka
+27,Phansidewa (ST),BJP,???? ?????? ?????? (Shri Durga Murmu)
+27,Phansidewa (ST),INC,Smt. Nabanita Tirkey
+28,Chopra,AITC,Hamidul Rahaman
+28,Chopra,BJP,???? ???? ??????? (Shri Shankar Adhikari)
+28,Chopra,INC,Zakir Abedin
+29,Islampur,AITC,Kanaia Lal Aggarwal
+29,Islampur,BJP,???? ???????? ??? (Shri Chitrajit Roy)
+30,Goalpokhar,AITC,Md. Ghulam Rabbani
+30,Goalpokhar,BJP,???? ????? ??????? (Shri Sarjit Biswas)
+30,Goalpokhar,INC,Masood Md Naseem Ahsen
+30,Goalpokhar,LF,JUBER ALAM
+31,Chakulia,AITC,Minhajul Arfin Azad
+31,Chakulia,BJP,???? ???? ??? (Shri Manoj Jain)
+31,Chakulia,INC,Ali Imran Ramz (Victor)
+31,Chakulia,LF,AMJAD ALI
+32,Karandighi,AITC,Gautam Paul
+32,Karandighi,BJP,??. ????? ??????? (Adv. Biraj Biswas)
+32,Karandighi,INC,Murshid Alam
+32,Karandighi,LF,MD. SAHABUDDIN
+33,Hemtabad (SC),AITC,Satyajit Barman
+33,Hemtabad (SC),BJP,???? ????? ????? (Shri Haripada Barman)
+33,Hemtabad (SC),INC,Smt. Anamika Roy
+33,Hemtabad (SC),LF,TANUSHREE DAS
+34,Kaliaganj (SC),AITC,Nitai Baishya
+34,Kaliaganj (SC),BJP,???? ????? ?????? (Shri Utpal Maharaj)
+34,Kaliaganj (SC),INC,Girdhari Pramanik
+34,Kaliaganj (SC),LF,HIRUBALA ROY
+35,Raiganj,AITC,Krishna Kalyani
+35,Raiganj,BJP,???? ????? ????? (Shri Kaushik Chowdhury)
+35,Raiganj,INC,Mohit Sengupta
+35,Raiganj,LF,JIBANANDA SINGHA
+36,Itahar,AITC,Mosaraf Hussain
+36,Itahar,BJP,??????? ????? ????? (Smt. Sabita Barman)
+36,Itahar,INC,Amal Acharya
+36,Itahar,LF,SUDIPTA DAS
+37,Kushmandi (SC),AITC,Rekha Roy
+37,Kushmandi (SC),BJP,???? ???? ????? ??? (Shri Tapas Chandra Roy)
+37,Kushmandi (SC),INC,Bablu Sarkar
+37,Kushmandi (SC),LF,JYOTIRMOY ROY
+38,Kumarganj,AITC,Toraf Hossain Mondal
+38,Kumarganj,BJP,???? ??????? ????? (Shri Suvendu Sarkar)
+38,Kumarganj,INC,Gulam Martuja Mandal
+38,Kumarganj,LF,MOFAZZAL HOSSAIN
+39,Balurghat,AITC,Arpita Ghosh
+39,Balurghat,BJP,???? ??????? ??? (Shri Bidyut Roy)
+39,Balurghat,INC,Pradip Kumar Mitra
+39,Balurghat,LF,ARNAB CHOUDHURY
+40,Tapan (ST),AITC,Chintamoni Biha
+40,Tapan (ST),BJP,???? ?????? ???? (Shri Budhrai Tudu)
+40,Tapan (ST),INC,Bankim Chandra Toppo
+40,Tapan (ST),LF,BAPPAI HARO
+41,Gangarampur (SC),AITC,Goutam Das
+41,Gangarampur (SC),BJP,???? ????????? ??? ??? (Shri Satyendra Nath Rai)
+41,Gangarampur (SC),INC,Smt. Jui Barman
+41,Gangarampur (SC),LF,BIPLAB BARMAN
+42,Harirampur,AITC,Biplab Mitra
+42,Harirampur,BJP,???? ??????? ??????? (Shri Debabrata Majumder)
+42,Harirampur,INC,Subhasish Pal (Sona)
+42,Harirampur,LF,GAUTAM GOSWAMI
+43,Habibpur (ST),AITC,Amal Kisku
+43,Habibpur (ST),BJP,???? ???? ?????? (Shri Joyel Murmu)
+43,Habibpur (ST),INC,Rajen Soren
+43,Habibpur (ST),LF,BASUDEB BARMAN
+44,Gazole (SC),AITC,Prasenjit Das
+44,Gazole (SC),BJP,???? ?????? ??? ????? (Shri Chinmoy Deb Barman)
+44,Gazole (SC),INC,Sanjay Sarkar
+44,Gazole (SC),LF,KHITISH SARKAR
+45,Chanchal,AITC,Prasun Banerjee
+45,Chanchal,BJP,???? ??? ??? (Shri Ratan Das)
+45,Chanchal,INC,Asif Mehbub
+45,Chanchal,LF,ANAWARUL HAQUE
+46,Harishchandrapur,AITC,Md. Matebur Rahman
+46,Harishchandrapur,BJP,???? ??? ??? (Shri Ratan Das)
+46,Harishchandrapur,INC,Mostaque Alam
+46,Harishchandrapur,LF,SK. KHALIL
+47,Malatipur,AITC,Abdur Rahim Boxi
+47,Malatipur,BJP,???? ???? ??? (Shri Ashish Das)
+47,Malatipur,INC,Smt. Mausam Noor
+47,Malatipur,LF,MINARUL HOSSAIN
+48,Ratua,AITC,Samar Mukherjee
+48,Ratua,BJP,???? ?????? ????????? (Shri Abhishek Singhania)
+48,Ratua,INC,Mottakin Alam
+48,Ratua,LF,JAHUR ALAM
+49,Manikchak,AITC,Kabita Mandal
+49,Manikchak,BJP,???? ??? ????? ???? (Shri Gaur Chandra Mandal)
+49,Manikchak,INC,Md. Ansarul Hoque
+49,Manikchak,LF,DEBOJYOTI SINHA
+50,Maldaha (SC),AITC,Lipika Barman Ghosh
+50,Maldaha (SC),BJP,???? ????? ????? ???? (Shri Gopal Chandra Saha)
+50,Maldaha (SC),INC,Bhupendra Nath Haldar (Arjun)
+50,Maldaha (SC),LF,DIPAK BARMAN
+51,English Bazar,AITC,Asis Kundu
+51,English Bazar,BJP,???? ???? ?????? (Shri Amlan Bhaduri)
+51,English Bazar,INC,Masud Alam
+51,English Bazar,LF,AMBAR MITRA
+52,Mothabari,AITC,Md. Najrul Islam
+52,Mothabari,BJP,???? ?????? ??? (Shri Nibaran Ghosh)
+52,Mothabari,INC,Sayem Chowdhury
+53,Sujapur,AITC,Sabina Yeasmin
+53,Sujapur,BJP,???? ?????? ????? (Shri Abhiraj Chaudhary)
+53,Sujapur,INC,Md Abdul Hannan
+54,Baisnabnagar,AITC,Chandana Sarkar
+54,Baisnabnagar,BJP,???? ???? ??????? (Shri Raju Karmakar)
+54,Baisnabnagar,INC,Smt. Mamuni Mandal
+54,Baisnabnagar,LF,DUNDHUBI SAHA
+55,Farakka,AITC,Amirul Islam
+55,Farakka,BJP,???? ????? ????? (Shri Sunil Chowdhury)
+55,Farakka,LF,MOJAFFAR HOSSAIN
+56,Samserganj,AITC,Nur Alam
+56,Samserganj,BJP,???? ????? ??? ??? (Shri Shashthi Charan Ghosh)
+56,Samserganj,INC,Nazme Alam
+57,Suti,AITC,Emani Biswas
+57,Suti,BJP,???? ?????? ??? (Shri Mahabir Ghosh)
+57,Suti,INC,Alfazuddin Biswas
+57,Suti,LF,A.K.M. HASANUJJAMAN
+58,Jangipur,AITC,Jakir Hossain
+58,Jangipur,BJP,??. ?????? ??????? (Adv. Chitto Mukherjee)
+58,Jangipur,INC,Mohammad Imran Ali
+59,Raghunathganj,AITC,Janab Akhruzzaman
+59,Raghunathganj,BJP,???? ?????? ??????? (Shri Surjit Poddar)
+59,Raghunathganj,INC,Nasir Saikh
+60,Sagardighi,AITC,Bayron Biswas
+60,Sagardighi,BJP,???? ???? ????????? (Shri Tapas Chakraborty)
+61,Lalgola,AITC,Dr. Abdul Aziz
+61,Lalgola,BJP,???? ??? ????? ??? (Shri Amar Kumar Das)
+61,Lalgola,INC,Md. Touhidur Rahaman
+62,Bhagawangola,AITC,Reyat Hussain Sarkar
+62,Bhagawangola,BJP,???? ?????? ????? (Shri Bhaskar Sarkar)
+62,Bhagawangola,INC,Smt. Anju Begum
+62,Bhagawangola,LF,MAHMUDAL HASSAN
+63,Raninagar,AITC,Soumik Hussain
+63,Raninagar,BJP,???? ???? ?????? ???? ??? (Shri Rana Pratap Singh Roy)
+63,Raninagar,INC,Zulfikur Ali
+63,Raninagar,LF,JAMAL HOSSAIN
+64,Murshidabad,AITC,Shaoni Singha Roy
+64,Murshidabad,BJP,???? ???? ???? ??? (Shri Gouri Sankar Ghosh)
+64,Murshidabad,INC,Siddiqi Ali
+64,Murshidabad,LF,ABDUL MANNAN
+65,Nabagram (SC),AITC,Pranab Chandra Das
+65,Nabagram (SC),BJP,???? ????? ???? (Shri Dilip Saha)
+65,Nabagram (SC),INC,Hiru Haldar
+65,Nabagram (SC),LF,PURNIMA DAS
+66,Khargram (SC),AITC,Ashish Marjit
+66,Khargram (SC),BJP,??????? ?????? ?? (Smt. Mitali Mal)
+66,Khargram (SC),INC,Dr. Mandar Kanti Mandal
+66,Khargram (SC),LF,DHRUBAJYOTI SAHA
+67,Burwan (SC),AITC,Pratima Rajak
+67,Burwan (SC),BJP,???? ????? ????? ????? (Shri Sukhen Kumar Bagdi)
+67,Burwan (SC),INC,Sujit Das
+67,Burwan (SC),LF,ANANDA DAS
+68,Kandi,AITC,Apurba Sarkar (David)
+68,Kandi,BJP,??????? ?????? ??? ??? (Smt. Gargi Das Ghosh)
+68,Kandi,INC,Dr. Shamim Rana
+68,Kandi,LF,DR. REJAUL KARIM
+69,Bharatpur,AITC,Mustafizur Rahaman (Sumon)
+69,Bharatpur,BJP,??????? ??????? ??? (Smt. Anamika Ghosh)
+69,Bharatpur,INC,Azharudddin Sizar
+70,Rejinagar,AITC,Ataur Rahman
+70,Rejinagar,BJP,???? ???? ??? (Shri Bapan Ghosh)
+70,Rejinagar,INC,Jillu Sk.
+71,Beldanga,AITC,Rabiul Alam Chowdhury
+71,Beldanga,BJP,???? ??? ????? ??? (Shri Bharat Kumar Jhawar)
+71,Beldanga,LF,RAJESH GHOSH
+72,Baharampur,AITC,Naru Gopal Mukherjee
+72,Baharampur,BJP,???? ?????? ?????? (Shri Subrata Maitra)
+72,Baharampur,INC,Adhir Ranjan Chowdhury
+73,Hariharpara,AITC,Niamot Seikh
+73,Hariharpara,BJP,???? ????? ??????? (Shri Tanmoy Biswas)
+73,Hariharpara,INC,Smt. Mousumi Begum
+74,Naoda,AITC,Shahina Mumtaz
+74,Naoda,BJP,???? ???? ???? (Shri Rana Mandal)
+74,Naoda,INC,Motiur Rahaman
+74,Naoda,LF,HABIBUR RAHAMAN MONDAL
+75,Domkal,AITC,Humayun Kabir (Ex IPS)
+75,Domkal,BJP,???? ??? ????? ??? (Shri Nanda Dulal Pal)
+75,Domkal,INC,Smt. Sahnaz Begum
+75,Domkal,LF,MOSTAFIJUR RAHAMAN
+76,Jalangi,AITC,Babar Ali
+76,Jalangi,BJP,???? ??? ????? ????? (Shri Naba Kumar Sarkar)
+76,Jalangi,INC,Abdul Rezzak Molla
+76,Jalangi,LF,IANUS ALI SARKAR
+77,Karimpur,AITC,Soham Chakraborty
+77,Karimpur,BJP,???? ??????????? ??? (Shri Samarendranath Ghosh)
+77,Karimpur,INC,Smt. Pooja Roy Chowdhury
+77,Karimpur,LF,PRAVAS MAJUMDER (SC)
+78,Tehatta,AITC,Dilip Poddar
+78,Tehatta,BJP,???? ?????? ?????? (Shri Subrata Kabiraj)
+78,Tehatta,INC,Jyotirmoy Sarkar
+78,Tehatta,LF,SUBODH BISWAS (SC)
+79,Palashipara,AITC,Rukbanur Rahman
+79,Palashipara,BJP,??????? ????? ????? (Smt. Anima Dutta)
+79,Palashipara,INC,Hamidul Haque
+80,Kaliganj,AITC,Alifa Ahmed
+80,Kaliganj,BJP,???? ???? ??? (Shri Bapan Ghosh)
+80,Kaliganj,INC,Kabil Uddin Shaikh
+80,Kaliganj,LF,SABINA YASMIN
+81,Nakashipara,AITC,Kallol Kha
+81,Nakashipara,BJP,???? ?????? ?? (Shri Shantanu Dey)
+81,Nakashipara,INC,Golam Kibria Mandal
+82,Chapra,AITC,Jeber Sekh
+82,Chapra,BJP,???? ???? ????? (Shri Saikat sarkar)
+82,Chapra,INC,Rahidul Mandal
+83,Krishnanagar Uttar,AITC,Avinabha Bhattacharya
+83,Krishnanagar Uttar,BJP,???? ??????? ?????? (Shri Taraknath Chatterjee)
+83,Krishnanagar Uttar,INC,Arghya Gon
+83,Krishnanagar Uttar,LF,ADWAITA BISWAS
+84,Nabadwip,AITC,Pundarikakshya Saha
+84,Nabadwip,BJP,???? ?????? ???? ???????? (Shri Sruti Sekhar Goswami)
+84,Nabadwip,INC,Samir Saha
+84,Nabadwip,LF,SWARNENDU SINHA
+85,Krishnanagar Dakshin,AITC,Ujjwal Biswas
+85,Krishnanagar Dakshin,BJP,???? ???? ??? (Shri Sadhan Ghosh)
+85,Krishnanagar Dakshin,INC,Abdur Rahim Shaikh
+86,Santipur,AITC,Braja Kishore Goswami
+86,Santipur,BJP,???? ????? ??? (Shri Swapan Das)
+86,Santipur,INC,Alok Chatterjee
+86,Santipur,LF,SOUMEN MAHATO
+87,Ranaghat Uttar Paschim,AITC,Tapas Ghosh
+87,Ranaghat Uttar Paschim,BJP,???? ?????????? ?????? (Shri Parthasarathi Chatterjee)
+87,Ranaghat Uttar Paschim,INC,Naba Kumar Mondal
+88,Krishnaganj (SC),AITC,Samir Kumar Poddar
+88,Krishnaganj (SC),BJP,???? ??????? ??????? (Shri Sukanta Biswas)
+88,Krishnaganj (SC),INC,Sankar Kumar Sarkar
+88,Krishnaganj (SC),LF,ARCHANA BISWAS
+89,Ranaghat Uttar Purba (SC),AITC,Barnali Dey Roy
+89,Ranaghat Uttar Purba (SC),BJP,???? ???? ??????? (Shri Ashim Biswas)
+89,Ranaghat Uttar Purba (SC),INC,Nitya Gopal Mondal
+90,Ranaghat Dakshin (SC),AITC,Dr. Sougata Kumar Burman
+90,Ranaghat Dakshin (SC),BJP,??. ???? ????? ??????? (Dr. Ashim Kumar Biswas)
+90,Ranaghat Dakshin (SC),INC,Smt. Rita Pal Das
+90,Ranaghat Dakshin (SC),LF,ARINDAM BISWAS
+91,Chakdaha,AITC,Subhankar Singha (Jishu)
+91,Chakdaha,BJP,???? ????? ????? ??? (Shri Bankim Chandra Ghosh)
+91,Chakdaha,INC,Malay Saha
+91,Chakdaha,LF,NARAYAN DASGUPTA
+92,Kalyani (SC),AITC,Dr. Atindra Nath Mondal
+92,Kalyani (SC),BJP,???? ????? ??????? (Shri Anupam Biswas)
+92,Kalyani (SC),INC,Asimananda Majumder
+92,Kalyani (SC),LF,SABUJ DAS
+93,Haringhata (SC),AITC,Dr. Rajib Biswas
+93,Haringhata (SC),BJP,???? ???? ????? ????? (Shri Asim Kumar Sarkar)
+93,Haringhata (SC),INC,Smt. Himanti Das
+94,Bagdah (SC),AITC,Madhuparna Thakur
+94,Bagdah (SC),BJP,??????? ???? ????? (Smt. Soma Thakur)
+94,Bagdah (SC),INC,Prabir Kirtania
+94,Bagdah (SC),LF,GOUR BISWAS
+95,Bangaon Uttar (SC),AITC,Biswajit Das
+95,Bangaon Uttar (SC),BJP,???? ???? ????????? (Shri Ashok Kirtania)
+95,Bangaon Uttar (SC),INC,Nilanjan Saha
+95,Bangaon Uttar (SC),LF,PIJUSH SAHA
+96,Bangaon Dakshin (SC),AITC,Rituparna Addhya
+96,Bangaon Dakshin (SC),BJP,???? ????? ??????? (Shri Swapan Majumder)
+96,Bangaon Dakshin (SC),INC,Kishor Biswas
+96,Bangaon Dakshin (SC),LF,ASISH SARKAR
+97,Gaighata (SC),AITC,Narottam Biswas
+97,Gaighata (SC),BJP,???? ?????? ????? (Shri Subrata Thakur)
+97,Gaighata (SC),INC,Anil Kumar Pandey
+97,Gaighata (SC),LF,DR. SAJAL BISWAS
+98,Swarupnagar (SC),AITC,Bina Mondal
+98,Swarupnagar (SC),BJP,???? ???? ???? (Shri Tarak Saha)
+98,Swarupnagar (SC),INC,Ritesh Mondal
+98,Swarupnagar (SC),LF,BISWAJIT MONDAL
+99,Baduria,AITC,Burhanul Mokaddin (Liton)
+99,Baduria,BJP,???? ?????? ????? (Shri Sukriti ?????)
+100,Habra,AITC,Jyotipriya Mallick (Balu)
+100,Habra,BJP,???? ?????? ???? (Shri Debdas Mandal)
+100,Habra,LF,RIJI NANDAN BISWAS
+101,Ashoknagar,AITC,Narayan Goswami
+101,Ashoknagar,BJP,??. ????? ???? (Dr. Somoy Hira)
+102,Amdanga,AITC,Peerzada Kasem Siddiqui
+102,Amdanga,BJP,???? ?????? ?? (Shri Arindam Dey)
+102,Amdanga,INC,Gopal Ghosh
+103,Bijpur,AITC,Subodh Adhikary
+103,Bijpur,BJP,???? ???????? ??? (Shri Sudipta Das)
+103,Bijpur,INC,Sibabrata Guha Roy
+103,Bijpur,LF,DEBASISH RAKSHIT
+104,Naihati,AITC,Sanat Dey
+104,Naihati,BJP,???? ??????? ?????? (Shri Sumitro Chaterjee)
+104,Naihati,INC,Pradip Kumar Kundu
+105,Bhatpara,AITC,Amit Gupta
+105,Bhatpara,BJP,???? ??? ????? ???? (Shri Pawan Kumar Singh)
+105,Bhatpara,INC,Dharmendra Shaw
+106,Jagatdal,AITC,Somenath Shyam Ichini
+106,Jagatdal,BJP,"??. ????? ?????, ?????? (Dr. Rajesh Kumar, IPS)"
+106,Jagatdal,INC,Smt. Mandira Chakraborty
+106,Jagatdal,LF,PARVEJ AHMAD KHAN
+107,Noapara,AITC,Trinankur Bhattacharya
+107,Noapara,BJP,???? ?????? ???? (Shri Arjun Singh)
+107,Noapara,INC,Asoke Bhattacharya (Raja)
+107,Noapara,LF,GARGI CHATTERJEE
+108,Barrackpore,AITC,Raju Chakrabarty (Raj)
+108,Barrackpore,BJP,???? ?????? ????? (Shri Koustav Bagchi)
+108,Barrackpore,INC,Sambhu Das
+108,Barrackpore,LF,PROF. SUMAN BANDYOPADHYAY
+109,Khardaha,AITC,Devdeep Purohit
+109,Khardaha,BJP,??. ?????? ????????? (Dr. Kalyan Chakraborty)
+109,Khardaha,INC,Joydev Ghosh
+109,Khardaha,LF,DEBOJYOTI DAS
+110,Dum Dum Uttar,AITC,Chandrima Bhattacharya
+110,Dum Dum Uttar,BJP,???? ???? ?????? (Shri Saurav Sikdar)
+110,Dum Dum Uttar,INC,Dhananjoy Moitra
+110,Dum Dum Uttar,LF,DIPSITA DHAR
+111,Panihati,AITC,Tirthankar Ghosh (Puchi)
+111,Panihati,BJP,??????? ????? ?????? (Smt. Ratna Debnath)
+111,Panihati,INC,Subhashis Bhattacharya
+111,Panihati,LF,KALATAN DASGUPTA
+112,Kamarhati,AITC,Madan Mitra
+112,Kamarhati,BJP,???? ???? ????? (Shri Arup Choudhury)
+112,Kamarhati,INC,Kallol Mukherjee
+112,Kamarhati,LF,MANAS MUKHERJEE
+113,Baranagar,AITC,Sayantika Banerjee
+113,Baranagar,BJP,???? ??? ??? (Shri Sajal ???)
+113,Baranagar,INC,Smt. Kalyani Chakraborty
+113,Baranagar,LF,SAYANDIP MITRA
+114,Dum Dum,AITC,Bratya Basu
+114,Dum Dum,BJP,??. ?????? ????? (Adv. Arijit Bakshi)
+114,Dum Dum,INC,Smt. Susmita Biswas
+114,Dum Dum,LF,MAYUKH BISWAS
+115,Rajarhat Newtown,AITC,Tapash Chatterjee
+115,Rajarhat Newtown,BJP,???? ????? ???????? (Shri Piyush Kanodia)
+115,Rajarhat Newtown,INC,SK Nijamuddin
+115,Rajarhat Newtown,LF,SAPTARSHI DEB
+116,Bidhannagar,AITC,Sujit Bose
+116,Bidhannagar,BJP,??. ?????? ??????????? (Dr. Sharadwat Mukhopadhyay)
+116,Bidhannagar,INC,Ranajit Mukherjee
+116,Bidhannagar,LF,ADV. SOUMYAJIT RAHA
+117,Rajarhat Gopalpur,AITC,Aditi Munshi
+117,Rajarhat Gopalpur,BJP,???? ???? ?????? ?????? (Shri Tarun Jyoti Tiwari)
+117,Rajarhat Gopalpur,INC,Partha Bhaumik
+117,Rajarhat Gopalpur,LF,SUBHAJIT DASGUPTA
+118,Madhyamgram,AITC,Rathin Ghosh
+118,Madhyamgram,BJP,???? ?????????? ???? ?????? (Shri Anindya Raju Banerjee)
+118,Madhyamgram,INC,Ananta Roy
+119,Barasat,AITC,Sabyasachi Dutta
+119,Barasat,BJP,???? ???? ?????? (Shri Sankar Chatterjee)
+119,Barasat,INC,Tarak Mukherjee
+119,Barasat,LF,HEMANTA DAS
+120,Deganga,AITC,Anisur Rahaman (Bidesh)
+120,Deganga,BJP,???? ???? ????? ??? (Shri Tarun Kanti Ghosh)
+120,Deganga,INC,Miaraj Baidya
+121,Haroa,AITC,Md. Mufti Abdul Matin
+121,Haroa,BJP,???? ?????? ???? (Shri Bhaskar Mondal)
+121,Haroa,INC,Md Rabiul Molla
+122,Minakhan (SC),AITC,Usha Rani Mondal
+122,Minakhan (SC),BJP,???? ???????? ?????? (Shri Rudrendra Patra)
+122,Minakhan (SC),INC,Smt. Barnali Naskar
+123,Sandeshkhali (ST),AITC,Jharna Sardar
+123,Sandeshkhali (ST),BJP,???? ??? ????? (Shri Sanat Sardar)
+123,Sandeshkhali (ST),INC,Judhisthir Bhumiji
+124,Basirhat Dakshin,AITC,Surajit Mitra (Badal)
+124,Basirhat Dakshin,BJP,??. ???? (?????) ?????? (Dr. Suraj (Shourya) Banerjee)
+124,Basirhat Dakshin,INC,Abu Ishak Gazi (Babu)
+124,Basirhat Dakshin,LF,AINUL AREFIN (RAJU AHAMED)
+125,Basirhat Uttar,AITC,Md Tauseef Rehman
+125,Basirhat Uttar,BJP,???? ????? ????????? (Shri Kaushik Sidharth)
+125,Basirhat Uttar,INC,Musa Haque Mondal
+126,Hingalganj (SC),AITC,Ananda Sarkar
+126,Hingalganj (SC),BJP,??????? ???? ?????? (Smt. Rekha Patra)
+126,Hingalganj (SC),INC,Biswajit Roy
+126,Hingalganj (SC),LF,SOUMEN HALDER
+127,Gosaba (SC),AITC,Subrata Mondal
+127,Gosaba (SC),BJP,???? ??????? ????? (Shri Vikarno Naskar)
+127,Gosaba (SC),INC,Bhupal Chandra Das
+127,Gosaba (SC),LF,ADITYA JOTDAR
+128,Basanti (SC),AITC,Nilima Bishal Mistry
+128,Basanti (SC),BJP,???? ????? ????? (Shri Bikash Sardar)
+128,Basanti (SC),INC,Gopinath Naiya
+129,Kultali (SC),AITC,Ganesh Chandra Mondal
+129,Kultali (SC),BJP,?????? ????? ????? (Sushri Madhabi Mahalder)
+129,Kultali (SC),INC,Smt. Rupa Halder
+129,Kultali (SC),LF,RAMSANKAR HALDER
+130,Patharpratima,AITC,Samir Kumar Jana
+130,Patharpratima,BJP,???? ???? ????? ????? (Shri Asit Kumar Haldar)
+130,Patharpratima,INC,Subhrangshu Nayek
+130,Patharpratima,LF,SATYA RANJAN DAS
+131,Kakdwip,AITC,Manturam Pakhira
+131,Kakdwip,BJP,???? ??????? ??? (Shri Deepankar Jana)
+131,Kakdwip,INC,Nasiruddin Ahamed
+131,Kakdwip,LF,NARAYAN DAS
+132,Sagar,AITC,Bankim Chandra Hazra
+132,Sagar,BJP,???? ?????? ???? (Shri Sumanta Mandal)
+132,Sagar,INC,Prasanta Khutia
+132,Sagar,LF,SWAPAN SINGHA
+133,Kulpi,AITC,Barnali Dhara
+133,Kulpi,BJP,???? ???? ????? (Shri Abni Naskar)
+133,Kulpi,INC,Kutub Uddin Molla
+134,Raidighi,AITC,Tapas Mondal
+134,Raidighi,BJP,???? ???? ???? (Shri Palash Rana)
+134,Raidighi,INC,Asish Kumar Mandal
+134,Raidighi,LF,SAMYA GANGULY
+135,Mandirbazar (SC),AITC,Joydeb Halder
+135,Mandirbazar (SC),BJP,??????? ??????? ???? (Smt. Mallika Paik)
+135,Mandirbazar (SC),INC,Prof. Dr. Kaushik Baidya
+136,Jaynagar (SC),AITC,Biswanath Das
+136,Jaynagar (SC),BJP,???? ???? ????? (Shri Alok Halder)
+136,Jaynagar (SC),INC,Tapas Baidya
+136,Jaynagar (SC),LF,APURBA PRAMANIK
+137,Baruipur Purba (SC),AITC,Bivas Sardar
+137,Baruipur Purba (SC),BJP,??????? ?????? ????? (Smt. Tumpa Sardar)
+137,Baruipur Purba (SC),INC,Pratap Chandra Mondal
+137,Baruipur Purba (SC),LF,SWAPAN NASKAR
+138,Canning Paschim (SC),AITC,Paresh Ram Das
+138,Canning Paschim (SC),BJP,???? ??????? ????? (Shri Prasanta Bayen)
+138,Canning Paschim (SC),INC,Haran Chandra Mistry
+139,Canning Purba,AITC,Md. Baharul Islam
+139,Canning Purba,BJP,???? ???? ???? (Shri Ashim Sapui)
+139,Canning Purba,INC,Sabir Ali Sardar
+140,Baruipur Paschim,AITC,Biman Banerjee
+140,Baruipur Paschim,BJP,???? ???????? ??? (Shri Biswajit Paul)
+140,Baruipur Paschim,INC,Asitlal Nag
+140,Baruipur Paschim,LF,LAHEK ALI
+141,Magrahat Purba (SC),AITC,Sharmistha Purkait
+141,Magrahat Purba (SC),BJP,???? ????? ????? ???? (Shri Uttam Kumar Banik)
+141,Magrahat Purba (SC),INC,Dr. Atanu Halder
+141,Magrahat Purba (SC),LF,CHANDAN SAHA
+142,Magrahat Paschim,AITC,Shamim Ahmed
+142,Magrahat Paschim,BJP,???? ??? ????? ??? (Shri Gour Sundar Ghosh)
+142,Magrahat Paschim,INC,Abdul Majid Halder
+143,Diamond Harbour,AITC,Pannalal Halder
+143,Diamond Harbour,BJP,???? ???? ????? ????? (Shri Dipak Kumar Halder)
+143,Diamond Harbour,INC,Goutam Bhattacharya
+143,Diamond Harbour,LF,SAMARENDRA NATH NAIYA
+144,Falta,AITC,Jahangir Khan
+144,Falta,BJP,???? ???????? ????? (Shri Debangshu Panda)
+144,Falta,INC,Abdur Rajjak Molla
+145,Satgachia,AITC,Somashree Betal
+145,Satgachia,BJP,???? ????????? ????? (Shri Agniswar Naskar)
+145,Satgachia,INC,Pravash Ghosh
+145,Satgachia,LF,GAUTAM PAL
+146,Bishnupur (SC),AITC,Dilip Mondal
+146,Bishnupur (SC),BJP,???? ?????? ????? (Shri Abhijit Sardar)
+146,Bishnupur (SC),INC,Arghya Naskar
+146,Bishnupur (SC),LF,SHYAMAL DAL
+147,Sonarpur Dakshin,AITC,Arundhuti Maitra (Lovely)
+147,Sonarpur Dakshin,BJP,??????? ???? ??????? (Smt. Roopa Ganguly)
+147,Sonarpur Dakshin,INC,Smt. Subrata Datta
+147,Sonarpur Dakshin,LF,PARAMITA DASGUPTA
+148,Bhangar,AITC,Saokat Molla
+148,Bhangar,BJP,???? ????? ???? (Shri Jayanta Gayen)
+148,Bhangar,INC,Mahabubul Islam
+149,Kasba,AITC,Javed Ahmed Khan
+149,Kasba,BJP,???? ????? ?????? (Shri Sandeep Banerjee)
+149,Kasba,INC,Md. Hasim Zeshan Ahmad
+149,Kasba,LF,DIPU DAS
+150,Jadavpur,AITC,Debabrata Majumdar
+150,Jadavpur,BJP,??????? ?????? ??????? (Smt. Sarbori Mukherjee)
+150,Jadavpur,INC,Smt. Shyamali Mandal
+150,Jadavpur,LF,BIKASH RANJAN BHATTACHARYA
+151,Sonarpur Uttar,AITC,Firdousi Begum
+151,Sonarpur Uttar,BJP,???? ??????? ?? (Shri Debashish Dhar)
+151,Sonarpur Uttar,INC,Dr. Jagannath Kumir
+151,Sonarpur Uttar,LF,MONALISA SINHA
+152,Tollyganj,AITC,Aroop Biswas
+152,Tollyganj,BJP,??????? ?????? (??) ??????? (Smt. Papiya (Dey) Adhikari)
+152,Tollyganj,INC,Manas Sinha Roy
+152,Tollyganj,LF,PROF. PARTHA PRATIM BISWAS
+153,Behala Purba,AITC,Subhasish Chakraborty
+153,Behala Purba,BJP,???? ???? ?????? (Shri Shankar Sikdar)
+153,Behala Purba,INC,Abhijit Raha
+153,Behala Purba,LF,DR. NILOY MAJUMDER
+154,Behala Paschim,AITC,Ratna Chatterjee
+154,Behala Paschim,BJP,??. ???????? ??? (Dr. Indranil Khan)
+154,Behala Paschim,INC,Saibal Roy
+154,Behala Paschim,LF,NIHAR BHAKTA
+155,Maheshtala,AITC,Subhasis Das
+155,Maheshtala,BJP,???? ????? ????? (Shri Tamanath Bhowmik)
+155,Maheshtala,INC,Haji Abdul Hannan
+155,Maheshtala,LF,ADV. SAYAN BANERJEE
+156,Budge Budge,AITC,Ashok Kumar Deb
+156,Budge Budge,BJP,??. ???? ????? ???? (Dr. Tarun Kumar Adak)
+156,Budge Budge,INC,Mujibar Rahaman Kayal
+157,Metiabruz,AITC,Abdul Khaleque Molla
+157,Metiabruz,BJP,???? ??? ?????? ???? (Shri Veer Bahadur Singh)
+157,Metiabruz,INC,Md. Mukhtar
+157,Metiabruz,LF,ADV. MONIRUL ISLAM
+158,Kolkata Port,AITC,Firhad Hakim
+158,Kolkata Port,BJP,???? ????? ???? (Shri Rakesh Singh)
+158,Kolkata Port,INC,Aquib Gulzar
+158,Kolkata Port,LF,FAIYAZ KHAN
+159,Bhabanipur,AITC,Mamata Banerjee
+159,Bhabanipur,BJP,???? ??????? ??????? (Shri Suvendu Adhikari)
+159,Bhabanipur,INC,Pradip Prasad
+159,Bhabanipur,LF,ADV. SRIJEEB BISWAS
+160,Rashbehari,AITC,Debasish Kumar
+160,Rashbehari,BJP,???? ????? ??? ?????? (Shri Swapan Das Gupta)
+160,Rashbehari,INC,Ashutosh Chatterjee
+161,Ballygunge,AITC,Sovandeb Chattopadhyay
+161,Ballygunge,BJP,??. ?????? (Dr. Shatrupa)
+161,Ballygunge,INC,Rohan Mitra
+161,Ballygunge,LF,AFRIN BEGAM (SILPI)
+162,Chowrangee,AITC,Nayna Bandopadhyay
+162,Chowrangee,BJP,???? ????? ???? (Shri Santosh Pathak)
+162,Chowrangee,INC,Manash Sarkar
+162,Chowrangee,LF,SANJOY BASU
+163,Entally,AITC,Sandipan Saha
+163,Entally,BJP,??????? ???????? ???????? (Smt. Priyanka Tibrewal)
+163,Entally,INC,Kashif Reza
+164,Beleghata,AITC,Kunal Ghosh
+164,Beleghata,BJP,??. ????? ????? (Dr. Partha Choudhary)
+164,Beleghata,INC,Smt. Shahina Javed
+164,Beleghata,LF,PARAMITA ROY
+165,Jorasanko,AITC,Vijay Upadhayay
+165,Jorasanko,BJP,???? ???? ??? (Shri Vijay Ojha)
+165,Jorasanko,INC,Deepak Singh
+165,Jorasanko,LF,BHARAT RAM TIWARI
+166,Shyampukur,AITC,Dr. Shashi Panja
+166,Shyampukur,BJP,??????? ???????? ????????? (Smt. Poornima Chakraborty)
+166,Shyampukur,INC,Purna Ghosh
+167,Maniktala,AITC,Shrreya Pandey
+167,Maniktala,BJP,???? ???? ??? (Shri Tapas Roy)
+167,Maniktala,INC,Suman Roy Chowdhury
+167,Maniktala,LF,MOUSUMI GHOSH
+168,Kashipur Belgachhia,AITC,Atin Ghosh
+168,Kashipur Belgachhia,BJP,???? ????? ?????? (Shri Ritesh Tiwari)
+168,Kashipur Belgachhia,INC,Tarak Pal
+168,Kashipur Belgachhia,LF,RAJINDER GUPTA
+169,Bally,AITC,Kailash Mishra
+169,Bally,BJP,???? ???? ???? (Shri Sanjay Singh)
+169,Bally,INC,Smt. Priyanka Choudhury
+169,Bally,LF,SANKAR MOITRA
+170,Howrah Uttar,AITC,Goutam Chowdhury
+170,Howrah Uttar,BJP,???? ???? ??? (Shri Umesh Rai)
+170,Howrah Uttar,INC,Om Prakash Jaiswal
+170,Howrah Uttar,LF,PROF. GAUTAM ROY
+171,Howrah Madhya,AITC,Arup Roy
+171,Howrah Madhya,BJP,???? ?????? ???? (Shri Biplab Mandal)
+171,Howrah Madhya,INC,Smt. Aparna Bose
+171,Howrah Madhya,LF,ADV. IMTEAZ AHMED
+172,Shibpur,AITC,Dr Rana Chatterjee
+172,Shibpur,BJP,???? ???????? ??? (Shri Rudranil Ghosh)
+172,Shibpur,INC,Smt. Shrabanti Singh
+172,Shibpur,LF,DR. JAGANNATH BHATTACHARYA
+173,Howrah Dakshin,AITC,Nandita Choudhary
+173,Howrah Dakshin,BJP,???? ?????? ???? (Shri Shyamal Hati)
+173,Howrah Dakshin,INC,Smt. Deepsikha Bhowmick
+173,Howrah Dakshin,LF,DR. ABHIJIT BANDYOPADHYAY
+174,Sankrail (SC),AITC,Priya Paul
+174,Sankrail (SC),BJP,??????? ?????? ???? (Smt. Barnali Dhali)
+174,Sankrail (SC),INC,Bechu Ram Malik
+174,Sankrail (SC),LF,SAMIR MALICK
+175,Panchla,AITC,Gulshan Mullick
+175,Panchla,BJP,???? ???? ????? ??? (Shri Ranjan Kumar Paul)
+175,Panchla,INC,Rahul Pandey
+175,Panchla,LF,FARID MOLLA
+176,Uluberia Purba,AITC,Ritabrata Banerjee
+176,Uluberia Purba,BJP,???? ??????????? ?????? (Shri Rudraprasad Banerjee)
+176,Uluberia Purba,INC,Alam Deiyan SK
+177,Uluberia Uttar (SC),AITC,Bimal Kumar Das
+177,Uluberia Uttar (SC),BJP,???? ???? ???? (Shri Chiran Bera)
+177,Uluberia Uttar (SC),INC,Smt. Kalyani Haldar
+177,Uluberia Uttar (SC),LF,ASHOK DOLUI
+178,Uluberia Dakshin,AITC,Pulak Roy
+178,Uluberia Dakshin,BJP,?????? ???????? ???? ?????? (Swami Mangalanand Puri Maharaj)
+178,Uluberia Dakshin,INC,Intaz Ali Shah
+178,Uluberia Dakshin,LF,AMIRUL ISLAM KHAN
+179,Shyampur,AITC,Nadebasi Jana
+179,Shyampur,BJP,??. ??????? ???????????? (Dr. Hiranmoy Chattopadhyay)
+179,Shyampur,INC,SK. Manjur Alam
+179,Shyampur,LF,ASIT BARAN SAU
+180,Bagnan,AITC,Arunava Sen
+180,Bagnan,BJP,???? ??????????? ???? (Shri Premangshu Rana)
+180,Bagnan,INC,Sk. Hafizur Rahaman
+181,Amta,AITC,Sukanta Paul
+181,Amta,BJP,???? ???? ????? (Shri Amit Samanta)
+181,Amta,INC,Tapan Das
+181,Amta,LF,JOSHIMUDDIN MALLICK
+182,Udaynarayanpur,AITC,Samir Kumar Panja
+182,Udaynarayanpur,BJP,???? ??????? ????? (Shri Prabhakar Pandit)
+182,Udaynarayanpur,INC,Asit Bakuly
+182,Udaynarayanpur,LF,SHASTHI MAJI
+183,Jagatballavpur,AITC,Subir Chatterjee
+183,Jagatballavpur,BJP,???? ????? ??? (Shri Anupam Ghosh)
+183,Jagatballavpur,INC,Koushik Roy
+184,Domjur,AITC,Tapas Maity
+184,Domjur,BJP,???? ?????? ????? (Shri Gobinda Hazra)
+184,Domjur,INC,Aloke Koley
+184,Domjur,LF,DULU DAS
+185,Uttarpara,AITC,Sirsanya Bandopadhyay
+185,Uttarpara,BJP,???? ??????? ????????? (Shri Dipanjan Chakraborty)
+185,Uttarpara,INC,Subrata Mukherjee
+185,Uttarpara,LF,MINAKSHI MUKHERJEE
+186,Sreerampur,AITC,Tanmoy Ghosh
+186,Sreerampur,BJP,???? ?????? ?????????? (Shri Bhaskar Bhattacharya)
+186,Sreerampur,LF,NABANITA CHAKRABORTY
+187,Champdani,AITC,Arindam Guin
+187,Champdani,BJP,???? ????? ???? (Shri Dilip Singh)
+187,Champdani,INC,Pritam Ghosh
+187,Champdani,LF,ADV. CHANDRANATH BANERJEE
+188,Singur,AITC,Becharam Manna
+188,Singur,BJP,??. ???? ????? ??? (Dr. Arup Kumar Das)
+188,Singur,INC,Barun Kumar Malik
+188,Singur,LF,DEBASISH CHATTERJEE
+189,Chandannagar,AITC,Indranil Sen
+189,Chandannagar,BJP,???? ??????? ????? ???? (Shri Deepanjan Kumar Guha)
+189,Chandannagar,INC,Ratan Kumar Goldar
+189,Chandannagar,LF,MANISH PANDA
+190,Chunchura,AITC,Debangshu Bhattacharya
+190,Chunchura,BJP,???? ????? ??? (Shri Subir Nag)
+190,Chunchura,INC,Moinul Haque
+190,Chunchura,LF,SUNIL SAHA
+191,Balagarh (SC),AITC,Ranjan Dhara
+191,Balagarh (SC),BJP,??????? ????? ????? (Smt. Sumana Sarkar)
+191,Balagarh (SC),INC,Ashok Biswas
+191,Balagarh (SC),LF,BIKASH GOLDAR
+192,Pandua,AITC,Samir Chakraborty (Bua)
+192,Pandua,BJP,???? ????? ????? ??????? (Shri Tushar Kumar Majumdar)
+192,Pandua,INC,Sanatan Mandi
+192,Pandua,LF,AMJAD HOSSAIN
+193,Saptagram,AITC,Bidesh Bose
+193,Saptagram,BJP,???? ?????? ??? (Shri Swaraj Ghosh)
+193,Saptagram,INC,Sougata Ghosh
+193,Saptagram,LF,ANIRBAN SARKAR
+194,Chanditala,AITC,Swati Khandoker
+194,Chanditala,BJP,???? ??????? ??????? (Shri Debasish Mukherjee)
+194,Chanditala,INC,Sk Abu Abbasuddin
+194,Chanditala,LF,SK. ASIF ALI
+195,Jangipara,AITC,Snehasis Chakraborty
+195,Jangipara,BJP,???? ????????? ??? (Shri Prasenjit Bag)
+195,Jangipara,INC,Subhashis Datta
+195,Jangipara,LF,SUDIPTA SARKAR
+196,Haripal,AITC,Dr. Karabi Manna
+196,Haripal,BJP,??????? ??????? ??? (Smt. Madhumita Ghosh)
+196,Haripal,INC,Saif Azad
+197,Dhanekhali (SC),AITC,Asima Patra
+197,Dhanekhali (SC),BJP,??????? ??????? ??? (Smt. Barnali Das)
+197,Dhanekhali (SC),INC,Smt. Jyoti Kumari Das
+198,Tarakeswar,AITC,Ramendu Singha Roy
+198,Tarakeswar,BJP,???? ???? ??? (Shri Santu Pan)
+198,Tarakeswar,INC,Bhabani Prasad Mondal
+198,Tarakeswar,LF,ABESH KHAMRUI
+199,Pursurah,AITC,Partha Hazari
+199,Pursurah,BJP,???? ????? ??? (Shri Biman Ghosh)
+199,Pursurah,INC,Sk. Habibar Rahaman
+199,Pursurah,LF,SANDIP KUMAR SAMANTA
+200,Arambag (SC),AITC,Mita Bag
+200,Arambag (SC),BJP,???? ?????? ??? (Shri Hemanta Bag)
+200,Arambag (SC),INC,Sushil Kumar Santra
+200,Arambag (SC),LF,BITHIKA PANDIT
+201,Goghat (SC),AITC,Dr. Nirmal Maji
+201,Goghat (SC),BJP,???? ??????? ???? (Shri Prashanta Dighar)
+201,Goghat (SC),INC,Haradhan Santra
+201,Goghat (SC),LF,MUKTARAM DHAURE
+202,Khanakul,AITC,Palash Roy
+202,Khanakul,BJP,???? ?????? ??? (Shri Susanta Ghosh)
+202,Khanakul,INC,Pradip Kumar Kar
+203,Tamluk,AITC,Dipendra Narayan Roy
+203,Tamluk,BJP,??. ??? ?????? ???? (Dr. Hare Krishna Bera)
+203,Tamluk,INC,Haradhan Mazumder
+203,Tamluk,LF,NABENDU GHARA
+204,Panskura Purba,AITC,Asim Kumar Maji
+204,Panskura Purba,BJP,???? ?????? ???? (Shri Subrata Maity)
+204,Panskura Purba,INC,Dipak Patra
+204,Panskura Purba,LF,IBRAHIM ALI
+205,Panskura Paschim,AITC,Siraj Khan
+205,Panskura Paschim,BJP,???? ????? ??????? (Shri Sintu Senapati)
+205,Panskura Paschim,INC,Kalyan Roy
+205,Panskura Paschim,LF,NIRANJAN SIHI
+206,Moyna,AITC,Chandan Mondal
+206,Moyna,BJP,???? ???? ????? (Shri Ashok Dinda)
+206,Moyna,INC,Nimai Barman
+206,Moyna,LF,SWAPAN BARMAN
+207,Nandakumar,AITC,Sukumar Dey
+207,Nandakumar,BJP,???? ?????? ????? (Shri Nirmal Khanra)
+207,Nandakumar,INC,Sekh Matin
+208,Mahisadal,AITC,Tilak Kumar Chakraborty
+208,Mahisadal,BJP,???? ????? ????? (Shri Subhash Panja)
+208,Mahisadal,INC,Smt. Kajal Nayek Das
+209,Haldia (SC),AITC,Tapasi Mandal
+209,Haldia (SC),BJP,???? ?????? ????? ????? (Shri Pradip Kumar Bijoli)
+209,Haldia (SC),INC,Abhimanyu Mandal
+209,Haldia (SC),LF,ASHOK PATRA
+210,Nandigram,AITC,Pabitra Kar
+210,Nandigram,BJP,???? ??????? ??????? (Shri Suvendu Adhikari)
+210,Nandigram,INC,SK Jariatul Hossain
+210,Nandigram,LF,SHANTI GIRI
+211,Chandipur,AITC,Uttam Barik
+211,Chandipur,BJP,??? ????? ????? ??? (Dr. Piyush Kanti Das)
+211,Chandipur,INC,SK Taslim Ahmed
+211,Chandipur,LF,RITA DAS
+212,Patashpur,AITC,Pijus Kanti Panda
+212,Patashpur,BJP,???? ??? ???? (Shri Tapan Maity)
+212,Patashpur,LF,SAIKAT GIRI
+213,Kanthi Uttar,AITC,Debasis Bhunia (Lalu)
+213,Kanthi Uttar,BJP,??????? ?????? ?????? (Smt. Sumita Sinha)
+213,Kanthi Uttar,INC,Subrata Mahapatra
+213,Kanthi Uttar,LF,SUTANU MAITY
+214,Bhagabanpur,AITC,Manab Kumar Porua
+214,Bhagabanpur,BJP,???? ?????? ????????? (Shri Santanu Pramanik)
+214,Bhagabanpur,INC,Biswajit Panigrahi
+215,Khejuri (SC),AITC,Rabin Chandra Mandal
+215,Khejuri (SC),BJP,???? ?????? ???? (Shri Subrata Paik)
+215,Khejuri (SC),INC,Asit Pramanik
+215,Khejuri (SC),LF,HIMANGSHU DAS
+216,Kanthi Dakshin,AITC,Tarun Kr Jana
+216,Kanthi Dakshin,BJP,???? ???? ????? ??? (Shri Arup Kumar Das)
+216,Kanthi Dakshin,INC,Sk. Masud Malik
+216,Kanthi Dakshin,LF,TEHARAN HOSSAIN
+217,Ramnagar,AITC,Akhil Giri
+217,Ramnagar,BJP,???? ????? ???? ???? (Shri Chandra Sekhar Mondal)
+217,Ramnagar,INC,Manas Kumar Dutta
+217,Ramnagar,LF,ASHOKE KUMAR MAITY
+218,Egra,AITC,Tarun Maity
+218,Egra,BJP,???? ????????? ??????? (Shri Dibendu Adhikari)
+218,Egra,INC,Anjan Kumar Pattnayak
+219,Dantan,AITC,Manik Maity
+219,Dantan,BJP,???? ???? ????? ??? (Shri Ajit Kumar Jana)
+219,Dantan,INC,Utpal Dutta
+219,Dantan,LF,SHYAMAL KANTI DAS PATTANAYEK
+220,Nayagram (ST),AITC,Dulal Murmu
+220,Nayagram (ST),BJP,???? ????? ?????? (Shri Amiya Kisku)
+220,Nayagram (ST),INC,Prasanta Murmu
+220,Nayagram (ST),LF,DR. PULIN BEHARI BASKE
+221,Gopiballavpur,AITC,Ajit Mahata
+221,Gopiballavpur,BJP,???? ????? ???? (Shri Rajesh Mahto)
+221,Gopiballavpur,INC,Sourav Ghosh
+221,Gopiballavpur,LF,BIKASH SARANGI
+222,Jhargram,AITC,Mangal Soren
+222,Jhargram,BJP,???? ??????????? ???? (Shri Lakshmikant Sahu)
+222,Jhargram,INC,Prasenjit Dey
+222,Jhargram,LF,ARJUN MAHATO
+223,Keshiary (ST),AITC,Ramjiban Mandi
+223,Keshiary (ST),BJP,???? ????? ???????? (Shri Bhadra Hembrem)
+223,Keshiary (ST),INC,Kaluchand Tudu
+223,Keshiary (ST),LF,MALINA MURMU
+224,Kharagpur Sadar,AITC,Pradip Sarkar
+224,Kharagpur Sadar,BJP,???? ????? ??? (Shri Dilip Ghosh)
+224,Kharagpur Sadar,INC,Dr. Smt. Papiya Chakraborty
+224,Kharagpur Sadar,LF,MADHUSUDAN ROY
+225,Narayangarh,AITC,Pratibha Rani Maity
+225,Narayangarh,BJP,???? ??? ?????? ???? (Shri Rama Prasad Giri)
+225,Narayangarh,INC,Sk Alam Hossain
+225,Narayangarh,LF,TAPAS SINHA
+226,Sabang,AITC,Manas Ranjan Bhunia
+226,Sabang,BJP,???? ??? ????? (Shri Amal Panda)
+226,Sabang,INC,Aloke Kumar Samui
+226,Sabang,LF,NAKUL CHANDRA BERA
+227,Pingla,AITC,Ajit Maity
+227,Pingla,BJP,??????? ??????? ????? (Smt. Swagata Manna)
+227,Pingla,INC,Sushanta Mandal
+227,Pingla,LF,ASHOKE SEN
+228,Kharagpur,AITC,Dinen Roy
+228,Kharagpur,BJP,???? ??? ???? (Shri Tapan Bhuya)
+228,Kharagpur,INC,Ujjal Mukherjee
+228,Kharagpur,LF,SK. SAHAJAHAN ALI
+229,Debra,AITC,Rajib Banerjee
+229,Debra,BJP,???? ??????? ?? (Shri Shubhashish Om)
+229,Debra,INC,Chittaranjan Jana
+229,Debra,LF,SUMIT ADHIKARY
+230,Daspur,AITC,Asis Hudait
+230,Daspur,BJP,???? ??? ????? (Shri Tapan Dutta)
+230,Daspur,INC,Kousik Goswami
+230,Daspur,LF,RANJIT PAL
+231,Ghatal (SC),AITC,Shyamali Sardar
+231,Ghatal (SC),BJP,???? ???? ???? (Shri Sital Kapat)
+231,Ghatal (SC),INC,Smt. Kaberi Dolui
+231,Ghatal (SC),LF,SHANTINATH SATIK
+232,Chandrakona (SC),AITC,Surjya Kanta Doloi
+232,Chandrakona (SC),BJP,???? ?????? ????? (Shri Sukanta Dolui)
+232,Chandrakona (SC),INC,Smt. Manika Middya
+233,Garbeta,AITC,Uttara Singha (Hazra)
+233,Garbeta,BJP,???? ?????? ????? (Shri Pradeep Lodha)
+233,Garbeta,INC,Siddhartha Bishoyee
+234,Salboni,AITC,Srikanta Mahata
+234,Salboni,BJP,???? ????? ???? (Shri Biman Mahto)
+234,Salboni,INC,Arup Mukherjee
+235,Keshpur (SC),AITC,Seuli Saha
+235,Keshpur (SC),BJP,???? ??????? ????? (Shri Suvendu Samanta)
+235,Keshpur (SC),INC,Kamal Kishore Khanna
+235,Keshpur (SC),LF,GURUPADA MONDAL
+236,Medinipur,AITC,Sujoy Hazra
+236,Medinipur,BJP,??. ???? ??????? (Dr. Sankar Guchhait)
+236,Medinipur,INC,Sambhunath Chattopadhyay
+236,Medinipur,LF,MONIKUNTAL KHAMRUI
+237,Binpur (ST),AITC,Birbaha Hansda
+237,Binpur (ST),BJP,??. ????? ???? (Dr. Pranat Tudu)
+237,Binpur (ST),INC,Smt. Golapi Soren
+237,Binpur (ST),LF,RABI SING SARDAR
+238,Bandwan (ST),AITC,Rajib Lochan Saren
+238,Bandwan (ST),BJP,???? ????? ?????? (Shri Labsen Baske)
+238,Bandwan (ST),INC,Siten Mandi
+238,Bandwan (ST),LF,RATHU SINGH SARDAR
+239,Balarampur,AITC,Shantiram Mahato
+239,Balarampur,BJP,???? ???? ???? (Shri Jaladhar Mahto)
+239,Balarampur,INC,Sukanta Mahato
+239,Balarampur,LF,NAMITA MAHATO
+240,Baghmundi,AITC,Sushanta Mahato
+240,Baghmundi,BJP,???? ?????? ???? (Shri Rahidas Mahato)
+240,Baghmundi,INC,Nepal Chandra Mahato
+240,Baghmundi,LF,PARIMAL KUMAR
+241,Joypur,AITC,Arjun Mahato
+241,Joypur,BJP,???? ???????? ???? (Shri Biswajit Mahato)
+241,Joypur,INC,Phani Bhushan Kumar
+241,Joypur,LF,DHIRENDRA NATH MAHATO
+242,Purulia,AITC,Sujoy Banerjee
+242,Purulia,BJP,???? ????? ????? ??????? (Shri Sudip Kumar Mukherjee)
+242,Purulia,INC,Dibyajyoti Prasad Singh Deo
+242,Purulia,LF,SAYANTAN GHOSH
+243,Manbazar (ST),AITC,Sandhya Rani Tudu
+243,Manbazar (ST),BJP,??????? ???? ?????? (Smt. Moyna Murmu)
+243,Manbazar (ST),INC,Smt. Sombari Mahali
+243,Manbazar (ST),LF,SONAMONI TUDU
+244,Kashipur,AITC,Soumen Beltharia
+244,Kashipur,BJP,???? ??????? ????? (Shri Kamalkanta Hansda)
+244,Kashipur,INC,Subhas Mahato
+244,Kashipur,LF,SULEKHA BAURI
+245,Para (SC),AITC,Manik Bauri
+245,Para (SC),BJP,???? ?????? ??? ????? (Shri Nadiar Chand Bauri)
+245,Para (SC),INC,Smt. Phalguni Bauri
+245,Para (SC),LF,ALOKE BAURI
+246,Raghunathpur (SC),AITC,Hazari Bauri
+246,Raghunathpur (SC),BJP,??????? ?????? ????? (Smt. Mamoni Bauri)
+246,Raghunathpur (SC),INC,Smt Sandhya Bauri
+246,Raghunathpur (SC),LF,GANESH BAURI
+247,Saltora (SC),AITC,Uttam Bauri
+247,Saltora (SC),BJP,??????? ????? ????? (Smt. Chandana Bauri)
+247,Saltora (SC),INC,Amar Kanti Mandal
+248,Chhatna,AITC,Swapan Kumar Mandal
+248,Chhatna,BJP,???? ?????????? ??????????? (Shri Satyanarayan Mukhopadhyay)
+248,Chhatna,INC,Partha Pratim Bose
+248,Chhatna,LF,RAJIB KAR
+249,Ranibandh (ST),AITC,Dr. Tanushree Hansda
+249,Ranibandh (ST),BJP,???? ????????? ???? (Shri Kshudiram Tudu)
+249,Ranibandh (ST),INC,Gurupada Sardar
+249,Ranibandh (ST),LF,DEBALINA HEMBRAM
+250,Raipur (ST),AITC,Thakur Moni Soren
+250,Raipur (ST),BJP,???? ??????? ???? ????? (Shri Kshetra Mohan Hansda)
+250,Raipur (ST),INC,Smt. Subhra Hembram Murmu
+250,Raipur (ST),LF,RAM MANDI
+251,Taldangra,AITC,Falguni Singhababu
+251,Taldangra,BJP,???? ????? ?????? (Shri Souvik Patra)
+251,Taldangra,INC,Nayan Das Chakraborty
+251,Taldangra,LF,DEBKANTI MOHANTI
+252,Bankura,AITC,Dr. Anup Mondal
+252,Bankura,BJP,???? ???????? ???? ???? (Shri Niladri Shekhar Dana)
+252,Bankura,INC,Arup Banerjee
+252,Bankura,LF,ABHAYANANDA MUKHERJEE
+253,Barjora,AITC,Goutam Mishra (Shyam)
+253,Barjora,BJP,???? ???????? ????? (Shri Billeshwar Singha)
+253,Barjora,INC,Vivekananda Keora
+253,Barjora,LF,SUJIT CHAKRABORTY
+254,Onda,AITC,Subrata Dutta (Gope)
+254,Onda,BJP,???? ?????? ???? (Shri Amarnath Shakha)
+254,Onda,INC,Paban Salampuria
+254,Onda,LF,ASIT SHARMA
+255,Bishnupur,AITC,Tanmoy Ghosh
+255,Bishnupur,BJP,??????? ?????? ?????? (Smt. Shukla Chatterjee)
+255,Bishnupur,INC,Ujjal Chandra
+256,Katulpur (SC),AITC,Harakali Pratihar
+256,Katulpur (SC),BJP,???? ??????????? ??????? (Shri Laxmikanta Majumdar)
+256,Katulpur (SC),INC,Smt. Sumitra Mallick Santra
+256,Katulpur (SC),LF,RAMCHANDRA ROY
+257,Indas (SC),AITC,Shyamali Roy Bagdi
+257,Indas (SC),BJP,???? ?????? ????? ???? (Shri Nirmal Kumar Dhara)
+257,Indas (SC),INC,Smt. Mou Mandal Samanta
+257,Indas (SC),LF,MONA MALLICK
+258,Sonamukhi (SC),AITC,Dr Kallol Saha
+258,Sonamukhi (SC),BJP,???? ?????? ????? (Shri Dibakar Gharami)
+258,Sonamukhi (SC),INC,Rahul Bauri
+258,Sonamukhi (SC),LF,AJIT ROY
+259,Khandaghosh (SC),AITC,Nabin Chandra Bag
+259,Khandaghosh (SC),BJP,???? ???? ???? (Shri Gautam Dhara)
+259,Khandaghosh (SC),INC,Arup Kumar Saha
+259,Khandaghosh (SC),LF,RAMJIBAN ROY
+260,Bardhaman Dakshin,AITC,Khokon Das
+260,Bardhaman Dakshin,BJP,??????? ?????? ??????? ?????? (Smt. Moumita Biswas Misra)
+260,Bardhaman Dakshin,INC,Gourab Samaddar
+260,Bardhaman Dakshin,LF,SUDIPTA GUPTA
+261,Raina (SC),AITC,Mandira Dalui
+261,Raina (SC),BJP,???? ????? ?????? (Shri Subhash Patra)
+261,Raina (SC),INC,Anik Saha
+261,Raina (SC),LF,SOMNATH MAJHI
+262,Jamalpur (SC),AITC,Bhootnath Mallick
+262,Jamalpur (SC),BJP,???? ???? ????? (Shri Arun Halder)
+262,Jamalpur (SC),INC,Rajib Saha
+262,Jamalpur (SC),LF,SAMAR HAZRA
+263,Monteswar,AITC,Siddiqullah Chowdhury
+263,Monteswar,BJP,???? ???? ???? (Shri Saikat Panja)
+263,Monteswar,INC,Jyotirmoy Mondal
+263,Monteswar,LF,ANUPAM GHOSH
+264,Kalna (SC),AITC,Deboprasad Bag
+264,Kalna (SC),BJP,???? ????????? ??????? (Shri Siddharth Majumdar)
+264,Kalna (SC),INC,Amal Kumar Saha
+264,Kalna (SC),LF,SARMISTHA NAG SAHA
+265,Memari,AITC,Rasbihari Halder
+265,Memari,BJP,???? ???? ???? (Shri Manav Guha)
+265,Memari,INC,Prabir Ganguly
+265,Memari,LF,KRISHANU BHDRA (SC)
+266,Bardhaman Uttar (SC),AITC,Nisith Kumar Malik
+266,Bardhaman Uttar (SC),BJP,???? ???? ??? (Shri Sanjay Das)
+266,Bardhaman Uttar (SC),INC,Sandip Das
+266,Bardhaman Uttar (SC),LF,MAMONI MONDAL ROY
+267,Bhatar,AITC,Shantanu Koner
+267,Bhatar,BJP,???? ????? ???? (Shri Soumen Karfa)
+267,Bhatar,INC,Dhurjati Bijoy Maji
+267,Bhatar,LF,HASINA KHATOON
+268,Purbasthali Dakshin,AITC,Swapan Debnath
+268,Purbasthali Dakshin,BJP,???? ?????????? ????? (Shri Prankrishna Tapadar)
+268,Purbasthali Dakshin,INC,Rabindranath Mondal
+269,Purbasthali Uttar,AITC,Vasundhara Goswami
+269,Purbasthali Uttar,BJP,???? ????? ???????????? (Shri Gopal Chattopadhayay)
+269,Purbasthali Uttar,INC,Amitava Bhattacharya
+269,Purbasthali Uttar,LF,PRADIP SAHA
+270,Katwa,AITC,Rabindranath Chatterjee
+270,Katwa,BJP,???? ?????? ??? (Shri Krishna Ghosh)
+270,Katwa,INC,Ranajit Chatterjee
+270,Katwa,LF,SANJIB DAS
+271,Ketugram,AITC,Sekh Sahonawez
+271,Ketugram,BJP,???? ????? ??? (?????) (Shri Anadi Ghosh (Mathura))
+271,Ketugram,INC,Md. Mofirul Kassem
+272,Mangalkot,AITC,Apurba Chowdhury (Achal)
+272,Mangalkot,BJP,???? ????? ??? (Shri Shishir Ghosh)
+272,Mangalkot,INC,Jagadish Dutta
+272,Mangalkot,LF,MIRAJ ALAM
+273,Ausgram (SC),AITC,Shyamaprasanna Lohar
+273,Ausgram (SC),BJP,??????? ????? ???? (Smt. Kalita Maji)
+273,Ausgram (SC),INC,Smt. Nisha Boral
+273,Ausgram (SC),LF,CHANCHAL MAJHI
+274,Galsi (SC),AITC,Alok Kumar Majhi
+274,Galsi (SC),BJP,???? ???? ?????? (Shri Raju Patra)
+274,Galsi (SC),INC,Debasish Biswas
+274,Galsi (SC),LF,MONIMALA DAS
+275,Pandabeswar,AITC,Narendranath Chakraborty
+275,Pandabeswar,BJP,???? ???????? ????? ?????? (Shri Jitendra Kumar Tewari)
+275,Pandabeswar,INC,Uttam Kumar Roy
+275,Pandabeswar,LF,PRABIR MONDAL
+276,Durgapur Purba,AITC,Pradip Mazumdar
+276,Durgapur Purba,BJP,???? ????? ???? ?????? (Shri Chandra Shekhar Banerjee)
+276,Durgapur Purba,INC,Debesh Chakraborty
+276,Durgapur Purba,LF,SIMANTA CHATTERJEE
+277,Durgapur Paschim,AITC,Kavi Dutta
+277,Durgapur Paschim,BJP,???? ??????? ????? ????? (Shri Lakshman Chandra Ghorui)
+277,Durgapur Paschim,INC,Tarun Roy
+277,Durgapur Paschim,LF,PRAVAS SAIN
+278,Raniganj,AITC,Kalobaran Mondal
+278,Raniganj,BJP,??. ?????? ??? (Adv. Partho Ghosh)
+278,Raniganj,INC,Faiz Ahmed
+278,Raniganj,LF,NARAN BAURI (SC)
+279,Jamuria,AITC,Hareram Singh
+279,Jamuria,BJP,??. ???? ??????? (Dr. Bijan Mukherjee)
+279,Jamuria,INC,Tarun Kumar Ganguly
+279,Jamuria,LF,MD. SABBIR HUSSAIN
+280,Asansol Dakshin,AITC,Tapas Banerjee
+280,Asansol Dakshin,BJP,??????? ??????????? ??? (Smt. Agnimitra Paul)
+280,Asansol Dakshin,INC,Souvik Mukherjee
+280,Asansol Dakshin,LF,SHILPI CHAKRABORTY
+281,Asansol Uttar,AITC,Moloy Ghatak
+281,Asansol Uttar,BJP,???? ????????? ??????? (Shri Krishnendu Mukherjee)
+281,Asansol Uttar,INC,Prasenjit Puitandi
+281,Asansol Uttar,LF,AKHILESH KUMAR SINGH
+282,Kulti,AITC,Abhijit Ghatak
+282,Kulti,BJP,???? ??? ????? ??????? (Shri Ajay Kumar Poddar)
+282,Kulti,INC,Rabi Yadav
+282,Kulti,LF,BHABANI ACHARYA
+283,Barabani,AITC,Bidhan Upadhyay
+283,Barabani,BJP,???? ?????? ??? (Shri Arijit Roy)
+283,Barabani,INC,Joydev Roy
+284,Dubrajpur (SC),AITC,Chandra Naresh Bauri
+284,Dubrajpur (SC),BJP,???? ???? ????? ???? (Shri Anup Kumar Saha)
+284,Dubrajpur (SC),INC,Sanjoy Byapari
+284,Dubrajpur (SC),LF,BIJOY BAGDI
+285,Suri,AITC,Ujjal Chatterjee
+285,Suri,BJP,???? ??????? ???????????? (Shri Jagannath Chattopadhyay)
+285,Suri,INC,Sanjoy Adhikary
+285,Suri,LF,MOTIUR RAHAMAN
+286,Bolpur,AITC,Chandranath Sinha
+286,Bolpur,BJP,???? ????? ????? ??? (Shri Dilip Kumar Ghosh)
+286,Bolpur,INC,Rathin Sen
+287,Nanoor (SC),AITC,Bidhan Chandra Majhi
+287,Nanoor (SC),BJP,???? ???? ??? (Shri Khokan Das)
+287,Nanoor (SC),INC,Abhay Das
+287,Nanoor (SC),LF,SHYMALI PRADHAN
+288,Labpur,AITC,Abhijit Sinha (Rana)
+288,Labpur,BJP,???? ??????? ??? (Shri Debasis Ojha)
+288,Labpur,INC,Smt. Ratna Sen
+289,Sainthia (SC),AITC,Nilabati Saha
+289,Sainthia (SC),BJP,???? ?????? ???? ???? (Shri Krishna Kant Saha)
+289,Sainthia (SC),INC,Smt. Archana Ankur
+289,Sainthia (SC),LF,DEBU CHUNARI
+290,Mayureswar,AITC,Abhijit Roy
+290,Mayureswar,BJP,???? ??? ????? ???? (Shri Dudh Kumar Mondal)
+290,Mayureswar,INC,Syed Kasafoddoza (Chandan)
+291,Rampurhat,AITC,Asish Banerjee
+291,Rampurhat,BJP,???? ????? ???? (Shri Dhruba Saha)
+291,Rampurhat,INC,Vivekananda Shaw
+291,Rampurhat,LF,SANJIB MALLICK
+292,Hansan,AITC,Fayezul Haque (Kajal Sk)
+292,Hansan,BJP,???? ????? ?????? (Shri Nikhil Banerjee)
+292,Hansan,INC,Milton Rashid
+292,Hansan,LF,KAMAL HASAN
+293,Nalhati,AITC,Rajendra Prasad Singh
+293,Nalhati,BJP,???? ???? ???? (Shri Anil Singh)
+293,Nalhati,INC,Dr. Abdul Karim
+293,Nalhati,LF,DIPAK CHATTERJEE
+294,Murarai,AITC,Mosarraf Hossain
+294,Murarai,BJP,??????? ????? ??? (Smt. Rinki Ghosh)
+294,Murarai,INC,Sanjibur Rahaman
+294,Murarai,LF,MD. ALI REZA MANDAL

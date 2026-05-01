@@ -1,0 +1,295 @@
+AC_Number,Constituency_Name,District,Margin_Pct,purge_squeeze,rgkar_squeeze,corruption_squeeze,sandeshkhali_squeeze,total_squeeze_pct
+53,Sujapur,Maldah,63.2,0.3,0.02,0.12,0.01,0.25
+57,Suti,Murshidabad,33.1,0.35,0.02,0.02,0.01,0.25
+63,Raninagar,Murshidabad,36.4,0.35,0.02,0.02,0.01,0.25
+48,Ratua,Maldah,34.8,0.3,0.02,0.12,0.01,0.25
+60,Sagardighi,Murshidabad,27.1,0.35,0.02,0.02,0.01,0.25
+70,Rejinagar,Murshidabad,32.7,0.35,0.02,0.02,0.01,0.25
+56,Samserganj,Murshidabad,14.2,0.35,0.02,0.02,0.01,0.25
+69,Bharatpur,Murshidabad,23.1,0.35,0.02,0.02,0.01,0.25
+111,Panihati,North Twenty Four Parganas,14.6,0.05,0.12,0.04,0.08,0.25
+35,Raiganj,Uttar Dinajpur,13.1,0.28,0.02,0.02,0.01,0.25
+59,Raghunathganj,Murshidabad,52.4,0.35,0.02,0.02,0.01,0.25
+71,Beldanga,Murshidabad,26.5,0.35,0.02,0.02,0.01,0.25
+54,Baisnabnagar,Maldah,1.2,0.3,0.02,0.12,0.01,0.25
+123,Sandeshkhali,North Twenty Four Parganas,19.5,0.05,0.05,0.04,0.15,0.25
+33,Hemtabad,Uttar Dinajpur,12.3,0.28,0.02,0.02,0.01,0.25
+46,Harischandrapur,Maldah,38.3,0.3,0.02,0.12,0.01,0.25
+55,Farakka,Murshidabad,32.4,0.35,0.02,0.02,0.01,0.25
+67,Burwan,Murshidabad,1.6,0.35,0.02,0.02,0.01,0.25
+52,Mothabari,Maldah,35.1,0.3,0.02,0.12,0.01,0.25
+34,Kaliaganj,Uttar Dinajpur,9.2,0.28,0.02,0.02,0.01,0.25
+31,Chakulia,Uttar Dinajpur,19.6,0.28,0.02,0.02,0.01,0.25
+61,Lalgola,Murshidabad,32.1,0.35,0.02,0.02,0.01,0.25
+50,Maldaha,Maldah,7.6,0.3,0.02,0.12,0.01,0.25
+49,Manikchak,Maldah,16.5,0.3,0.02,0.12,0.01,0.25
+47,Malatipur,Maldah,50.1,0.3,0.02,0.12,0.01,0.25
+74,Naoda,Murshidabad,36.9,0.35,0.02,0.02,0.01,0.25
+65,Nabagram,Murshidabad,17.3,0.35,0.02,0.02,0.01,0.25
+64,Murshidabad,Murshidabad,1.1,0.35,0.02,0.02,0.01,0.25
+66,Khargram,Murshidabad,17.7,0.35,0.02,0.02,0.01,0.25
+45,Chanchal,Maldah,33.9,0.3,0.02,0.12,0.01,0.25
+28,Chopra,Uttar Dinajpur,32.0,0.28,0.02,0.02,0.01,0.25
+62,Bhagabangola,Murshidabad,47.6,0.35,0.02,0.02,0.01,0.25
+30,Goalpokhar,Uttar Dinajpur,46.1,0.28,0.02,0.02,0.01,0.25
+44,Gazole,Maldah,0.8,0.3,0.02,0.12,0.01,0.25
+72,Baharampur,Murshidabad,13.8,0.35,0.02,0.02,0.01,0.25
+73,Hariharpara,Murshidabad,6.5,0.35,0.02,0.02,0.01,0.25
+43,Habibpur,Maldah,10.0,0.3,0.02,0.12,0.01,0.25
+75,Domkal,Murshidabad,21.1,0.35,0.02,0.02,0.01,0.25
+76,Jalangi,Murshidabad,36.1,0.35,0.02,0.02,0.01,0.25
+58,Jangipur,Murshidabad,47.7,0.35,0.02,0.02,0.01,0.25
+36,Itahar,Uttar Dinajpur,22.8,0.28,0.02,0.02,0.01,0.25
+29,Islampur,Uttar Dinajpur,22.3,0.28,0.02,0.02,0.01,0.25
+32,Karandighi,Uttar Dinajpur,17.4,0.28,0.02,0.02,0.01,0.25
+68,Kandi,Murshidabad,20.8,0.35,0.02,0.02,0.01,0.25
+51,Englishbazar,Maldah,9.5,0.3,0.02,0.12,0.01,0.25
+125,Basirhat Uttar,North Twenty Four Parganas,37.8,0.05,0.05,0.04,0.08,0.22000000000000003
+108,Barrackpur,North Twenty Four Parganas,6.3,0.05,0.05,0.04,0.08,0.22000000000000003
+119,Barasat,North Twenty Four Parganas,10.7,0.05,0.05,0.04,0.08,0.22000000000000003
+101,Ashoknagar,North Twenty Four Parganas,10.9,0.05,0.05,0.04,0.08,0.22000000000000003
+124,Basirhat Dakshin,North Twenty Four Parganas,10.5,0.05,0.05,0.04,0.08,0.22000000000000003
+104,Naihati,North Twenty Four Parganas,12.2,0.05,0.05,0.04,0.08,0.22000000000000003
+122,Minakhan,North Twenty Four Parganas,26.8,0.05,0.05,0.04,0.08,0.22000000000000003
+107,Noapara,North Twenty Four Parganas,14.1,0.05,0.05,0.04,0.08,0.22000000000000003
+115,Rajarhat New Town,North Twenty Four Parganas,24.2,0.05,0.05,0.04,0.08,0.22000000000000003
+117,Rajarhat  Gopalpur,North Twenty Four Parganas,14.3,0.05,0.05,0.04,0.08,0.22000000000000003
+113,Baranagar,North Twenty Four Parganas,22.3,0.05,0.05,0.04,0.08,0.22000000000000003
+105,Bhatpara,North Twenty Four Parganas,12.9,0.05,0.05,0.04,0.08,0.22000000000000003
+116,Bidhannagar,North Twenty Four Parganas,5.0,0.05,0.05,0.04,0.08,0.22000000000000003
+103,Bijpur,North Twenty Four Parganas,9.7,0.05,0.05,0.04,0.08,0.22000000000000003
+99,Baduria,North Twenty Four Parganas,26.8,0.05,0.05,0.04,0.08,0.22000000000000003
+109,Khardaha,North Twenty Four Parganas,15.6,0.05,0.05,0.04,0.08,0.22000000000000003
+118,Madhyamgram,North Twenty Four Parganas,21.2,0.05,0.05,0.04,0.08,0.22000000000000003
+110,Dum Dum Uttar,North Twenty Four Parganas,13.5,0.05,0.05,0.04,0.08,0.22000000000000003
+100,Habra,North Twenty Four Parganas,1.9,0.05,0.05,0.04,0.08,0.22000000000000003
+120,Deganga,North Twenty Four Parganas,15.3,0.05,0.05,0.04,0.08,0.22000000000000003
+106,Jagatdal,North Twenty Four Parganas,10.3,0.05,0.05,0.04,0.08,0.22000000000000003
+112,Kamarhati,North Twenty Four Parganas,24.8,0.05,0.05,0.04,0.08,0.22000000000000003
+114,Dum Dum,North Twenty Four Parganas,14.6,0.05,0.05,0.04,0.08,0.22000000000000003
+121,Haroa,North Twenty Four Parganas,36.1,0.05,0.05,0.04,0.08,0.22000000000000003
+126,Hingalganj,North Twenty Four Parganas,12.9,0.05,0.05,0.04,0.08,0.22000000000000003
+97,Gaighata,North Twenty Four Parganas,4.5,0.05,0.05,0.04,0.08,0.22000000000000003
+98,Swarupnagar,North Twenty Four Parganas,16.5,0.05,0.05,0.04,0.08,0.22000000000000003
+94,Bagda,North Twenty Four Parganas,4.5,0.05,0.05,0.04,0.08,0.22000000000000003
+96,Bangaon Dakshin,North Twenty Four Parganas,1.0,0.05,0.05,0.04,0.08,0.22000000000000003
+95,Bangaon Uttar,North Twenty Four Parganas,5.2,0.05,0.05,0.04,0.08,0.22000000000000003
+102,Amdanga,North Twenty Four Parganas,12.2,0.05,0.05,0.04,0.08,0.22000000000000003
+39,Balurghat,Dakshin Dinajpur,8.9,0.15,0.02,0.02,0.01,0.19999999999999998
+40,Tapan,Dakshin Dinajpur,0.9,0.15,0.02,0.02,0.01,0.19999999999999998
+42,Harirampur,Dakshin Dinajpur,12.2,0.15,0.02,0.02,0.01,0.19999999999999998
+41,Gangarampur,Dakshin Dinajpur,2.4,0.15,0.02,0.02,0.01,0.19999999999999998
+38,Kumarganj,Dakshin Dinajpur,17.3,0.15,0.02,0.02,0.01,0.19999999999999998
+37,Kushmandi,Dakshin Dinajpur,6.9,0.15,0.02,0.02,0.01,0.19999999999999998
+274,Galsi,Barddhaman,8.7,0.05,0.02,0.08,0.01,0.16000000000000003
+277,Durgapur Paschim,Barddhaman,7.5,0.05,0.02,0.08,0.01,0.16000000000000003
+281,Asansol Uttar,Barddhaman,11.1,0.05,0.02,0.08,0.01,0.16000000000000003
+279,Jamuria,Barddhaman,4.9,0.05,0.02,0.08,0.01,0.16000000000000003
+262,Jamalpur,Barddhaman,8.8,0.05,0.02,0.08,0.01,0.16000000000000003
+264,Kalna,Barddhaman,3.6,0.05,0.02,0.08,0.01,0.16000000000000003
+273,Ausgram,Barddhaman,5.5,0.05,0.02,0.08,0.01,0.16000000000000003
+261,Raina,Barddhaman,8.0,0.05,0.02,0.08,0.01,0.16000000000000003
+280,Asnsol Dakshin,Barddhaman,2.3,0.05,0.02,0.08,0.01,0.16000000000000003
+269,Purbasthali Uttar,Barddhaman,3.2,0.05,0.02,0.08,0.01,0.16000000000000003
+260,Burdwan Dakshin,Barddhaman,4.0,0.05,0.02,0.08,0.01,0.16000000000000003
+283,Barabani,Barddhaman,14.1,0.05,0.02,0.08,0.01,0.16000000000000003
+265,Memari,Barddhaman,10.6,0.05,0.02,0.08,0.01,0.16000000000000003
+272,Mongalkote,Barddhaman,10.5,0.05,0.02,0.08,0.01,0.16000000000000003
+267,Bhatar,Barddhaman,15.1,0.05,0.02,0.08,0.01,0.16000000000000003
+282,Kulti,Barddhaman,0.4,0.05,0.02,0.08,0.01,0.16000000000000003
+270,Katwa,Barddhaman,4.1,0.05,0.02,0.08,0.01,0.16000000000000003
+271,Ketugram,Barddhaman,6.0,0.05,0.02,0.08,0.01,0.16000000000000003
+259,Khandaghosh,Barddhaman,9.7,0.05,0.02,0.08,0.01,0.16000000000000003
+276,Durgapur Purba,Barddhaman,2.0,0.05,0.02,0.08,0.01,0.16000000000000003
+263,Monteswar,Barddhaman,15.3,0.05,0.02,0.08,0.01,0.16000000000000003
+275,Pandabeswar,Barddhaman,2.4,0.05,0.02,0.08,0.01,0.16000000000000003
+268,Purbasthali Dakshin,Barddhaman,8.1,0.05,0.02,0.08,0.01,0.16000000000000003
+266,Burdwan Uttar,Barddhaman,7.2,0.05,0.02,0.08,0.01,0.16000000000000003
+278,Raniganj,Barddhaman,2.0,0.05,0.02,0.08,0.01,0.16000000000000003
+148,Bhangar,South  Twenty Four Parganas,10.9,0.05,0.05,0.02,0.04,0.16
+155,Maheshtala,South  Twenty Four Parganas,26.6,0.05,0.05,0.02,0.04,0.16
+133,Kulpi,South  Twenty Four Parganas,17.7,0.05,0.05,0.02,0.04,0.16
+128,Basanti,South  Twenty Four Parganas,23.9,0.05,0.05,0.02,0.04,0.16
+146,Bishnupur (SC),South  Twenty Four Parganas,25.0,0.05,0.05,0.02,0.04,0.16
+153,Behala Purba,South  Twenty Four Parganas,17.1,0.05,0.05,0.02,0.04,0.16
+137,Baruipur Purba,South  Twenty Four Parganas,22.2,0.05,0.05,0.02,0.04,0.16
+135,Mandirbazar,South  Twenty Four Parganas,11.9,0.05,0.05,0.02,0.04,0.16
+156,Budge Budge,South  Twenty Four Parganas,20.9,0.05,0.05,0.02,0.04,0.16
+142,Magrahat Paschim,South  Twenty Four Parganas,24.4,0.05,0.05,0.02,0.04,0.16
+157,Metiaburuz,South  Twenty Four Parganas,61.8,0.05,0.05,0.02,0.04,0.16
+129,Kultali,South  Twenty Four Parganas,20.8,0.05,0.05,0.02,0.04,0.16
+141,Magrahat Purba,South  Twenty Four Parganas,26.4,0.05,0.05,0.02,0.04,0.16
+144,Falta,South  Twenty Four Parganas,19.7,0.05,0.05,0.02,0.04,0.16
+139,Canning Purba,South  Twenty Four Parganas,23.0,0.05,0.05,0.02,0.04,0.16
+149,Kasba,South  Twenty Four Parganas,28.8,0.05,0.05,0.02,0.04,0.16
+131,Kakdwip,South  Twenty Four Parganas,11.6,0.05,0.05,0.02,0.04,0.16
+127,Gosaba,South  Twenty Four Parganas,12.2,0.05,0.05,0.02,0.04,0.16
+143,Diamond Harbour,South  Twenty Four Parganas,7.6,0.05,0.05,0.02,0.04,0.16
+151,Sonarpur Uttar,South  Twenty Four Parganas,15.1,0.05,0.05,0.02,0.04,0.16
+147,Sonarpur Dakshin,South  Twenty Four Parganas,11.4,0.05,0.05,0.02,0.04,0.16
+132,Sagar,South  Twenty Four Parganas,12.5,0.05,0.05,0.02,0.04,0.16
+140,Baruipur Paschim,South  Twenty Four Parganas,29.5,0.05,0.05,0.02,0.04,0.16
+145,Satgachhia,South  Twenty Four Parganas,10.0,0.05,0.05,0.02,0.04,0.16
+134,Raidighi,South  Twenty Four Parganas,15.0,0.05,0.05,0.02,0.04,0.16
+130,Patharpratima,South  Twenty Four Parganas,9.6,0.05,0.05,0.02,0.04,0.16
+154,Behala Paschim,South  Twenty Four Parganas,22.2,0.05,0.05,0.02,0.04,0.16
+138,Canning Paschim,South  Twenty Four Parganas,16.4,0.05,0.05,0.02,0.04,0.16
+152,Tollyganj,South  Twenty Four Parganas,25.7,0.05,0.05,0.02,0.04,0.16
+136,Jaynagar,South  Twenty Four Parganas,19.2,0.05,0.05,0.02,0.04,0.16
+150,Jadavpur,South  Twenty Four Parganas,18.3,0.05,0.05,0.02,0.04,0.16
+202,Khanakul,Hugli,6.0,0.05,0.02,0.06,0.01,0.14
+195,Jangipara,Hugli,8.6,0.05,0.02,0.06,0.01,0.14
+158,Kolkata Port,Kolkata,45.4,0.05,0.05,0.03,0.01,0.14
+194,Chanditala,Hugli,20.2,0.05,0.02,0.06,0.01,0.14
+196,Haripal,Hugli,10.6,0.05,0.02,0.06,0.01,0.14
+201,Goghat,Hugli,1.9,0.05,0.02,0.06,0.01,0.14
+165,Jorasanko,Kolkata,13.0,0.05,0.05,0.03,0.01,0.14
+197,Dhanekhali,Hugli,13.0,0.05,0.02,0.06,0.01,0.14
+190,Chunchura,Hugli,7.4,0.05,0.02,0.06,0.01,0.14
+192,Pandua,Hugli,14.4,0.05,0.02,0.06,0.01,0.14
+187,Champdani,Hugli,15.2,0.05,0.02,0.06,0.01,0.14
+168,Kashipur-Belgachhia,Kolkata,26.6,0.05,0.05,0.03,0.01,0.14
+186,Sreerampur,Hugli,12.6,0.05,0.02,0.06,0.01,0.14
+160,Rashbehari,Kolkata,17.4,0.05,0.05,0.03,0.01,0.14
+166,Shyampukur,Kolkata,22.1,0.05,0.05,0.03,0.01,0.14
+200,Arambag,Hugli,3.3,0.05,0.02,0.06,0.01,0.14
+199,Pursurah,Hugli,12.8,0.05,0.02,0.06,0.01,0.14
+193,Saptagram,Hugli,5.2,0.05,0.02,0.06,0.01,0.14
+188,Singur,Hugli,12.5,0.05,0.02,0.06,0.01,0.14
+185,Uttarpara,Hugli,18.3,0.05,0.02,0.06,0.01,0.14
+159,Bhabanipur,Kolkata,22.8,0.05,0.05,0.03,0.01,0.14
+167,Maniktola,Kolkata,15.4,0.05,0.05,0.03,0.01,0.14
+189,Chandannagar,Hugli,17.3,0.05,0.02,0.06,0.01,0.14
+162,Chowrangee,Kolkata,41.1,0.05,0.05,0.03,0.01,0.14
+198,Tarakeswar,Hugli,3.7,0.05,0.02,0.06,0.01,0.14
+163,Entally,Kolkata,37.4,0.05,0.05,0.03,0.01,0.14
+191,Balagarh,Hugli,2.7,0.05,0.02,0.06,0.01,0.14
+161,Ballygunge,Kolkata,50.4,0.05,0.05,0.03,0.01,0.14
+164,Beleghata,Kolkata,42.8,0.05,0.05,0.03,0.01,0.14
+224,Kharagpur Sadar,Paschim Medinipur,2.2,0.05,0.02,0.02,0.01,0.1
+83,Krishnanagar Uttar,Nadia,17.5,0.05,0.02,0.02,0.01,0.1
+215,Khejuri,Purba Medinipur,8.5,0.05,0.02,0.02,0.01,0.1
+88,Krishnaganj,Nadia,9.3,0.05,0.02,0.02,0.01,0.1
+80,Kaliganj,Nadia,22.7,0.05,0.02,0.02,0.01,0.1
+11,Kalchini,Jalpaiguri,14.8,0.05,0.02,0.02,0.01,0.1
+241,Joypur,Puruliya,6.1,0.05,0.02,0.02,0.01,0.1
+216,Kanthi Dakshin,Purba Medinipur,5.3,0.05,0.02,0.02,0.01,0.1
+228,Kharagpur,Paschim Medinipur,18.3,0.05,0.02,0.02,0.01,0.1
+22,Kalimpong,Darjiling,2.5,0.05,0.02,0.02,0.01,0.1
+183,Jagatballavpur,Haora,12.5,0.05,0.02,0.02,0.01,0.1
+170,Howrah Uttar,Haora,3.7,0.05,0.02,0.02,0.01,0.1
+244,Kashipur,Puruliya,3.8,0.05,0.02,0.02,0.01,0.1
+77,Karimpur,Nadia,10.7,0.05,0.02,0.02,0.01,0.1
+213,Kanthi Uttar,Purba Medinipur,4.1,0.05,0.02,0.02,0.01,0.1
+221,Gopiballavpur,Paschim Medinipur,12.1,0.05,0.02,0.02,0.01,0.1
+257,Indus,Bankura,3.4,0.05,0.02,0.02,0.01,0.1
+222,Jhargram,Paschim Medinipur,19.3,0.05,0.02,0.02,0.01,0.1
+17,Jalpaiguri,Jalpaiguri,0.4,0.05,0.02,0.02,0.01,0.1
+233,Garbeta,Paschim Medinipur,5.2,0.05,0.02,0.02,0.01,0.1
+91,Chakdaha,Nadia,5.5,0.05,0.02,0.02,0.01,0.1
+93,Haringhata,Nadia,7.3,0.05,0.02,0.02,0.01,0.1
+292,Hansan,Birbhum,24.3,0.05,0.02,0.02,0.01,0.1
+184,Domjur,Haora,17.1,0.05,0.02,0.02,0.01,0.1
+92,Kalyani,Nadia,1.0,0.05,0.02,0.02,0.01,0.1
+209,Haldia,Purba Medinipur,6.8,0.05,0.02,0.02,0.01,0.1
+7,Dinhata,Koch Bihar,0.0,0.05,0.02,0.02,0.01,0.1
+15,Dhupguri,Jalpaiguri,1.9,0.05,0.02,0.02,0.01,0.1
+229,Debra,Paschim Medinipur,5.5,0.05,0.02,0.02,0.01,0.1
+230,Daspur,Paschim Medinipur,12.1,0.05,0.02,0.02,0.01,0.1
+23,Darjeeling,Darjiling,12.8,0.05,0.02,0.02,0.01,0.1
+3,Coochbehar Uttar,Koch Bihar,6.0,0.05,0.02,0.02,0.01,0.1
+231,Ghatal,Paschim Medinipur,0.4,0.05,0.02,0.02,0.01,0.1
+173,Howrah Dakshin,Haora,23.6,0.05,0.02,0.02,0.01,0.1
+171,Howrah Madhya,Haora,24.2,0.05,0.02,0.02,0.01,0.1
+13,Falakata,Jalpaiguri,1.8,0.05,0.02,0.02,0.01,0.1
+218,Egra,Purba Medinipur,7.7,0.05,0.02,0.02,0.01,0.1
+174,Sankrail,Haora,18.4,0.05,0.02,0.02,0.01,0.1
+177,Uluberia Uttar,Haora,11.4,0.05,0.02,0.02,0.01,0.1
+9,Tufanganj,Koch Bihar,15.0,0.05,0.02,0.02,0.01,0.1
+182,Udaynarayanpur,Haora,7.1,0.05,0.02,0.02,0.01,0.1
+178,Uluberia Dakshin,Haora,14.2,0.05,0.02,0.02,0.01,0.1
+78,Tehatta,Nadia,3.2,0.05,0.02,0.02,0.01,0.1
+203,Tamluk,Purba Medinipur,0.3,0.05,0.02,0.02,0.01,0.1
+12,Alipurduars,Jalpaiguri,7.3,0.05,0.02,0.02,0.01,0.1
+181,Amta,Haora,12.6,0.05,0.02,0.02,0.01,0.1
+238,Bandwan,Puruliya,7.9,0.05,0.02,0.02,0.01,0.1
+240,Baghmundi,Puruliya,6.9,0.05,0.02,0.02,0.01,0.1
+180,Bagnan,Haora,15.2,0.05,0.02,0.02,0.01,0.1
+239,Balarampur,Puruliya,0.2,0.05,0.02,0.02,0.01,0.1
+169,Bally,Haora,5.0,0.05,0.02,0.02,0.01,0.1
+176,Uluberia Purba,Haora,9.0,0.05,0.02,0.02,0.01,0.1
+86,Santipur,Nadia,7.3,0.05,0.02,0.02,0.01,0.1
+219,Dantan,Paschim Medinipur,0.3,0.05,0.02,0.02,0.01,0.1
+19,Dabgram-Fulbari,Jalpaiguri,10.8,0.05,0.02,0.02,0.01,0.1
+251,Taldangra,Bankura,6.2,0.05,0.02,0.02,0.01,0.1
+284,Dubrajpur,Birbhum,1.9,0.05,0.02,0.02,0.01,0.1
+85,Krishnanagar Dakshin,Nadia,4.8,0.05,0.02,0.02,0.01,0.1
+10,Kumargram,Jalpaiguri,4.8,0.05,0.02,0.02,0.01,0.1
+223,Keshiary,Paschim Medinipur,7.3,0.05,0.02,0.02,0.01,0.1
+235,Keshpur,Paschim Medinipur,9.1,0.05,0.02,0.02,0.01,0.1
+82,Chapra,Nadia,5.7,0.05,0.02,0.02,0.01,0.1
+248,Chhatna,Bankura,3.7,0.05,0.02,0.02,0.01,0.1
+214,Bhagabanpur,Purba Medinipur,12.4,0.05,0.02,0.02,0.01,0.1
+237,Binpur,Paschim Medinipur,21.3,0.05,0.02,0.02,0.01,0.1
+286,Bolpur,Birbhum,9.8,0.05,0.02,0.02,0.01,0.1
+255,Bishnupur,Bankura,6.1,0.05,0.02,0.02,0.01,0.1
+84,Nabadwip,Nadia,8.9,0.05,0.02,0.02,0.01,0.1
+294,Murarai,Birbhum,45.4,0.05,0.02,0.02,0.01,0.1
+206,Moyna,Purba Medinipur,0.6,0.05,0.02,0.02,0.01,0.1
+252,Bankura,Bankura,0.7,0.05,0.02,0.02,0.01,0.1
+81,Nakashipara,Nadia,10.2,0.05,0.02,0.02,0.01,0.1
+21,Nagrakata,Jalpaiguri,12.6,0.05,0.02,0.02,0.01,0.1
+293,Nalhati,Birbhum,27.7,0.05,0.02,0.02,0.01,0.1
+243,Manbazar,Puruliya,7.3,0.05,0.02,0.02,0.01,0.1
+20,Mal,Jalpaiguri,2.6,0.05,0.02,0.02,0.01,0.1
+287,Nanoor,Birbhum,2.9,0.05,0.02,0.02,0.01,0.1
+210,Nandigram,Purba Medinipur,0.9,0.05,0.02,0.02,0.01,0.1
+207,Nandakumar,Purba Medinipur,2.4,0.05,0.02,0.02,0.01,0.1
+1,Mekliganj,Koch Bihar,7.5,0.05,0.02,0.02,0.01,0.1
+236,Medinipur,Paschim Medinipur,10.4,0.05,0.02,0.02,0.01,0.1
+290,Mayureswar,Birbhum,6.1,0.05,0.02,0.02,0.01,0.1
+2,Mathabhanga,Koch Bihar,12.3,0.05,0.02,0.02,0.01,0.1
+25,Matigara-Naxalbari,Darjiling,29.9,0.05,0.02,0.02,0.01,0.1
+16,Maynaguri,Jalpaiguri,5.1,0.05,0.02,0.02,0.01,0.1
+4,Cooch Behar Dakshin,Koch Bihar,2.5,0.05,0.02,0.02,0.01,0.1
+232,Chandrakona,Paschim Medinipur,4.6,0.05,0.02,0.02,0.01,0.1
+211,Chandipur,Purba Medinipur,6.1,0.05,0.02,0.02,0.01,0.1
+14,Madarihat,Jalpaiguri,18.1,0.05,0.02,0.02,0.01,0.1
+256,Katulpur,Bankura,5.3,0.05,0.02,0.02,0.01,0.1
+208,Mahishadal,Purba Medinipur,1.1,0.05,0.02,0.02,0.01,0.1
+288,Labhpur,Birbhum,8.6,0.05,0.02,0.02,0.01,0.1
+24,Kurseong,Darjiling,9.0,0.05,0.02,0.02,0.01,0.1
+212,Patashpur,Purba Medinipur,4.8,0.05,0.02,0.02,0.01,0.1
+245,Para,Puruliya,2.1,0.05,0.02,0.02,0.01,0.1
+253,Barjora,Bankura,1.5,0.05,0.02,0.02,0.01,0.1
+18,Rajganj,Jalpaiguri,7.4,0.05,0.02,0.02,0.01,0.1
+246,Raghunathpur,Puruliya,2.6,0.05,0.02,0.02,0.01,0.1
+217,Ramnagar,Purba Medinipur,5.7,0.05,0.02,0.02,0.01,0.1
+250,Raipur,Bankura,10.1,0.05,0.02,0.02,0.01,0.1
+242,Purulia,Puruliya,3.4,0.05,0.02,0.02,0.01,0.1
+204,Panskura Purba,Purba Medinipur,4.9,0.05,0.02,0.02,0.01,0.1
+27,Phansidewa,Darjiling,13.5,0.05,0.02,0.02,0.01,0.1
+205,Panskura Paschim,Purba Medinipur,3.8,0.05,0.02,0.02,0.01,0.1
+175,Panchla,Haora,15.3,0.05,0.02,0.02,0.01,0.1
+79,Palashipara,Nadia,25.4,0.05,0.02,0.02,0.01,0.1
+254,Onda,Bankura,5.2,0.05,0.02,0.02,0.01,0.1
+220,Nayagram,Paschim Medinipur,12.0,0.05,0.02,0.02,0.01,0.1
+8,Natabari,Koch Bihar,10.9,0.05,0.02,0.02,0.01,0.1
+225,Narayangarh,Paschim Medinipur,1.1,0.05,0.02,0.02,0.01,0.1
+291,Rampurhat,Birbhum,4.0,0.05,0.02,0.02,0.01,0.1
+90,Ranaghat Dakshin,Nadia,6.9,0.05,0.02,0.02,0.01,0.1
+87,Ranaghat Uttar Paschim,Nadia,10.5,0.05,0.02,0.02,0.01,0.1
+89,Ranaghat Uttar Purba,Nadia,15.0,0.05,0.02,0.02,0.01,0.1
+249,Ranibandh,Bankura,1.9,0.05,0.02,0.02,0.01,0.1
+226,Sabang,Paschim Medinipur,4.2,0.05,0.02,0.02,0.01,0.1
+247,Saltora,Bankura,2.1,0.05,0.02,0.02,0.01,0.1
+234,Salboni,Paschim Medinipur,13.2,0.05,0.02,0.02,0.01,0.1
+289,Sainthia,Birbhum,6.9,0.05,0.02,0.02,0.01,0.1
+227,Pingla,Paschim Medinipur,2.9,0.05,0.02,0.02,0.01,0.1
+6,Sitai,Koch Bihar,4.3,0.05,0.02,0.02,0.01,0.1
+5,Sitalkuchi,Koch Bihar,7.3,0.05,0.02,0.02,0.01,0.1
+258,Sonamukhi,Bankura,5.3,0.05,0.02,0.02,0.01,0.1
+26,Siliguri,Darjiling,20.2,0.05,0.02,0.02,0.01,0.1
+179,Shyampur,Haora,14.3,0.05,0.02,0.02,0.01,0.1
+172,Shibpur,Haora,18.1,0.05,0.02,0.02,0.01,0.1
+285,Suri,Birbhum,3.4,0.05,0.02,0.02,0.01,0.1

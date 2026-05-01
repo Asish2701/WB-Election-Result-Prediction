@@ -1,0 +1,295 @@
+AC_Number,Constituency_Name,District,Type,Predicted_Winner,Predicted_Winner_Prob
+1,Mekliganj,Koch Bihar,SC,All India Trinamool Congress,0.88096255
+2,Mathabhanga,Koch Bihar,SC,Bharatiya Janta Party,0.959859
+3,Coochbehar Uttar,Koch Bihar,SC,Bharatiya Janta Party,0.9907212
+4,Cooch Behar Dakshin,Koch Bihar,GEN,All India Trinamool Congress,0.5370764
+5,Sitalkuchi,Koch Bihar,SC,Bharatiya Janta Party,0.9861995
+6,Sitai,Koch Bihar,SC,Bharatiya Janta Party,0.97557753
+7,Dinhata,Koch Bihar,GEN,Bharatiya Janta Party,0.99089605
+8,Natabari,Koch Bihar,GEN,Bharatiya Janta Party,0.95136505
+9,Tufanganj,Koch Bihar,GEN,Bharatiya Janta Party,0.9647061
+10,Kumargram,Jalpaiguri,ST,Bharatiya Janta Party,0.9771164
+11,Kalchini,Jalpaiguri,ST,Bharatiya Janta Party,0.98951334
+12,Alipurduars,Jalpaiguri,GEN,Bharatiya Janta Party,0.9793282
+13,Falakata,Jalpaiguri,SC,Bharatiya Janta Party,0.98350185
+14,Madarihat,Jalpaiguri,ST,Bharatiya Janta Party,0.91806936
+15,Dhupguri,Jalpaiguri,SC,Bharatiya Janta Party,0.9793052
+16,Maynaguri,Jalpaiguri,SC,Bharatiya Janta Party,0.9798481
+17,Jalpaiguri,Jalpaiguri,SC,All India Trinamool Congress,0.8266515
+18,Rajganj,Jalpaiguri,SC,Bharatiya Janta Party,0.9036522
+19,Dabgram-Fulbari,Jalpaiguri,GEN,Bharatiya Janta Party,0.9866463
+20,Mal,Jalpaiguri,ST,Bharatiya Janta Party,0.64562565
+21,Nagrakata,Jalpaiguri,ST,Bharatiya Janta Party,0.985743
+22,Kalimpong,Darjiling,GEN,OTHER,0.7435723
+23,Darjeeling,Darjiling,GEN,Bharatiya Janta Party,0.9934087
+24,Kurseong,Darjiling,GEN,Bharatiya Janta Party,0.97909
+25,Matigara-Naxalbari,Darjiling,SC,Bharatiya Janta Party,0.9570841
+26,Siliguri,Darjiling,GEN,All India Trinamool Congress,0.7026747
+27,Phansidewa,Darjiling,ST,Bharatiya Janta Party,0.97903466
+28,Chopra,Uttar Dinajpur,GEN,All India Trinamool Congress,0.72440284
+29,Islampur,Uttar Dinajpur,GEN,All India Trinamool Congress,0.9851291
+30,Goalpokhar,Uttar Dinajpur,GEN,All India Trinamool Congress,0.9823685
+31,Chakulia,Uttar Dinajpur,GEN,All India Trinamool Congress,0.98541915
+32,Karandighi,Uttar Dinajpur,GEN,All India Trinamool Congress,0.96822864
+33,Hemtabad,Uttar Dinajpur,SC,All India Trinamool Congress,0.9189665
+34,Kaliaganj,Uttar Dinajpur,SC,Bharatiya Janta Party,0.95161825
+35,Raiganj,Uttar Dinajpur,GEN,All India Trinamool Congress,0.746652
+36,Itahar,Uttar Dinajpur,GEN,All India Trinamool Congress,0.99507695
+37,Kushmandi,Dakshin Dinajpur,SC,All India Trinamool Congress,0.9101039
+38,Kumarganj,Dakshin Dinajpur,GEN,All India Trinamool Congress,0.9653495
+39,Balurghat,Dakshin Dinajpur,GEN,All India Trinamool Congress,0.9681054
+40,Tapan,Dakshin Dinajpur,ST,Bharatiya Janta Party,0.9516168
+41,Gangarampur,Dakshin Dinajpur,SC,Bharatiya Janta Party,0.906603
+42,Harirampur,Dakshin Dinajpur,GEN,All India Trinamool Congress,0.9852026
+43,Habibpur,Maldah,ST,Bharatiya Janta Party,0.96778363
+44,Gazole,Maldah,SC,Bharatiya Janta Party,0.92759037
+45,Chanchal,Maldah,GEN,All India Trinamool Congress,0.99065053
+46,Harischandrapur,Maldah,GEN,All India Trinamool Congress,0.9977585
+47,Malatipur,Maldah,GEN,All India Trinamool Congress,0.9984865
+48,Ratua,Maldah,GEN,All India Trinamool Congress,0.97181267
+49,Manikchak,Maldah,GEN,All India Trinamool Congress,0.98544794
+50,Maldaha,Maldah,SC,All India Trinamool Congress,0.8484458
+51,Englishbazar,Maldah,GEN,Bharatiya Janta Party,0.9714065
+52,Mothabari,Maldah,GEN,All India Trinamool Congress,0.9986651
+53,Sujapur,Maldah,GEN,All India Trinamool Congress,0.9956756
+54,Baisnabnagar,Maldah,GEN,All India Trinamool Congress,0.9580714
+55,Farakka,Murshidabad,GEN,All India Trinamool Congress,0.9990275
+56,Samserganj,Murshidabad,GEN,All India Trinamool Congress,0.99239457
+57,Suti,Murshidabad,GEN,All India Trinamool Congress,0.99738866
+58,Jangipur,Murshidabad,GEN,All India Trinamool Congress,0.9877621
+59,Raghunathganj,Murshidabad,GEN,All India Trinamool Congress,0.991236
+60,Sagardighi,Murshidabad,GEN,All India Trinamool Congress,0.9986847
+61,Lalgola,Murshidabad,GEN,All India Trinamool Congress,0.99927896
+62,Bhagabangola,Murshidabad,GEN,All India Trinamool Congress,0.98685026
+63,Raninagar,Murshidabad,GEN,All India Trinamool Congress,0.9912866
+64,Murshidabad,Murshidabad,GEN,Bharatiya Janta Party,0.90304065
+65,Nabagram,Murshidabad,SC,All India Trinamool Congress,0.9836332
+66,Khargram,Murshidabad,SC,All India Trinamool Congress,0.99537164
+67,Burwan,Murshidabad,SC,All India Trinamool Congress,0.9378258
+68,Kandi,Murshidabad,GEN,All India Trinamool Congress,0.99472964
+69,Bharatpur,Murshidabad,GEN,All India Trinamool Congress,0.98969907
+70,Rejinagar,Murshidabad,GEN,All India Trinamool Congress,0.9990299
+71,Beldanga,Murshidabad,GEN,All India Trinamool Congress,0.9989808
+72,Baharampur,Murshidabad,GEN,Bharatiya Janta Party,0.97233945
+73,Hariharpara,Murshidabad,GEN,All India Trinamool Congress,0.9629862
+74,Naoda,Murshidabad,GEN,All India Trinamool Congress,0.9946884
+75,Domkal,Murshidabad,GEN,All India Trinamool Congress,0.9901642
+76,Jalangi,Murshidabad,GEN,All India Trinamool Congress,0.994756
+77,Karimpur,Nadia,GEN,All India Trinamool Congress,0.9493582
+78,Tehatta,Nadia,GEN,All India Trinamool Congress,0.95322883
+79,Palashipara,Nadia,GEN,All India Trinamool Congress,0.99315417
+80,Kaliganj,Nadia,GEN,All India Trinamool Congress,0.99674773
+81,Nakashipara,Nadia,GEN,All India Trinamool Congress,0.9915623
+82,Chapra,Nadia,GEN,All India Trinamool Congress,0.9698636
+83,Krishnanagar Uttar,Nadia,GEN,Bharatiya Janta Party,0.85907644
+84,Nabadwip,Nadia,GEN,All India Trinamool Congress,0.9485386
+85,Krishnanagar Dakshin,Nadia,GEN,All India Trinamool Congress,0.9402453
+86,Santipur,Nadia,GEN,Bharatiya Janta Party,0.94688576
+87,Ranaghat Uttar Paschim,Nadia,GEN,Bharatiya Janta Party,0.9563203
+88,Krishnaganj,Nadia,SC,Bharatiya Janta Party,0.9821322
+89,Ranaghat Uttar Purba,Nadia,SC,Bharatiya Janta Party,0.9130568
+90,Ranaghat Dakshin,Nadia,SC,Bharatiya Janta Party,0.98706764
+91,Chakdaha,Nadia,GEN,Bharatiya Janta Party,0.92923975
+92,Kalyani,Nadia,SC,Bharatiya Janta Party,0.9962239
+93,Haringhata,Nadia,SC,Bharatiya Janta Party,0.9745668
+94,Bagda,North Twenty Four Parganas,SC,Bharatiya Janta Party,0.9977919
+95,Bangaon Uttar,North Twenty Four Parganas,SC,Bharatiya Janta Party,0.9875693
+96,Bangaon Dakshin,North Twenty Four Parganas,SC,Bharatiya Janta Party,0.9805043
+97,Gaighata,North Twenty Four Parganas,SC,Bharatiya Janta Party,0.9833234
+98,Swarupnagar,North Twenty Four Parganas,SC,All India Trinamool Congress,0.9752715
+99,Baduria,North Twenty Four Parganas,GEN,All India Trinamool Congress,0.9961825
+100,Habra,North Twenty Four Parganas,GEN,All India Trinamool Congress,0.98659337
+101,Ashoknagar,North Twenty Four Parganas,GEN,All India Trinamool Congress,0.98741865
+102,Amdanga,North Twenty Four Parganas,GEN,All India Trinamool Congress,0.9883273
+103,Bijpur,North Twenty Four Parganas,GEN,All India Trinamool Congress,0.9294251
+104,Naihati,North Twenty Four Parganas,GEN,All India Trinamool Congress,0.98447037
+105,Bhatpara,North Twenty Four Parganas,GEN,Bharatiya Janta Party,0.83271694
+106,Jagatdal,North Twenty Four Parganas,GEN,All India Trinamool Congress,0.9975089
+107,Noapara,North Twenty Four Parganas,GEN,All India Trinamool Congress,0.9910671
+108,Barrackpur,North Twenty Four Parganas,GEN,All India Trinamool Congress,0.9919171
+109,Khardaha,North Twenty Four Parganas,GEN,All India Trinamool Congress,0.9990606
+110,Dum Dum Uttar,North Twenty Four Parganas,GEN,All India Trinamool Congress,0.9863794
+111,Panihati,North Twenty Four Parganas,GEN,All India Trinamool Congress,0.99721247
+112,Kamarhati,North Twenty Four Parganas,GEN,All India Trinamool Congress,0.99855226
+113,Baranagar,North Twenty Four Parganas,GEN,All India Trinamool Congress,0.9989644
+114,Dum Dum,North Twenty Four Parganas,GEN,All India Trinamool Congress,0.9953733
+115,Rajarhat New Town,North Twenty Four Parganas,GEN,All India Trinamool Congress,0.9981542
+116,Bidhannagar,North Twenty Four Parganas,GEN,All India Trinamool Congress,0.97481155
+117,Rajarhat  Gopalpur,North Twenty Four Parganas,GEN,All India Trinamool Congress,0.99494725
+118,Madhyamgram,North Twenty Four Parganas,GEN,All India Trinamool Congress,0.9990447
+119,Barasat,North Twenty Four Parganas,GEN,All India Trinamool Congress,0.9958568
+120,Deganga,North Twenty Four Parganas,GEN,All India Trinamool Congress,0.9988016
+121,Haroa,North Twenty Four Parganas,GEN,All India Trinamool Congress,0.9966157
+122,Minakhan,North Twenty Four Parganas,SC,All India Trinamool Congress,0.99916613
+123,Sandeshkhali,North Twenty Four Parganas,ST,All India Trinamool Congress,0.9996351
+124,Basirhat Dakshin,North Twenty Four Parganas,GEN,All India Trinamool Congress,0.99461836
+125,Basirhat Uttar,North Twenty Four Parganas,GEN,All India Trinamool Congress,0.982143
+126,Hingalganj,North Twenty Four Parganas,SC,All India Trinamool Congress,0.9834811
+127,Gosaba,South  Twenty Four Parganas,SC,All India Trinamool Congress,0.99733233
+128,Basanti,South  Twenty Four Parganas,SC,All India Trinamool Congress,0.9992805
+129,Kultali,South  Twenty Four Parganas,SC,All India Trinamool Congress,0.9943751
+130,Patharpratima,South  Twenty Four Parganas,GEN,All India Trinamool Congress,0.984718
+131,Kakdwip,South  Twenty Four Parganas,GEN,All India Trinamool Congress,0.9356848
+132,Sagar,South  Twenty Four Parganas,GEN,All India Trinamool Congress,0.98062176
+133,Kulpi,South  Twenty Four Parganas,GEN,All India Trinamool Congress,0.99884003
+134,Raidighi,South  Twenty Four Parganas,GEN,All India Trinamool Congress,0.9859044
+135,Mandirbazar,South  Twenty Four Parganas,SC,All India Trinamool Congress,0.9971607
+136,Jaynagar,South  Twenty Four Parganas,SC,All India Trinamool Congress,0.99853086
+137,Baruipur Purba,South  Twenty Four Parganas,SC,All India Trinamool Congress,0.99564904
+138,Canning Paschim,South  Twenty Four Parganas,SC,All India Trinamool Congress,0.9971233
+139,Canning Purba,South  Twenty Four Parganas,GEN,All India Trinamool Congress,0.9769082
+140,Baruipur Paschim,South  Twenty Four Parganas,GEN,All India Trinamool Congress,0.9995154
+141,Magrahat Purba,South  Twenty Four Parganas,SC,All India Trinamool Congress,0.99891746
+142,Magrahat Paschim,South  Twenty Four Parganas,GEN,All India Trinamool Congress,0.99938035
+143,Diamond Harbour,South  Twenty Four Parganas,GEN,All India Trinamool Congress,0.9860043
+144,Falta,South  Twenty Four Parganas,GEN,All India Trinamool Congress,0.9995315
+145,Satgachhia,South  Twenty Four Parganas,GEN,All India Trinamool Congress,0.98798615
+146,Bishnupur (SC),South  Twenty Four Parganas,SC,All India Trinamool Congress,0.99772114
+147,Sonarpur Dakshin,South  Twenty Four Parganas,GEN,All India Trinamool Congress,0.9940274
+148,Bhangar,South  Twenty Four Parganas,GEN,OTHER,0.74582964
+149,Kasba,South  Twenty Four Parganas,GEN,All India Trinamool Congress,0.9969336
+150,Jadavpur,South  Twenty Four Parganas,GEN,All India Trinamool Congress,0.99766004
+151,Sonarpur Uttar,South  Twenty Four Parganas,GEN,All India Trinamool Congress,0.9962475
+152,Tollyganj,South  Twenty Four Parganas,GEN,All India Trinamool Congress,0.99493825
+153,Behala Purba,South  Twenty Four Parganas,GEN,All India Trinamool Congress,0.9957157
+154,Behala Paschim,South  Twenty Four Parganas,GEN,All India Trinamool Congress,0.99770194
+155,Maheshtala,South  Twenty Four Parganas,GEN,All India Trinamool Congress,0.99943715
+156,Budge Budge,South  Twenty Four Parganas,GEN,All India Trinamool Congress,0.9997867
+157,Metiaburuz,South  Twenty Four Parganas,GEN,All India Trinamool Congress,0.9990213
+158,Kolkata Port,Kolkata,GEN,All India Trinamool Congress,0.9993318
+159,Bhabanipur,Kolkata,GEN,All India Trinamool Congress,0.9987954
+160,Rashbehari,Kolkata,GEN,All India Trinamool Congress,0.99583495
+161,Ballygunge,Kolkata,GEN,All India Trinamool Congress,0.99918836
+162,Chowrangee,Kolkata,GEN,All India Trinamool Congress,0.99863523
+163,Entally,Kolkata,GEN,All India Trinamool Congress,0.9993376
+164,Beleghata,Kolkata,GEN,All India Trinamool Congress,0.9990633
+165,Jorasanko,Kolkata,GEN,All India Trinamool Congress,0.96242017
+166,Shyampukur,Kolkata,GEN,All India Trinamool Congress,0.9984932
+167,Maniktola,Kolkata,GEN,All India Trinamool Congress,0.99620795
+168,Kashipur-Belgachhia,Kolkata,GEN,All India Trinamool Congress,0.99921227
+169,Bally,Haora,GEN,All India Trinamool Congress,0.9882345
+170,Howrah Uttar,Haora,GEN,All India Trinamool Congress,0.982622
+171,Howrah Madhya,Haora,GEN,All India Trinamool Congress,0.9974833
+172,Shibpur,Haora,GEN,All India Trinamool Congress,0.999206
+173,Howrah Dakshin,Haora,GEN,All India Trinamool Congress,0.9985536
+174,Sankrail,Haora,SC,All India Trinamool Congress,0.9990395
+175,Panchla,Haora,GEN,All India Trinamool Congress,0.9987142
+176,Uluberia Purba,Haora,GEN,All India Trinamool Congress,0.99946076
+177,Uluberia Uttar,Haora,SC,All India Trinamool Congress,0.999012
+178,Uluberia Dakshin,Haora,GEN,All India Trinamool Congress,0.9971317
+179,Shyampur,Haora,GEN,All India Trinamool Congress,0.98781395
+180,Bagnan,Haora,GEN,All India Trinamool Congress,0.9993605
+181,Amta,Haora,GEN,All India Trinamool Congress,0.98946
+182,Udaynarayanpur,Haora,GEN,All India Trinamool Congress,0.99927944
+183,Jagatballavpur,Haora,GEN,All India Trinamool Congress,0.99673367
+184,Domjur,Haora,GEN,All India Trinamool Congress,0.9917173
+185,Uttarpara,Hugli,GEN,All India Trinamool Congress,0.9977781
+186,Sreerampur,Hugli,GEN,All India Trinamool Congress,0.98340005
+187,Champdani,Hugli,GEN,All India Trinamool Congress,0.993526
+188,Singur,Hugli,GEN,All India Trinamool Congress,0.9991301
+189,Chandannagar,Hugli,GEN,All India Trinamool Congress,0.9983719
+190,Chunchura,Hugli,GEN,All India Trinamool Congress,0.87149054
+191,Balagarh,Hugli,SC,All India Trinamool Congress,0.9180087
+192,Pandua,Hugli,GEN,All India Trinamool Congress,0.99715245
+193,Saptagram,Hugli,GEN,All India Trinamool Congress,0.9841039
+194,Chanditala,Hugli,GEN,All India Trinamool Congress,0.9989417
+195,Jangipara,Hugli,GEN,All India Trinamool Congress,0.9969907
+196,Haripal,Hugli,GEN,All India Trinamool Congress,0.98785305
+197,Dhanekhali,Hugli,SC,All India Trinamool Congress,0.971618
+198,Tarakeswar,Hugli,GEN,All India Trinamool Congress,0.9953779
+199,Pursurah,Hugli,GEN,Bharatiya Janta Party,0.89466697
+200,Arambag,Hugli,SC,Bharatiya Janta Party,0.94009584
+201,Goghat,Hugli,SC,Bharatiya Janta Party,0.9723307
+202,Khanakul,Hugli,GEN,Bharatiya Janta Party,0.95653147
+203,Tamluk,Purba Medinipur,GEN,All India Trinamool Congress,0.97323316
+204,Panskura Purba,Purba Medinipur,GEN,All India Trinamool Congress,0.97786593
+205,Panskura Paschim,Purba Medinipur,GEN,All India Trinamool Congress,0.9327776
+206,Moyna,Purba Medinipur,GEN,Bharatiya Janta Party,0.91761994
+207,Nandakumar,Purba Medinipur,GEN,All India Trinamool Congress,0.9361352
+208,Mahishadal,Purba Medinipur,GEN,All India Trinamool Congress,0.9667165
+209,Haldia,Purba Medinipur,SC,All India Trinamool Congress,0.6240982
+210,Nandigram,Purba Medinipur,GEN,All India Trinamool Congress,0.7734777
+211,Chandipur,Purba Medinipur,GEN,All India Trinamool Congress,0.96803033
+212,Patashpur,Purba Medinipur,GEN,All India Trinamool Congress,0.9544267
+213,Kanthi Uttar,Purba Medinipur,GEN,Bharatiya Janta Party,0.89621305
+214,Bhagabanpur,Purba Medinipur,GEN,All India Trinamool Congress,0.7967374
+215,Khejuri,Purba Medinipur,SC,Bharatiya Janta Party,0.92368317
+216,Kanthi Dakshin,Purba Medinipur,GEN,Bharatiya Janta Party,0.90297335
+217,Ramnagar,Purba Medinipur,GEN,All India Trinamool Congress,0.9762083
+218,Egra,Purba Medinipur,GEN,All India Trinamool Congress,0.9834796
+219,Dantan,Paschim Medinipur,GEN,All India Trinamool Congress,0.9212969
+220,Nayagram,Paschim Medinipur,ST,All India Trinamool Congress,0.99528104
+221,Gopiballavpur,Paschim Medinipur,GEN,All India Trinamool Congress,0.9874407
+222,Jhargram,Paschim Medinipur,GEN,All India Trinamool Congress,0.9985207
+223,Keshiary,Paschim Medinipur,ST,All India Trinamool Congress,0.98848456
+224,Kharagpur Sadar,Paschim Medinipur,GEN,Bharatiya Janta Party,0.9376277
+225,Narayangarh,Paschim Medinipur,GEN,All India Trinamool Congress,0.9801517
+226,Sabang,Paschim Medinipur,GEN,All India Trinamool Congress,0.9825036
+227,Pingla,Paschim Medinipur,GEN,All India Trinamool Congress,0.96106213
+228,Kharagpur,Paschim Medinipur,GEN,All India Trinamool Congress,0.9984633
+229,Debra,Paschim Medinipur,GEN,All India Trinamool Congress,0.9622678
+230,Daspur,Paschim Medinipur,GEN,All India Trinamool Congress,0.8121165
+231,Ghatal,Paschim Medinipur,SC,Bharatiya Janta Party,0.9691664
+232,Chandrakona,Paschim Medinipur,SC,All India Trinamool Congress,0.6606054
+233,Garbeta,Paschim Medinipur,GEN,All India Trinamool Congress,0.9872143
+234,Salboni,Paschim Medinipur,GEN,All India Trinamool Congress,0.66741294
+235,Keshpur,Paschim Medinipur,SC,All India Trinamool Congress,0.9549859
+236,Medinipur,Paschim Medinipur,GEN,All India Trinamool Congress,0.99688786
+237,Binpur,Paschim Medinipur,ST,All India Trinamool Congress,0.9987343
+238,Bandwan,Puruliya,ST,All India Trinamool Congress,0.98161775
+239,Balarampur,Puruliya,GEN,Bharatiya Janta Party,0.95061654
+240,Baghmundi,Puruliya,GEN,All India Trinamool Congress,0.977114
+241,Joypur,Puruliya,GEN,Bharatiya Janta Party,0.95804626
+242,Purulia,Puruliya,GEN,Bharatiya Janta Party,0.9211675
+243,Manbazar,Puruliya,ST,All India Trinamool Congress,0.98169196
+244,Kashipur,Puruliya,GEN,Bharatiya Janta Party,0.96948606
+245,Para,Puruliya,SC,Bharatiya Janta Party,0.99910754
+246,Raghunathpur,Puruliya,SC,Bharatiya Janta Party,0.94786465
+247,Saltora,Bankura,SC,Bharatiya Janta Party,0.9442089
+248,Chhatna,Bankura,GEN,Bharatiya Janta Party,0.9898093
+249,Ranibandh,Bankura,ST,All India Trinamool Congress,0.9230386
+250,Raipur,Bankura,ST,All India Trinamool Congress,0.98371524
+251,Taldangra,Bankura,GEN,All India Trinamool Congress,0.97991973
+252,Bankura,Bankura,GEN,Bharatiya Janta Party,0.9736258
+253,Barjora,Bankura,GEN,All India Trinamool Congress,0.94686615
+254,Onda,Bankura,GEN,Bharatiya Janta Party,0.9140608
+255,Bishnupur,Bankura,SC,Bharatiya Janta Party,0.9573606
+256,Katulpur,Bankura,SC,Bharatiya Janta Party,0.9893289
+257,Indus,Bankura,SC,Bharatiya Janta Party,0.98070407
+258,Sonamukhi,Bankura,SC,Bharatiya Janta Party,0.96007055
+259,Khandaghosh,Barddhaman,SC,All India Trinamool Congress,0.9955
+260,Burdwan Dakshin,Barddhaman,GEN,All India Trinamool Congress,0.9405242
+261,Raina,Barddhaman,SC,All India Trinamool Congress,0.990657
+262,Jamalpur,Barddhaman,SC,All India Trinamool Congress,0.9977258
+263,Monteswar,Barddhaman,GEN,All India Trinamool Congress,0.9996662
+264,Kalna,Barddhaman,SC,All India Trinamool Congress,0.9714423
+265,Memari,Barddhaman,GEN,All India Trinamool Congress,0.9994623
+266,Burdwan Uttar,Barddhaman,SC,All India Trinamool Congress,0.985973
+267,Bhatar,Barddhaman,GEN,All India Trinamool Congress,0.99965966
+268,Purbasthali Dakshin,Barddhaman,GEN,All India Trinamool Congress,0.9994679
+269,Purbasthali Uttar,Barddhaman,GEN,All India Trinamool Congress,0.99660647
+270,Katwa,Barddhaman,GEN,All India Trinamool Congress,0.99267817
+271,Ketugram,Barddhaman,GEN,All India Trinamool Congress,0.99856853
+272,Mongalkote,Barddhaman,GEN,All India Trinamool Congress,0.99952316
+273,Ausgram,Barddhaman,SC,All India Trinamool Congress,0.94752645
+274,Galsi,Barddhaman,SC,All India Trinamool Congress,0.9981528
+275,Pandabeswar,Barddhaman,GEN,All India Trinamool Congress,0.962286
+276,Durgapur Purba,Barddhaman,GEN,Bharatiya Janta Party,0.7398666
+277,Durgapur Paschim,Barddhaman,GEN,Bharatiya Janta Party,0.9106405
+278,Raniganj,Barddhaman,GEN,Bharatiya Janta Party,0.8528579
+279,Jamuria,Barddhaman,GEN,All India Trinamool Congress,0.9733498
+280,Asnsol Dakshin,Barddhaman,GEN,Bharatiya Janta Party,0.962441
+281,Asansol Uttar,Barddhaman,GEN,All India Trinamool Congress,0.9148675
+282,Kulti,Barddhaman,GEN,Bharatiya Janta Party,0.9574749
+283,Barabani,Barddhaman,GEN,All India Trinamool Congress,0.9923038
+284,Dubrajpur,Birbhum,SC,Bharatiya Janta Party,0.91885465
+285,Suri,Birbhum,GEN,All India Trinamool Congress,0.9720348
+286,Bolpur,Birbhum,GEN,All India Trinamool Congress,0.99512047
+287,Nanoor,Birbhum,SC,All India Trinamool Congress,0.78800744
+288,Labhpur,Birbhum,GEN,All India Trinamool Congress,0.9959675
+289,Sainthia,Birbhum,SC,All India Trinamool Congress,0.96523994
+290,Mayureswar,Birbhum,GEN,All India Trinamool Congress,0.99250174
+291,Rampurhat,Birbhum,GEN,All India Trinamool Congress,0.9843753
+292,Hansan,Birbhum,GEN,All India Trinamool Congress,0.9997719
+293,Nalhati,Birbhum,GEN,All India Trinamool Congress,0.9995167
+294,Murarai,Birbhum,GEN,All India Trinamool Congress,0.99914515

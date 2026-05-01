@@ -1,0 +1,295 @@
+AC_Number,Constituency_Name,District,Type,Predicted_Winner,Predicted_Winner_Prob,Flip_Risk
+131,Kakdwip,South  Twenty Four Parganas,GEN,Bharatiya Janta Party,0.4491852821694128,Very High
+227,Pingla,Paschim Medinipur,GEN,All India Trinamool Congress,0.4968431465366703,High
+73,Hariharpara,Murshidabad,GEN,All India Trinamool Congress,0.498488181552835,High
+165,Jorasanko,Kolkata,GEN,All India Trinamool Congress,0.5023992291598623,High
+229,Debra,Paschim Medinipur,GEN,Bharatiya Janta Party,0.5050382004675853,High
+289,Sainthia,Birbhum,SC,All India Trinamool Congress,0.5116395367469025,High
+103,Bijpur,North Twenty Four Parganas,GEN,Bharatiya Janta Party,0.5158585217094567,High
+235,Keshpur,Paschim Medinipur,SC,Bharatiya Janta Party,0.5170682739494697,High
+275,Pandabeswar,Barddhaman,GEN,All India Trinamool Congress,0.5196986664298446,High
+54,Baisnabnagar,Maldah,GEN,Bharatiya Janta Party,0.5205693673422165,High
+38,Kumarganj,Dakshin Dinajpur,GEN,All India Trinamool Congress,0.5255923397747213,High
+208,Mahishadal,Purba Medinipur,GEN,All India Trinamool Congress,0.5279205006840215,High
+32,Karandighi,Uttar Dinajpur,GEN,All India Trinamool Congress,0.5364084943459884,High
+211,Chandipur,Purba Medinipur,GEN,All India Trinamool Congress,0.5370678519438573,High
+212,Patashpur,Purba Medinipur,GEN,Bharatiya Janta Party,0.5428427480499184,High
+82,Chapra,Nadia,GEN,All India Trinamool Congress,0.5481150611888225,High
+78,Tehatta,Nadia,GEN,Bharatiya Janta Party,0.559355701858366,Medium
+264,Kalna,Barddhaman,SC,All India Trinamool Congress,0.5595009792705922,Medium
+67,Burwan,Murshidabad,SC,Bharatiya Janta Party,0.5653904133571148,Medium
+77,Karimpur,Nadia,GEN,Bharatiya Janta Party,0.5675107223675709,Medium
+48,Ratua,Maldah,GEN,All India Trinamool Congress,0.5692692376190583,Medium
+285,Suri,Birbhum,GEN,All India Trinamool Congress,0.5717174654529914,Medium
+197,Dhanekhali,Hugli,SC,All India Trinamool Congress,0.574687987541608,Medium
+84,Nabadwip,Nadia,GEN,Bharatiya Janta Party,0.5880755953077366,Medium
+273,Ausgram,Barddhaman,SC,Bharatiya Janta Party,0.594105550534622,Medium
+253,Barjora,Bankura,GEN,Bharatiya Janta Party,0.5962801672160536,Medium
+98,Swarupnagar,North Twenty Four Parganas,SC,All India Trinamool Congress,0.5965978007852156,Medium
+85,Krishnanagar Dakshin,Nadia,GEN,Bharatiya Janta Party,0.5992271345120334,Medium
+39,Balurghat,Dakshin Dinajpur,GEN,All India Trinamool Congress,0.6022839271574237,Medium
+279,Jamuria,Barddhaman,GEN,All India Trinamool Congress,0.6038429358751668,Medium
+22,Kalimpong,Darjiling,GEN,OTHER,0.6060048904676595,Medium
+207,Nandakumar,Purba Medinipur,GEN,Bharatiya Janta Party,0.6098956247374762,Medium
+203,Tamluk,Purba Medinipur,GEN,All India Trinamool Congress,0.6103522975450707,Medium
+217,Ramnagar,Purba Medinipur,GEN,All India Trinamool Congress,0.6107375755769003,Medium
+240,Baghmundi,Puruliya,GEN,All India Trinamool Congress,0.615987154060889,Medium
+260,Burdwan Dakshin,Barddhaman,GEN,Bharatiya Janta Party,0.6178553628278801,Medium
+204,Panskura Purba,Purba Medinipur,GEN,All India Trinamool Congress,0.6271951346602578,Medium
+205,Panskura Paschim,Purba Medinipur,GEN,Bharatiya Janta Party,0.6298976946198065,Medium
+251,Taldangra,Bankura,GEN,All India Trinamool Congress,0.6478168344861436,Medium
+225,Narayangarh,Paschim Medinipur,GEN,All India Trinamool Congress,0.6526976992381113,Low
+116,Bidhannagar,North Twenty Four Parganas,GEN,All India Trinamool Congress,0.6537539159807247,Low
+37,Kushmandi,Dakshin Dinajpur,SC,Bharatiya Janta Party,0.6675391192570549,Low
+243,Manbazar,Puruliya,ST,All India Trinamool Congress,0.6683943523982813,Low
+33,Hemtabad,Uttar Dinajpur,SC,Bharatiya Janta Party,0.6792728195650984,Low
+249,Ranibandh,Bankura,ST,Bharatiya Janta Party,0.6843434111357839,Low
+238,Bandwan,Puruliya,ST,All India Trinamool Congress,0.6854438111797488,Low
+219,Dantan,Paschim Medinipur,GEN,Bharatiya Janta Party,0.6910882126137063,Low
+65,Nabagram,Murshidabad,SC,All India Trinamool Congress,0.6933966785205016,Low
+191,Balagarh,Hugli,SC,Bharatiya Janta Party,0.6946830475686334,Low
+126,Hingalganj,North Twenty Four Parganas,SC,All India Trinamool Congress,0.6969503550454349,Low
+250,Raipur,Bankura,ST,All India Trinamool Congress,0.6977136468883507,Low
+186,Sreerampur,Hugli,GEN,All India Trinamool Congress,0.7001676089343544,Low
+281,Asansol Uttar,Barddhaman,GEN,Bharatiya Janta Party,0.7049672566412858,Low
+291,Rampurhat,Birbhum,GEN,All India Trinamool Congress,0.7075387939834791,Low
+218,Egra,Purba Medinipur,GEN,All India Trinamool Congress,0.7085270600781101,Low
+226,Sabang,Paschim Medinipur,GEN,All India Trinamool Congress,0.7092365175416383,Low
+193,Saptagram,Hugli,GEN,All India Trinamool Congress,0.7119282682186214,Low
+49,Manikchak,Maldah,GEN,All India Trinamool Congress,0.7200768211517661,Low
+1,Mekliganj,Koch Bihar,SC,Bharatiya Janta Party,0.737651301815008,Low
+100,Habra,North Twenty Four Parganas,GEN,All India Trinamool Congress,0.7436091408571783,Low
+110,Dum Dum Uttar,North Twenty Four Parganas,GEN,All India Trinamool Congress,0.7442935203739907,Low
+233,Garbeta,Paschim Medinipur,GEN,All India Trinamool Congress,0.7468973765270867,Low
+104,Naihati,North Twenty Four Parganas,GEN,All India Trinamool Congress,0.7472092261889118,Low
+148,Bhangar,South  Twenty Four Parganas,GEN,OTHER,0.7489100797476458,Low
+62,Bhagabangola,Murshidabad,GEN,All India Trinamool Congress,0.7490516988082614,Low
+266,Burdwan Uttar,Barddhaman,SC,All India Trinamool Congress,0.7496184600179256,Low
+29,Islampur,Uttar Dinajpur,GEN,All India Trinamool Congress,0.7497158419561799,Low
+221,Gopiballavpur,Paschim Medinipur,GEN,All India Trinamool Congress,0.7510182578859168,Very Low
+139,Canning Purba,South  Twenty Four Parganas,GEN,All India Trinamool Congress,0.7536194030524803,Very Low
+101,Ashoknagar,North Twenty Four Parganas,GEN,All India Trinamool Congress,0.7536860831559237,Very Low
+30,Goalpokhar,Uttar Dinajpur,GEN,All India Trinamool Congress,0.7546201409795833,Very Low
+42,Harirampur,Dakshin Dinajpur,GEN,All India Trinamool Congress,0.7559281930624379,Very Low
+190,Chunchura,Hugli,GEN,Bharatiya Janta Party,0.7562633767985624,Very Low
+58,Jangipur,Murshidabad,GEN,All India Trinamool Congress,0.7597745773411467,Very Low
+223,Keshiary,Paschim Medinipur,ST,All India Trinamool Congress,0.764478535983531,Very Low
+179,Shyampur,Haora,GEN,All India Trinamool Congress,0.7648928795245821,Very Low
+196,Haripal,Hugli,GEN,All India Trinamool Congress,0.7679630128195732,Very Low
+31,Chakulia,Uttar Dinajpur,GEN,All India Trinamool Congress,0.7711281922137481,Very Low
+102,Amdanga,North Twenty Four Parganas,GEN,All India Trinamool Congress,0.7716991706351884,Very Low
+132,Sagar,South  Twenty Four Parganas,GEN,All India Trinamool Congress,0.7747113530303603,Very Low
+143,Diamond Harbour,South  Twenty Four Parganas,GEN,All India Trinamool Congress,0.7865774083412727,Very Low
+69,Bharatpur,Murshidabad,GEN,All India Trinamool Congress,0.7941019493347206,Very Low
+181,Amta,Haora,GEN,All India Trinamool Congress,0.7975973292300469,Very Low
+75,Domkal,Murshidabad,GEN,All India Trinamool Congress,0.8037739182209794,Very Low
+45,Chanchal,Maldah,GEN,All India Trinamool Congress,0.8040685265978613,Very Low
+170,Howrah Uttar,Haora,GEN,All India Trinamool Congress,0.8048891364705092,Very Low
+134,Raidighi,South  Twenty Four Parganas,GEN,All India Trinamool Congress,0.810792385495387,Very Low
+63,Raninagar,Murshidabad,GEN,All India Trinamool Congress,0.8141809959569851,Very Low
+261,Raina,Barddhaman,SC,All India Trinamool Congress,0.8170023801537948,Very Low
+81,Nakashipara,Nadia,GEN,All India Trinamool Congress,0.8179253699862383,Very Low
+59,Raghunathganj,Murshidabad,GEN,All India Trinamool Congress,0.8191567024002009,Very Low
+50,Maldaha,Maldah,SC,Bharatiya Janta Party,0.8245270620183052,Very Low
+17,Jalpaiguri,Jalpaiguri,SC,Bharatiya Janta Party,0.8289482964271045,Very Low
+125,Basirhat Uttar,North Twenty Four Parganas,GEN,All India Trinamool Congress,0.8328646363039798,Very Low
+290,Mayureswar,Birbhum,GEN,All India Trinamool Congress,0.8358010124598191,Very Low
+130,Patharpratima,South  Twenty Four Parganas,GEN,All India Trinamool Congress,0.836095582355807,Very Low
+283,Barabani,Barddhaman,GEN,All India Trinamool Congress,0.8368526055468148,Very Low
+169,Bally,Haora,GEN,All India Trinamool Congress,0.8387006282074816,Very Low
+107,Noapara,North Twenty Four Parganas,GEN,All India Trinamool Congress,0.8395563648525238,Very Low
+56,Samserganj,Murshidabad,GEN,All India Trinamool Congress,0.8410089913582617,Very Low
+270,Katwa,Barddhaman,GEN,All India Trinamool Congress,0.84145967696214,Very Low
+145,Satgachhia,South  Twenty Four Parganas,GEN,All India Trinamool Congress,0.8419492141946677,Very Low
+79,Palashipara,Nadia,GEN,All India Trinamool Congress,0.8460655341596086,Very Low
+230,Daspur,Paschim Medinipur,GEN,Bharatiya Janta Party,0.8495510313915796,Very Low
+234,Salboni,Paschim Medinipur,GEN,Bharatiya Janta Party,0.8603086609884383,Very Low
+210,Nandigram,Purba Medinipur,GEN,Bharatiya Janta Party,0.8636132462642805,Very Low
+187,Champdani,Hugli,GEN,All India Trinamool Congress,0.8641771417481032,Very Low
+214,Bhagabanpur,Purba Medinipur,GEN,Bharatiya Janta Party,0.8651577457306856,Very Low
+184,Domjur,Haora,GEN,All India Trinamool Congress,0.8698547503905116,Very Low
+287,Nanoor,Birbhum,SC,Bharatiya Janta Party,0.8706081952791168,Very Low
+26,Siliguri,Darjiling,GEN,Bharatiya Janta Party,0.8772302522875194,Very Low
+74,Naoda,Murshidabad,GEN,All India Trinamool Congress,0.8772389826354042,Very Low
+35,Raiganj,Uttar Dinajpur,GEN,Bharatiya Janta Party,0.877267616825423,Very Low
+76,Jalangi,Murshidabad,GEN,All India Trinamool Congress,0.8805025001199278,Very Low
+68,Kandi,Murshidabad,GEN,All India Trinamool Congress,0.8860991326531741,Very Low
+152,Tollyganj,South  Twenty Four Parganas,GEN,All India Trinamool Congress,0.8895285712143345,Very Low
+220,Nayagram,Paschim Medinipur,ST,All India Trinamool Congress,0.8911234279407961,Very Low
+259,Khandaghosh,Barddhaman,SC,All India Trinamool Congress,0.8948288825788188,Very Low
+36,Itahar,Uttar Dinajpur,GEN,All India Trinamool Congress,0.8955322463900958,Very Low
+286,Bolpur,Birbhum,GEN,All India Trinamool Congress,0.8956075725139764,Very Low
+198,Tarakeswar,Hugli,GEN,All India Trinamool Congress,0.896426804537062,Very Low
+66,Khargram,Murshidabad,SC,All India Trinamool Congress,0.896946706517733,Very Low
+117,Rajarhat  Gopalpur,North Twenty Four Parganas,GEN,All India Trinamool Congress,0.8986378438377159,Very Low
+53,Sujapur,Maldah,GEN,All India Trinamool Congress,0.8990545868259973,Very Low
+129,Kultali,South  Twenty Four Parganas,SC,All India Trinamool Congress,0.8991802311207228,Very Low
+108,Barrackpur,North Twenty Four Parganas,GEN,All India Trinamool Congress,0.904435852773315,Very Low
+114,Dum Dum,North Twenty Four Parganas,GEN,All India Trinamool Congress,0.9050485331252855,Very Low
+28,Chopra,Uttar Dinajpur,GEN,Bharatiya Janta Party,0.9065605598688548,Very Low
+288,Labhpur,Birbhum,GEN,All India Trinamool Congress,0.9070787413552224,Very Low
+99,Baduria,North Twenty Four Parganas,GEN,All India Trinamool Congress,0.909851560413996,Very Low
+153,Behala Purba,South  Twenty Four Parganas,GEN,All India Trinamool Congress,0.9120801645106894,Very Low
+124,Basirhat Dakshin,North Twenty Four Parganas,GEN,All India Trinamool Congress,0.9142257515859764,Very Low
+160,Rashbehari,Kolkata,GEN,All India Trinamool Congress,0.9155496927227368,Very Low
+137,Baruipur Purba,South  Twenty Four Parganas,SC,All India Trinamool Congress,0.9161853340218952,Very Low
+147,Sonarpur Dakshin,South  Twenty Four Parganas,GEN,All India Trinamool Congress,0.9161934899562406,Very Low
+269,Purbasthali Uttar,Barddhaman,GEN,All India Trinamool Congress,0.918791610874529,Very Low
+80,Kaliganj,Nadia,GEN,All India Trinamool Congress,0.9211833950813964,Very Low
+167,Maniktola,Kolkata,GEN,All India Trinamool Congress,0.9232265510565836,Very Low
+232,Chandrakona,Paschim Medinipur,SC,Bharatiya Janta Party,0.9235481674731016,Very Low
+4,Cooch Behar Dakshin,Koch Bihar,GEN,Bharatiya Janta Party,0.924933960304649,Very Low
+119,Barasat,North Twenty Four Parganas,GEN,All India Trinamool Congress,0.9278550801781182,Very Low
+195,Jangipara,Hugli,GEN,All India Trinamool Congress,0.9310438296413632,Very Low
+178,Uluberia Dakshin,Haora,GEN,All India Trinamool Congress,0.9316696046003914,Very Low
+151,Sonarpur Uttar,South  Twenty Four Parganas,GEN,All India Trinamool Congress,0.9325752282022938,Very Low
+138,Canning Paschim,South  Twenty Four Parganas,SC,All India Trinamool Congress,0.9336701120429064,Very Low
+236,Medinipur,Paschim Medinipur,GEN,All India Trinamool Congress,0.9346040378759348,Very Low
+57,Suti,Murshidabad,GEN,All India Trinamool Congress,0.9363061257852766,Very Low
+121,Haroa,North Twenty Four Parganas,GEN,All India Trinamool Congress,0.937308732874561,Very Low
+192,Pandua,Hugli,GEN,All India Trinamool Congress,0.9382504549843272,Very Low
+209,Haldia,Purba Medinipur,SC,Bharatiya Janta Party,0.939780055600338,Very Low
+127,Gosaba,South  Twenty Four Parganas,SC,All India Trinamool Congress,0.9418133188854128,Very Low
+183,Jagatballavpur,Haora,GEN,All India Trinamool Congress,0.9422269814920156,Very Low
+135,Mandirbazar,South  Twenty Four Parganas,SC,All India Trinamool Congress,0.9430821588068932,Very Low
+262,Jamalpur,Barddhaman,SC,All India Trinamool Congress,0.9435804442874658,Very Low
+149,Kasba,South  Twenty Four Parganas,GEN,All India Trinamool Congress,0.94508047186778,Very Low
+46,Harischandrapur,Maldah,GEN,All India Trinamool Congress,0.9465830531019755,Very Low
+111,Panihati,North Twenty Four Parganas,GEN,All India Trinamool Congress,0.9465923932897904,Very Low
+171,Howrah Madhya,Haora,GEN,All India Trinamool Congress,0.9465939643906568,Very Low
+185,Uttarpara,Hugli,GEN,All India Trinamool Congress,0.9515328151761254,Very Low
+150,Jadavpur,South  Twenty Four Parganas,GEN,All India Trinamool Congress,0.9550382854676968,Very Low
+274,Galsi,Barddhaman,SC,All India Trinamool Congress,0.9556975488909378,Very Low
+154,Behala Paschim,South  Twenty Four Parganas,GEN,All India Trinamool Congress,0.9574257475175282,Very Low
+146,Bishnupur (SC),South  Twenty Four Parganas,SC,All India Trinamool Congress,0.9621469819433588,Very Low
+222,Jhargram,Paschim Medinipur,GEN,All India Trinamool Congress,0.9630159433445452,Very Low
+228,Kharagpur,Paschim Medinipur,GEN,All India Trinamool Congress,0.9638823760590046,Very Low
+106,Jagatdal,North Twenty Four Parganas,GEN,All India Trinamool Congress,0.9643085101933552,Very Low
+136,Jaynagar,South  Twenty Four Parganas,SC,All India Trinamool Congress,0.9645380868375112,Very Low
+271,Ketugram,Barddhaman,GEN,All India Trinamool Congress,0.9648992620207304,Very Low
+189,Chandannagar,Hugli,GEN,All India Trinamool Congress,0.9666326142098216,Very Low
+173,Howrah Dakshin,Haora,GEN,All India Trinamool Congress,0.9676416445028844,Very Low
+166,Shyampukur,Kolkata,GEN,All India Trinamool Congress,0.9687332451385996,Very Low
+47,Malatipur,Maldah,GEN,All India Trinamool Congress,0.9693904133716724,Very Low
+237,Binpur,Paschim Medinipur,ST,All India Trinamool Congress,0.9698224599127722,Very Low
+20,Mal,Jalpaiguri,ST,Bharatiya Janta Party,0.9707764087043076,Very Low
+175,Panchla,Haora,GEN,All India Trinamool Congress,0.9710311766607328,Very Low
+52,Mothabari,Maldah,GEN,All India Trinamool Congress,0.9711860574801848,Very Low
+60,Sagardighi,Murshidabad,GEN,All India Trinamool Congress,0.9719631049892264,Very Low
+162,Chowrangee,Kolkata,GEN,All India Trinamool Congress,0.9723485724747352,Very Low
+115,Rajarhat New Town,North Twenty Four Parganas,GEN,All India Trinamool Congress,0.9724105686476784,Very Low
+120,Deganga,North Twenty Four Parganas,GEN,All India Trinamool Congress,0.9749185576477674,Very Low
+141,Magrahat Purba,South  Twenty Four Parganas,SC,All India Trinamool Congress,0.9749771629176166,Very Low
+71,Beldanga,Murshidabad,GEN,All India Trinamool Congress,0.9749837241176854,Very Low
+112,Kamarhati,North Twenty Four Parganas,GEN,All India Trinamool Congress,0.975616879702906,Very Low
+159,Bhabanipur,Kolkata,GEN,All India Trinamool Congress,0.976046737332032,Very Low
+70,Rejinagar,Murshidabad,GEN,All India Trinamool Congress,0.9764790924614566,Very Low
+157,Metiaburuz,South  Twenty Four Parganas,GEN,All India Trinamool Congress,0.9767616043458228,Very Low
+133,Kulpi,South  Twenty Four Parganas,GEN,All India Trinamool Congress,0.9771559769415228,Very Low
+194,Chanditala,Hugli,GEN,All India Trinamool Congress,0.9776266033626708,Very Low
+55,Farakka,Murshidabad,GEN,All India Trinamool Congress,0.9786733241179604,Very Low
+174,Sankrail,Haora,SC,All India Trinamool Congress,0.9793512848395216,Very Low
+294,Murarai,Birbhum,GEN,All India Trinamool Congress,0.9796518509181996,Very Low
+188,Singur,Hugli,GEN,All India Trinamool Congress,0.9798028326011652,Very Low
+164,Beleghata,Kolkata,GEN,All India Trinamool Congress,0.9800798431842918,Very Low
+177,Uluberia Uttar,Haora,SC,All India Trinamool Congress,0.980788112494168,Very Low
+122,Minakhan,North Twenty Four Parganas,SC,All India Trinamool Congress,0.9820190429599908,Very Low
+109,Khardaha,North Twenty Four Parganas,GEN,All India Trinamool Congress,0.9820556211710104,Very Low
+276,Durgapur Purba,Barddhaman,GEN,Bharatiya Janta Party,0.9826271035242846,Very Low
+128,Basanti,South  Twenty Four Parganas,SC,All India Trinamool Congress,0.9826312063817064,Very Low
+161,Ballygunge,Kolkata,GEN,All India Trinamool Congress,0.9828973701253774,Very Low
+113,Baranagar,North Twenty Four Parganas,GEN,All India Trinamool Congress,0.9835871863238108,Very Low
+182,Udaynarayanpur,Haora,GEN,All India Trinamool Congress,0.9837895380429827,Very Low
+61,Lalgola,Murshidabad,GEN,All India Trinamool Congress,0.9838051483995718,Very Low
+172,Shibpur,Haora,GEN,All India Trinamool Congress,0.983846661047345,Very Low
+118,Madhyamgram,North Twenty Four Parganas,GEN,All India Trinamool Congress,0.98389965834106,Very Low
+168,Kashipur-Belgachhia,Kolkata,GEN,All India Trinamool Congress,0.984957287579972,Very Low
+180,Bagnan,Haora,GEN,All India Trinamool Congress,0.9853548987451024,Very Low
+268,Purbasthali Dakshin,Barddhaman,GEN,All India Trinamool Congress,0.9866198600520308,Very Low
+265,Memari,Barddhaman,GEN,All India Trinamool Congress,0.9871198574598312,Very Low
+142,Magrahat Paschim,South  Twenty Four Parganas,GEN,All India Trinamool Congress,0.9871941214653724,Very Low
+158,Kolkata Port,Kolkata,GEN,All India Trinamool Congress,0.9872312336715304,Very Low
+105,Bhatpara,North Twenty Four Parganas,GEN,Bharatiya Janta Party,0.9873670205460938,Very Low
+293,Nalhati,Birbhum,GEN,All India Trinamool Congress,0.9879107769223108,Very Low
+163,Entally,Kolkata,GEN,All India Trinamool Congress,0.988055865889956,Very Low
+155,Maheshtala,South  Twenty Four Parganas,GEN,All India Trinamool Congress,0.9880661529537712,Very Low
+272,Mongalkote,Barddhaman,GEN,All India Trinamool Congress,0.9883086930864508,Very Low
+14,Madarihat,Jalpaiguri,ST,Bharatiya Janta Party,0.9889755448983768,Very Low
+176,Uluberia Purba,Haora,GEN,All India Trinamool Congress,0.9890305243860964,Very Low
+140,Baruipur Paschim,South  Twenty Four Parganas,GEN,All India Trinamool Congress,0.9894839795081786,Very Low
+278,Raniganj,Barddhaman,GEN,Bharatiya Janta Party,0.9904811588855568,Very Low
+213,Kanthi Uttar,Purba Medinipur,GEN,Bharatiya Janta Party,0.9905601266279348,Very Low
+41,Gangarampur,Dakshin Dinajpur,SC,Bharatiya Janta Party,0.9906378988421216,Very Low
+144,Falta,South  Twenty Four Parganas,GEN,All India Trinamool Congress,0.9913029947983176,Very Low
+267,Bhatar,Barddhaman,GEN,All India Trinamool Congress,0.9914971764943896,Very Low
+123,Sandeshkhali,North Twenty Four Parganas,ST,All India Trinamool Congress,0.9916135639302964,Very Low
+263,Monteswar,Barddhaman,GEN,All India Trinamool Congress,0.9917059960095944,Very Low
+83,Krishnanagar Uttar,Nadia,GEN,Bharatiya Janta Party,0.9922160548611688,Very Low
+64,Murshidabad,Murshidabad,GEN,Bharatiya Janta Party,0.9935101698610715,Very Low
+16,Maynaguri,Jalpaiguri,SC,Bharatiya Janta Party,0.9938492805179592,Very Low
+18,Rajganj,Jalpaiguri,SC,Bharatiya Janta Party,0.9939064333678448,Very Low
+199,Pursurah,Hugli,GEN,Bharatiya Janta Party,0.9939155774398046,Very Low
+292,Hansan,Birbhum,GEN,All India Trinamool Congress,0.9944089000897874,Very Low
+206,Moyna,Purba Medinipur,GEN,Bharatiya Janta Party,0.99453640256355,Very Low
+216,Kanthi Dakshin,Purba Medinipur,GEN,Bharatiya Janta Party,0.9945628896765484,Very Low
+40,Tapan,Dakshin Dinajpur,ST,Bharatiya Janta Party,0.9946915390963794,Very Low
+254,Onda,Bankura,GEN,Bharatiya Janta Party,0.9947425132935512,Very Low
+215,Khejuri,Purba Medinipur,SC,Bharatiya Janta Party,0.9947605387390176,Very Low
+44,Gazole,Maldah,SC,Bharatiya Janta Party,0.9948087244542834,Very Low
+156,Budge Budge,South  Twenty Four Parganas,GEN,All India Trinamool Congress,0.994957433305641,Very Low
+277,Durgapur Paschim,Barddhaman,GEN,Bharatiya Janta Party,0.9950240759959944,Very Low
+89,Ranaghat Uttar Purba,Nadia,SC,Bharatiya Janta Party,0.9951255182720048,Very Low
+224,Kharagpur Sadar,Paschim Medinipur,GEN,Bharatiya Janta Party,0.9951399065237936,Very Low
+24,Kurseong,Darjiling,GEN,Bharatiya Janta Party,0.9951802336549004,Very Low
+15,Dhupguri,Jalpaiguri,SC,Bharatiya Janta Party,0.9952215475454724,Very Low
+242,Purulia,Puruliya,GEN,Bharatiya Janta Party,0.9956447655651952,Very Low
+284,Dubrajpur,Birbhum,SC,Bharatiya Janta Party,0.9957679247252996,Very Low
+91,Chakdaha,Nadia,GEN,Bharatiya Janta Party,0.9960695595320674,Very Low
+34,Kaliaganj,Uttar Dinajpur,SC,Bharatiya Janta Party,0.9961969491903918,Very Low
+8,Natabari,Koch Bihar,GEN,Bharatiya Janta Party,0.9962502557570958,Very Low
+25,Matigara-Naxalbari,Darjiling,SC,Bharatiya Janta Party,0.9965007608149768,Very Low
+200,Arambag,Hugli,SC,Bharatiya Janta Party,0.9969423332598806,Very Low
+87,Ranaghat Uttar Paschim,Nadia,GEN,Bharatiya Janta Party,0.9970026052774604,Very Low
+247,Saltora,Bankura,SC,Bharatiya Janta Party,0.997045041923344,Very Low
+86,Santipur,Nadia,GEN,Bharatiya Janta Party,0.9970670796802452,Very Low
+246,Raghunathpur,Puruliya,SC,Bharatiya Janta Party,0.9971769476144486,Very Low
+239,Balarampur,Puruliya,GEN,Bharatiya Janta Party,0.9973015351498502,Very Low
+6,Sitai,Koch Bihar,SC,Bharatiya Janta Party,0.9973840411276234,Very Low
+282,Kulti,Barddhaman,GEN,Bharatiya Janta Party,0.9974235354770352,Very Low
+43,Habibpur,Maldah,ST,Bharatiya Janta Party,0.9974312784986038,Very Low
+202,Khanakul,Hugli,GEN,Bharatiya Janta Party,0.9975335058454692,Very Low
+255,Bishnupur,Bankura,SC,Bharatiya Janta Party,0.9975361645892912,Very Low
+280,Asnsol Dakshin,Barddhaman,GEN,Bharatiya Janta Party,0.9975578616795578,Very Low
+19,Dabgram-Fulbari,Jalpaiguri,GEN,Bharatiya Janta Party,0.9975761495665556,Very Low
+9,Tufanganj,Koch Bihar,GEN,Bharatiya Janta Party,0.9975796471013144,Very Low
+72,Baharampur,Murshidabad,GEN,Bharatiya Janta Party,0.997625181481956,Very Low
+241,Joypur,Puruliya,GEN,Bharatiya Janta Party,0.9977847504562511,Very Low
+2,Mathabhanga,Koch Bihar,SC,Bharatiya Janta Party,0.9978137602390402,Very Low
+51,Englishbazar,Maldah,GEN,Bharatiya Janta Party,0.9978282106279192,Very Low
+258,Sonamukhi,Bankura,SC,Bharatiya Janta Party,0.9978755440742544,Very Low
+10,Kumargram,Jalpaiguri,ST,Bharatiya Janta Party,0.99799582497681,Very Low
+12,Alipurduars,Jalpaiguri,GEN,Bharatiya Janta Party,0.9980752907699024,Very Low
+231,Ghatal,Paschim Medinipur,SC,Bharatiya Janta Party,0.998081138352371,Very Low
+244,Kashipur,Puruliya,GEN,Bharatiya Janta Party,0.9981444644903132,Very Low
+7,Dinhata,Koch Bihar,GEN,Bharatiya Janta Party,0.9984211590326206,Very Low
+27,Phansidewa,Darjiling,ST,Bharatiya Janta Party,0.9984849833804458,Very Low
+252,Bankura,Bankura,GEN,Bharatiya Janta Party,0.9985112702262856,Very Low
+201,Goghat,Hugli,SC,Bharatiya Janta Party,0.99852800393328,Very Low
+21,Nagrakata,Jalpaiguri,ST,Bharatiya Janta Party,0.9986065344545534,Very Low
+93,Haringhata,Nadia,SC,Bharatiya Janta Party,0.9986455566481588,Very Low
+13,Falakata,Jalpaiguri,SC,Bharatiya Janta Party,0.9986548586935567,Very Low
+5,Sitalkuchi,Koch Bihar,SC,Bharatiya Janta Party,0.9986847450730018,Very Low
+23,Darjeeling,Darjiling,GEN,Bharatiya Janta Party,0.9986982416375614,Very Low
+88,Krishnaganj,Nadia,SC,Bharatiya Janta Party,0.9987858027772424,Very Low
+256,Katulpur,Bankura,SC,Bharatiya Janta Party,0.9988601306328426,Very Low
+257,Indus,Bankura,SC,Bharatiya Janta Party,0.9989394234968926,Very Low
+90,Ranaghat Dakshin,Nadia,SC,Bharatiya Janta Party,0.9989510157135852,Very Low
+3,Coochbehar Uttar,Koch Bihar,SC,Bharatiya Janta Party,0.9989634119076928,Very Low
+96,Bangaon Dakshin,North Twenty Four Parganas,SC,Bharatiya Janta Party,0.998972128780702,Very Low
+11,Kalchini,Jalpaiguri,ST,Bharatiya Janta Party,0.9990914033595564,Very Low
+97,Gaighata,North Twenty Four Parganas,SC,Bharatiya Janta Party,0.9991628223718948,Very Low
+95,Bangaon Uttar,North Twenty Four Parganas,SC,Bharatiya Janta Party,0.9993178338211284,Very Low
+248,Chhatna,Bankura,GEN,Bharatiya Janta Party,0.9993610967287232,Very Low
+94,Bagda,North Twenty Four Parganas,SC,Bharatiya Janta Party,0.9997424654624952,Very Low
+92,Kalyani,Nadia,SC,Bharatiya Janta Party,0.9997713524182932,Very Low
+245,Para,Puruliya,SC,Bharatiya Janta Party,0.999918629569765,Very Low

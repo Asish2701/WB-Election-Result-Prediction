@@ -1,0 +1,295 @@
+AC_Number,Constituency_Name,District,Type,P_All India Trinamool Congress,P_Bharatiya Janta Party,P_OTHER,Predicted_Winner,Predicted_Winner_Prob
+12,Alipurduars,Jalpaiguri,GEN,0.017617881,0.9793282,0.0030539294,Bharatiya Janta Party,0.9793282
+102,Amdanga,North Twenty Four Parganas,GEN,0.9883273,0.0104704825,0.0012022321,All India Trinamool Congress,0.9883273
+181,Amta,Haora,GEN,0.98946,0.008750321,0.0017896951,All India Trinamool Congress,0.98946
+200,Arambag,Hugli,SC,0.059456214,0.94009584,0.00044794832,Bharatiya Janta Party,0.94009584
+280,Asnsol Dakshin,Barddhaman,GEN,0.03549887,0.962441,0.002060135,Bharatiya Janta Party,0.962441
+281,Asansol Uttar,Barddhaman,GEN,0.9148675,0.08286925,0.002263182,All India Trinamool Congress,0.9148675
+101,Ashoknagar,North Twenty Four Parganas,GEN,0.98741865,0.011696936,0.00088443275,All India Trinamool Congress,0.98741865
+273,Ausgram,Barddhaman,SC,0.94752645,0.051797155,0.0006763469,All India Trinamool Congress,0.94752645
+99,Baduria,North Twenty Four Parganas,GEN,0.9961825,0.0035920003,0.00022550425,All India Trinamool Congress,0.9961825
+94,Bagda,North Twenty Four Parganas,SC,0.0017024197,0.9977919,0.00050565193,Bharatiya Janta Party,0.9977919
+240,Baghmundi,Puruliya,GEN,0.977114,0.022483226,0.000402789,All India Trinamool Congress,0.977114
+180,Bagnan,Haora,GEN,0.9993605,0.00051015255,0.00012932092,All India Trinamool Congress,0.9993605
+72,Baharampur,Murshidabad,GEN,0.024263369,0.97233945,0.0033971898,Bharatiya Janta Party,0.97233945
+54,Baisnabnagar,Maldah,GEN,0.9580714,0.039467104,0.002461453,All India Trinamool Congress,0.9580714
+191,Balagarh,Hugli,SC,0.9180087,0.07940747,0.0025838255,All India Trinamool Congress,0.9180087
+239,Balarampur,Puruliya,GEN,0.04838078,0.95061654,0.0010026793,Bharatiya Janta Party,0.95061654
+169,Bally,Haora,GEN,0.9882345,0.004852309,0.006913129,All India Trinamool Congress,0.9882345
+161,Ballygunge,Kolkata,GEN,0.99918836,0.00056763616,0.00024398853,All India Trinamool Congress,0.99918836
+39,Balurghat,Dakshin Dinajpur,GEN,0.9681054,0.01991274,0.011981824,All India Trinamool Congress,0.9681054
+238,Bandwan,Puruliya,ST,0.98161775,0.01594519,0.002437026,All India Trinamool Congress,0.98161775
+96,Bangaon Dakshin,North Twenty Four Parganas,SC,0.019121211,0.9805043,0.00037452418,Bharatiya Janta Party,0.9805043
+95,Bangaon Uttar,North Twenty Four Parganas,SC,0.012091778,0.9875693,0.000338986,Bharatiya Janta Party,0.9875693
+252,Bankura,Bankura,GEN,0.025585838,0.9736258,0.0007883342,Bharatiya Janta Party,0.9736258
+283,Barabani,Barddhaman,GEN,0.9923038,0.006940169,0.0007559592,All India Trinamool Congress,0.9923038
+113,Baranagar,North Twenty Four Parganas,GEN,0.9989644,0.00042387831,0.0006116761,All India Trinamool Congress,0.9989644
+119,Barasat,North Twenty Four Parganas,GEN,0.9958568,0.0022809708,0.0018621944,All India Trinamool Congress,0.9958568
+260,Burdwan Dakshin,Barddhaman,GEN,0.9405242,0.057476725,0.0019990066,All India Trinamool Congress,0.9405242
+266,Burdwan Uttar,Barddhaman,SC,0.985973,0.011381911,0.0026450981,All India Trinamool Congress,0.985973
+253,Barjora,Bankura,GEN,0.94686615,0.052303184,0.0008306445,All India Trinamool Congress,0.94686615
+108,Barrackpur,North Twenty Four Parganas,GEN,0.9919171,0.0019300492,0.0061528175,All India Trinamool Congress,0.9919171
+140,Baruipur Paschim,South  Twenty Four Parganas,GEN,0.9995154,0.00035212343,0.0001324183,All India Trinamool Congress,0.9995154
+137,Baruipur Purba,South  Twenty Four Parganas,SC,0.99564904,0.0029275196,0.0014234666,All India Trinamool Congress,0.99564904
+128,Basanti,South  Twenty Four Parganas,SC,0.9992805,0.00062582444,9.363444e-05,All India Trinamool Congress,0.9992805
+124,Basirhat Dakshin,North Twenty Four Parganas,GEN,0.99461836,0.0025671953,0.0028144484,All India Trinamool Congress,0.99461836
+125,Basirhat Uttar,North Twenty Four Parganas,GEN,0.982143,0.0023869942,0.0154699795,All India Trinamool Congress,0.982143
+154,Behala Paschim,South  Twenty Four Parganas,GEN,0.99770194,0.0013423286,0.000955738,All India Trinamool Congress,0.99770194
+153,Behala Purba,South  Twenty Four Parganas,GEN,0.9957157,0.0032255326,0.0010587442,All India Trinamool Congress,0.9957157
+71,Beldanga,Murshidabad,GEN,0.9989808,0.00091982906,9.929531e-05,All India Trinamool Congress,0.9989808
+164,Beleghata,Kolkata,GEN,0.9990633,0.0006682014,0.00026853863,All India Trinamool Congress,0.9990633
+159,Bhabanipur,Kolkata,GEN,0.9987954,0.00077205984,0.00043253283,All India Trinamool Congress,0.9987954
+62,Bhagabangola,Murshidabad,GEN,0.98685026,0.011862345,0.0012874426,All India Trinamool Congress,0.98685026
+214,Bhagabanpur,Purba Medinipur,GEN,0.7967374,0.19882599,0.0044366303,All India Trinamool Congress,0.7967374
+148,Bhangar,South  Twenty Four Parganas,GEN,0.19031295,0.06385743,0.74582964,OTHER,0.74582964
+69,Bharatpur,Murshidabad,GEN,0.98969907,0.009162949,0.0011380448,All India Trinamool Congress,0.98969907
+267,Bhatar,Barddhaman,GEN,0.99965966,0.00030788744,3.244627e-05,All India Trinamool Congress,0.99965966
+105,Bhatpara,North Twenty Four Parganas,GEN,0.15758769,0.83271694,0.00969542,Bharatiya Janta Party,0.83271694
+116,Bidhannagar,North Twenty Four Parganas,GEN,0.97481155,0.0163479,0.008840574,All India Trinamool Congress,0.97481155
+103,Bijpur,North Twenty Four Parganas,GEN,0.9294251,0.04533098,0.025243927,All India Trinamool Congress,0.9294251
+237,Binpur,Paschim Medinipur,ST,0.9987343,0.0011011807,0.00016449753,All India Trinamool Congress,0.9987343
+146,Bishnupur (SC),South  Twenty Four Parganas,SC,0.99772114,0.0010727795,0.0012060838,All India Trinamool Congress,0.99772114
+255,Bishnupur,Bankura,SC,0.041307304,0.9573606,0.0013320852,Bharatiya Janta Party,0.9573606
+286,Bolpur,Birbhum,GEN,0.99512047,0.0040373183,0.0008421401,All India Trinamool Congress,0.99512047
+156,Budge Budge,South  Twenty Four Parganas,GEN,0.9997867,0.00017625591,3.714131e-05,All India Trinamool Congress,0.9997867
+67,Burwan,Murshidabad,SC,0.9378258,0.050236247,0.0119379135,All India Trinamool Congress,0.9378258
+138,Canning Paschim,South  Twenty Four Parganas,SC,0.9971233,0.002513963,0.00036266475,All India Trinamool Congress,0.9971233
+139,Canning Purba,South  Twenty Four Parganas,GEN,0.9769082,0.006601158,0.01649068,All India Trinamool Congress,0.9769082
+91,Chakdaha,Nadia,GEN,0.06938457,0.92923975,0.0013756335,Bharatiya Janta Party,0.92923975
+31,Chakulia,Uttar Dinajpur,GEN,0.98541915,0.00911521,0.0054656663,All India Trinamool Congress,0.98541915
+187,Champdani,Hugli,GEN,0.993526,0.005479589,0.0009944036,All India Trinamool Congress,0.993526
+45,Chanchal,Maldah,GEN,0.99065053,0.008778954,0.00057047047,All India Trinamool Congress,0.99065053
+189,Chandannagar,Hugli,GEN,0.9983719,0.00111613,0.0005120336,All India Trinamool Congress,0.9983719
+211,Chandipur,Purba Medinipur,GEN,0.96803033,0.030507464,0.0014622348,All India Trinamool Congress,0.96803033
+194,Chanditala,Hugli,GEN,0.9989417,0.0007505686,0.00030771564,All India Trinamool Congress,0.9989417
+232,Chandrakona,Paschim Medinipur,SC,0.6606054,0.33049238,0.008902286,All India Trinamool Congress,0.6606054
+82,Chapra,Nadia,GEN,0.9698636,0.029467972,0.00066848786,All India Trinamool Congress,0.9698636
+248,Chhatna,Bankura,GEN,0.009652744,0.9898093,0.00053791236,Bharatiya Janta Party,0.9898093
+28,Chopra,Uttar Dinajpur,GEN,0.72440284,0.27200252,0.003594624,All India Trinamool Congress,0.72440284
+162,Chowrangee,Kolkata,GEN,0.99863523,0.0009089339,0.00045584596,All India Trinamool Congress,0.99863523
+190,Chunchura,Hugli,GEN,0.87149054,0.114361815,0.014147603,All India Trinamool Congress,0.87149054
+4,Cooch Behar Dakshin,Koch Bihar,GEN,0.5370764,0.4188155,0.044108108,All India Trinamool Congress,0.5370764
+3,Coochbehar Uttar,Koch Bihar,SC,0.0073228264,0.9907212,0.0019559204,Bharatiya Janta Party,0.9907212
+19,Dabgram-Fulbari,Jalpaiguri,GEN,0.0075609377,0.9866463,0.0057927645,Bharatiya Janta Party,0.9866463
+219,Dantan,Paschim Medinipur,GEN,0.9212969,0.077421844,0.0012812664,All India Trinamool Congress,0.9212969
+23,Darjeeling,Darjiling,GEN,0.0033700615,0.9934087,0.0032212862,Bharatiya Janta Party,0.9934087
+230,Daspur,Paschim Medinipur,GEN,0.8121165,0.18157597,0.006307482,All India Trinamool Congress,0.8121165
+229,Debra,Paschim Medinipur,GEN,0.9622678,0.03676218,0.000969973,All India Trinamool Congress,0.9622678
+120,Deganga,North Twenty Four Parganas,GEN,0.9988016,0.00083945127,0.00035900233,All India Trinamool Congress,0.9988016
+197,Dhanekhali,Hugli,SC,0.971618,0.025901861,0.0024800852,All India Trinamool Congress,0.971618
+15,Dhupguri,Jalpaiguri,SC,0.008515527,0.9793052,0.01217926,Bharatiya Janta Party,0.9793052
+143,Diamond Harbour,South  Twenty Four Parganas,GEN,0.9860043,0.008030157,0.005965497,All India Trinamool Congress,0.9860043
+7,Dinhata,Koch Bihar,GEN,0.005373454,0.99089605,0.0037304764,Bharatiya Janta Party,0.99089605
+184,Domjur,Haora,GEN,0.9917173,0.004210214,0.0040725674,All India Trinamool Congress,0.9917173
+75,Domkal,Murshidabad,GEN,0.9901642,0.008569647,0.0012661573,All India Trinamool Congress,0.9901642
+284,Dubrajpur,Birbhum,SC,0.08054028,0.91885465,0.00060511957,Bharatiya Janta Party,0.91885465
+114,Dum Dum,North Twenty Four Parganas,GEN,0.9953733,0.0035255153,0.0011012068,All India Trinamool Congress,0.9953733
+110,Dum Dum Uttar,North Twenty Four Parganas,GEN,0.9863794,0.0120921675,0.0015285247,All India Trinamool Congress,0.9863794
+277,Durgapur Paschim,Barddhaman,GEN,0.087870754,0.9106405,0.0014887006,Bharatiya Janta Party,0.9106405
+276,Durgapur Purba,Barddhaman,GEN,0.25637078,0.7398666,0.0037625502,Bharatiya Janta Party,0.7398666
+218,Egra,Purba Medinipur,GEN,0.9834796,0.014315753,0.0022046845,All India Trinamool Congress,0.9834796
+51,Englishbazar,Maldah,GEN,0.025985142,0.9714065,0.0026084108,Bharatiya Janta Party,0.9714065
+163,Entally,Kolkata,GEN,0.9993376,0.00034837704,0.00031402204,All India Trinamool Congress,0.9993376
+13,Falakata,Jalpaiguri,SC,0.014653044,0.98350185,0.0018451092,Bharatiya Janta Party,0.98350185
+144,Falta,South  Twenty Four Parganas,GEN,0.9995315,0.00025864205,0.00020988044,All India Trinamool Congress,0.9995315
+55,Farakka,Murshidabad,GEN,0.9990275,0.0007312391,0.00024128013,All India Trinamool Congress,0.9990275
+97,Gaighata,North Twenty Four Parganas,SC,0.016483027,0.9833234,0.00019357291,Bharatiya Janta Party,0.9833234
+274,Galsi,Barddhaman,SC,0.9981528,0.0016569821,0.00019016888,All India Trinamool Congress,0.9981528
+41,Gangarampur,Dakshin Dinajpur,SC,0.07948472,0.906603,0.013912319,Bharatiya Janta Party,0.906603
+233,Garbeta,Paschim Medinipur,GEN,0.9872143,0.012246383,0.0005392264,All India Trinamool Congress,0.9872143
+44,Gazole,Maldah,SC,0.06747077,0.92759037,0.0049388562,Bharatiya Janta Party,0.92759037
+231,Ghatal,Paschim Medinipur,SC,0.029372767,0.9691664,0.0014608798,Bharatiya Janta Party,0.9691664
+30,Goalpokhar,Uttar Dinajpur,GEN,0.9823685,0.0091576325,0.00847378,All India Trinamool Congress,0.9823685
+201,Goghat,Hugli,SC,0.027132796,0.9723307,0.0005365366,Bharatiya Janta Party,0.9723307
+221,Gopiballavpur,Paschim Medinipur,GEN,0.9874407,0.011961217,0.00059802865,All India Trinamool Congress,0.9874407
+127,Gosaba,South  Twenty Four Parganas,SC,0.99733233,0.0021093327,0.00055833097,All India Trinamool Congress,0.99733233
+43,Habibpur,Maldah,ST,0.028919889,0.96778363,0.0032964787,Bharatiya Janta Party,0.96778363
+100,Habra,North Twenty Four Parganas,GEN,0.98659337,0.01226273,0.0011439073,All India Trinamool Congress,0.98659337
+209,Haldia,Purba Medinipur,SC,0.6240982,0.37349626,0.0024055827,All India Trinamool Congress,0.6240982
+292,Hansan,Birbhum,GEN,0.9997719,0.00019956543,2.855116e-05,All India Trinamool Congress,0.9997719
+121,Haroa,North Twenty Four Parganas,GEN,0.9966157,0.0020488403,0.0013354995,All India Trinamool Congress,0.9966157
+73,Hariharpara,Murshidabad,GEN,0.9629862,0.035471834,0.0015419713,All India Trinamool Congress,0.9629862
+93,Haringhata,Nadia,SC,0.024926296,0.9745668,0.000506955,Bharatiya Janta Party,0.9745668
+196,Haripal,Hugli,GEN,0.98785305,0.010580352,0.0015666024,All India Trinamool Congress,0.98785305
+42,Harirampur,Dakshin Dinajpur,GEN,0.9852026,0.010409991,0.0043874327,All India Trinamool Congress,0.9852026
+46,Harischandrapur,Maldah,GEN,0.9977585,0.0020192743,0.00022213468,All India Trinamool Congress,0.9977585
+33,Hemtabad,Uttar Dinajpur,SC,0.9189665,0.075787224,0.0052462793,All India Trinamool Congress,0.9189665
+126,Hingalganj,North Twenty Four Parganas,SC,0.9834811,0.015572614,0.0009462253,All India Trinamool Congress,0.9834811
+173,Howrah Dakshin,Haora,GEN,0.9985536,0.0011427922,0.00030358857,All India Trinamool Congress,0.9985536
+171,Howrah Madhya,Haora,GEN,0.9974833,0.0018890521,0.00062761176,All India Trinamool Congress,0.9974833
+170,Howrah Uttar,Haora,GEN,0.982622,0.0048501804,0.012527827,All India Trinamool Congress,0.982622
+257,Indus,Bankura,SC,0.01878683,0.98070407,0.0005091769,Bharatiya Janta Party,0.98070407
+29,Islampur,Uttar Dinajpur,GEN,0.9851291,0.01096263,0.003908283,All India Trinamool Congress,0.9851291
+36,Itahar,Uttar Dinajpur,GEN,0.99507695,0.0040217144,0.00090140954,All India Trinamool Congress,0.99507695
+150,Jadavpur,South  Twenty Four Parganas,GEN,0.99766004,0.0014645414,0.0008754338,All India Trinamool Congress,0.99766004
+183,Jagatballavpur,Haora,GEN,0.99673367,0.0018020195,0.0014643924,All India Trinamool Congress,0.99673367
+106,Jagatdal,North Twenty Four Parganas,GEN,0.9975089,0.00084648555,0.0016445928,All India Trinamool Congress,0.9975089
+76,Jalangi,Murshidabad,GEN,0.994756,0.0049025556,0.00034149876,All India Trinamool Congress,0.994756
+17,Jalpaiguri,Jalpaiguri,SC,0.8266515,0.16366312,0.009685378,All India Trinamool Congress,0.8266515
+262,Jamalpur,Barddhaman,SC,0.9977258,0.0021865738,8.760657e-05,All India Trinamool Congress,0.9977258
+279,Jamuria,Barddhaman,GEN,0.9733498,0.022326482,0.0043236725,All India Trinamool Congress,0.9733498
+195,Jangipara,Hugli,GEN,0.9969907,0.0026154919,0.0003938341,All India Trinamool Congress,0.9969907
+58,Jangipur,Murshidabad,GEN,0.9877621,0.011291521,0.0009463579,All India Trinamool Congress,0.9877621
+136,Jaynagar,South  Twenty Four Parganas,SC,0.99853086,0.0013129953,0.00015614845,All India Trinamool Congress,0.99853086
+222,Jhargram,Paschim Medinipur,GEN,0.9985207,0.0013973541,8.197587e-05,All India Trinamool Congress,0.9985207
+165,Jorasanko,Kolkata,GEN,0.96242017,0.03435729,0.0032226152,All India Trinamool Congress,0.96242017
+241,Joypur,Puruliya,GEN,0.041290544,0.95804626,0.0006631716,Bharatiya Janta Party,0.95804626
+131,Kakdwip,South  Twenty Four Parganas,GEN,0.9356848,0.03574736,0.02856787,All India Trinamool Congress,0.9356848
+11,Kalchini,Jalpaiguri,ST,0.009126144,0.98951334,0.0013605113,Bharatiya Janta Party,0.98951334
+34,Kaliaganj,Uttar Dinajpur,SC,0.043788485,0.95161825,0.004593298,Bharatiya Janta Party,0.95161825
+80,Kaliganj,Nadia,GEN,0.99674773,0.0031251868,0.00012711374,All India Trinamool Congress,0.99674773
+22,Kalimpong,Darjiling,GEN,0.12286457,0.13356313,0.7435723,OTHER,0.7435723
+264,Kalna,Barddhaman,SC,0.9714423,0.028312253,0.0002454426,All India Trinamool Congress,0.9714423
+92,Kalyani,Nadia,SC,0.0035983454,0.9962239,0.0001777635,Bharatiya Janta Party,0.9962239
+112,Kamarhati,North Twenty Four Parganas,GEN,0.99855226,0.0006826118,0.00076508406,All India Trinamool Congress,0.99855226
+68,Kandi,Murshidabad,GEN,0.99472964,0.004501365,0.0007689281,All India Trinamool Congress,0.99472964
+216,Kanthi Dakshin,Purba Medinipur,GEN,0.095437,0.90297335,0.0015896119,Bharatiya Janta Party,0.90297335
+213,Kanthi Uttar,Purba Medinipur,GEN,0.091507666,0.89621305,0.012279271,Bharatiya Janta Party,0.89621305
+32,Karandighi,Uttar Dinajpur,GEN,0.96822864,0.030730242,0.0010411324,All India Trinamool Congress,0.96822864
+77,Karimpur,Nadia,GEN,0.9493582,0.047539465,0.0031023682,All India Trinamool Congress,0.9493582
+149,Kasba,South  Twenty Four Parganas,GEN,0.9969336,0.001722173,0.0013442402,All India Trinamool Congress,0.9969336
+244,Kashipur,Puruliya,GEN,0.02920351,0.96948606,0.0013104534,Bharatiya Janta Party,0.96948606
+168,Kashipur-Belgachhia,Kolkata,GEN,0.99921227,0.00046302128,0.00032467666,All India Trinamool Congress,0.99921227
+256,Katulpur,Bankura,SC,0.008594553,0.9893289,0.002076468,Bharatiya Janta Party,0.9893289
+270,Katwa,Barddhaman,GEN,0.99267817,0.0067653493,0.00055650243,All India Trinamool Congress,0.99267817
+223,Keshiary,Paschim Medinipur,ST,0.98848456,0.011205649,0.00030983504,All India Trinamool Congress,0.98848456
+235,Keshpur,Paschim Medinipur,SC,0.9549859,0.039750684,0.005263316,All India Trinamool Congress,0.9549859
+271,Ketugram,Barddhaman,GEN,0.99856853,0.0013096145,0.00012177363,All India Trinamool Congress,0.99856853
+202,Khanakul,Hugli,GEN,0.042258095,0.95653147,0.0012104433,Bharatiya Janta Party,0.95653147
+259,Khandaghosh,Barddhaman,SC,0.9955,0.004269901,0.0002300235,All India Trinamool Congress,0.9955
+228,Kharagpur,Paschim Medinipur,GEN,0.9984633,0.0013195844,0.0002172207,All India Trinamool Congress,0.9984633
+224,Kharagpur Sadar,Paschim Medinipur,GEN,0.05678879,0.9376277,0.0055835433,Bharatiya Janta Party,0.9376277
+109,Khardaha,North Twenty Four Parganas,GEN,0.9990606,0.00055520487,0.00038424425,All India Trinamool Congress,0.9990606
+66,Khargram,Murshidabad,SC,0.99537164,0.0040659173,0.00056248176,All India Trinamool Congress,0.99537164
+215,Khejuri,Purba Medinipur,SC,0.07187915,0.92368317,0.004437657,Bharatiya Janta Party,0.92368317
+158,Kolkata Port,Kolkata,GEN,0.9993318,0.00039171302,0.00027642844,All India Trinamool Congress,0.9993318
+83,Krishnanagar Uttar,Nadia,GEN,0.14001094,0.85907644,0.00091267284,Bharatiya Janta Party,0.85907644
+88,Krishnaganj,Nadia,SC,0.016650727,0.9821322,0.0012171122,Bharatiya Janta Party,0.9821322
+85,Krishnanagar Dakshin,Nadia,GEN,0.9402453,0.05462755,0.005127116,All India Trinamool Congress,0.9402453
+133,Kulpi,South  Twenty Four Parganas,GEN,0.99884003,0.00072968716,0.00043030895,All India Trinamool Congress,0.99884003
+129,Kultali,South  Twenty Four Parganas,SC,0.9943751,0.0034436728,0.0021812338,All India Trinamool Congress,0.9943751
+282,Kulti,Barddhaman,GEN,0.040823437,0.9574749,0.0017016669,Bharatiya Janta Party,0.9574749
+38,Kumarganj,Dakshin Dinajpur,GEN,0.9653495,0.031265974,0.0033844966,All India Trinamool Congress,0.9653495
+10,Kumargram,Jalpaiguri,ST,0.019919423,0.9771164,0.0029641455,Bharatiya Janta Party,0.9771164
+24,Kurseong,Darjiling,GEN,0.008633606,0.97909,0.012276418,Bharatiya Janta Party,0.97909
+37,Kushmandi,Dakshin Dinajpur,SC,0.9101039,0.07644076,0.01345537,All India Trinamool Congress,0.9101039
+288,Labhpur,Birbhum,GEN,0.9959675,0.003672618,0.0003598419,All India Trinamool Congress,0.9959675
+61,Lalgola,Murshidabad,GEN,0.99927896,0.0005589776,0.0001620567,All India Trinamool Congress,0.99927896
+14,Madarihat,Jalpaiguri,ST,0.060907338,0.91806936,0.021023279,Bharatiya Janta Party,0.91806936
+118,Madhyamgram,North Twenty Four Parganas,GEN,0.9990447,0.00044389832,0.00051141885,All India Trinamool Congress,0.9990447
+142,Magrahat Paschim,South  Twenty Four Parganas,GEN,0.99938035,0.00041652264,0.0002030704,All India Trinamool Congress,0.99938035
+141,Magrahat Purba,South  Twenty Four Parganas,SC,0.99891746,0.00089047477,0.00019203746,All India Trinamool Congress,0.99891746
+155,Maheshtala,South  Twenty Four Parganas,GEN,0.99943715,0.0003944498,0.0001683363,All India Trinamool Congress,0.99943715
+208,Mahishadal,Purba Medinipur,GEN,0.9667165,0.031530507,0.0017530207,All India Trinamool Congress,0.9667165
+20,Mal,Jalpaiguri,ST,0.3440064,0.64562565,0.010367905,Bharatiya Janta Party,0.64562565
+47,Malatipur,Maldah,GEN,0.9984865,0.0010098675,0.00050364324,All India Trinamool Congress,0.9984865
+50,Maldaha,Maldah,SC,0.8484458,0.15012665,0.0014276236,All India Trinamool Congress,0.8484458
+243,Manbazar,Puruliya,ST,0.98169196,0.017971992,0.0003360075,All India Trinamool Congress,0.98169196
+135,Mandirbazar,South  Twenty Four Parganas,SC,0.9971607,0.0019508437,0.00088855735,All India Trinamool Congress,0.9971607
+272,Mongalkote,Barddhaman,GEN,0.99952316,0.00042114232,5.576091e-05,All India Trinamool Congress,0.99952316
+49,Manikchak,Maldah,GEN,0.98544794,0.014064994,0.00048703974,All India Trinamool Congress,0.98544794
+167,Maniktola,Kolkata,GEN,0.99620795,0.002739901,0.0010521264,All India Trinamool Congress,0.99620795
+2,Mathabhanga,Koch Bihar,SC,0.039286006,0.959859,0.00085501943,Bharatiya Janta Party,0.959859
+157,Metiaburuz,South  Twenty Four Parganas,GEN,0.9990213,0.0008371785,0.00014153258,All India Trinamool Congress,0.9990213
+25,Matigara-Naxalbari,Darjiling,SC,0.03839252,0.9570841,0.0045233644,Bharatiya Janta Party,0.9570841
+16,Maynaguri,Jalpaiguri,SC,0.003472515,0.9798481,0.01667933,Bharatiya Janta Party,0.9798481
+290,Mayureswar,Birbhum,GEN,0.99250174,0.0071160956,0.00038215445,All India Trinamool Congress,0.99250174
+236,Medinipur,Paschim Medinipur,GEN,0.99688786,0.0023447832,0.00076738605,All India Trinamool Congress,0.99688786
+1,Mekliganj,Koch Bihar,SC,0.88096255,0.10474876,0.014288759,All India Trinamool Congress,0.88096255
+265,Memari,Barddhaman,GEN,0.9994623,0.00045903717,7.8636396e-05,All India Trinamool Congress,0.9994623
+122,Minakhan,North Twenty Four Parganas,SC,0.99916613,0.0006067578,0.00022708545,All India Trinamool Congress,0.99916613
+263,Monteswar,Barddhaman,GEN,0.9996662,0.00029938188,3.4414028e-05,All India Trinamool Congress,0.9996662
+52,Mothabari,Maldah,GEN,0.9986651,0.0009899426,0.0003449272,All India Trinamool Congress,0.9986651
+206,Moyna,Purba Medinipur,GEN,0.07827302,0.91761994,0.0041070054,Bharatiya Janta Party,0.91761994
+294,Murarai,Birbhum,GEN,0.99914515,0.0007308713,0.00012393102,All India Trinamool Congress,0.99914515
+64,Murshidabad,Murshidabad,GEN,0.09223698,0.90304065,0.0047224425,Bharatiya Janta Party,0.90304065
+84,Nabadwip,Nadia,GEN,0.9485386,0.050640345,0.0008210259,All India Trinamool Congress,0.9485386
+65,Nabagram,Murshidabad,SC,0.9836332,0.016041383,0.00032537672,All India Trinamool Congress,0.9836332
+21,Nagrakata,Jalpaiguri,ST,0.011913786,0.985743,0.002343145,Bharatiya Janta Party,0.985743
+104,Naihati,North Twenty Four Parganas,GEN,0.98447037,0.010882575,0.004647112,All India Trinamool Congress,0.98447037
+81,Nakashipara,Nadia,GEN,0.9915623,0.008079226,0.00035850494,All India Trinamool Congress,0.9915623
+293,Nalhati,Birbhum,GEN,0.9995167,0.00044035766,4.2902175e-05,All India Trinamool Congress,0.9995167
+207,Nandakumar,Purba Medinipur,GEN,0.9361352,0.057499137,0.0063657155,All India Trinamool Congress,0.9361352
+210,Nandigram,Purba Medinipur,GEN,0.7734777,0.21170332,0.014818993,All India Trinamool Congress,0.7734777
+287,Nanoor,Birbhum,SC,0.78800744,0.20716476,0.0048277774,All India Trinamool Congress,0.78800744
+74,Naoda,Murshidabad,GEN,0.9946884,0.0050994037,0.00021224104,All India Trinamool Congress,0.9946884
+225,Narayangarh,Paschim Medinipur,GEN,0.9801517,0.019131323,0.00071697356,All India Trinamool Congress,0.9801517
+8,Natabari,Koch Bihar,GEN,0.04424829,0.95136505,0.0043867105,Bharatiya Janta Party,0.95136505
+220,Nayagram,Paschim Medinipur,ST,0.99528104,0.004418062,0.00030084074,All India Trinamool Congress,0.99528104
+107,Noapara,North Twenty Four Parganas,GEN,0.9910671,0.006140924,0.0027919665,All India Trinamool Congress,0.9910671
+254,Onda,Bankura,GEN,0.0830428,0.9140608,0.0028964377,Bharatiya Janta Party,0.9140608
+79,Palashipara,Nadia,GEN,0.99315417,0.006642768,0.00020311879,All India Trinamool Congress,0.99315417
+175,Panchla,Haora,GEN,0.9987142,0.0010218867,0.00026394948,All India Trinamool Congress,0.9987142
+275,Pandabeswar,Barddhaman,GEN,0.962286,0.030813903,0.006900095,All India Trinamool Congress,0.962286
+192,Pandua,Hugli,GEN,0.99715245,0.002243627,0.0006039467,All India Trinamool Congress,0.99715245
+111,Panihati,North Twenty Four Parganas,GEN,0.99721247,0.001761658,0.0010258608,All India Trinamool Congress,0.99721247
+205,Panskura Paschim,Purba Medinipur,GEN,0.9327776,0.061845813,0.0053766146,All India Trinamool Congress,0.9327776
+204,Panskura Purba,Purba Medinipur,GEN,0.97786593,0.021314932,0.0008191338,All India Trinamool Congress,0.97786593
+245,Para,Puruliya,SC,0.0007613149,0.99910754,0.00013110657,Bharatiya Janta Party,0.99910754
+212,Patashpur,Purba Medinipur,GEN,0.9544267,0.04303091,0.002542395,All India Trinamool Congress,0.9544267
+130,Patharpratima,South  Twenty Four Parganas,GEN,0.984718,0.0033703777,0.011911554,All India Trinamool Congress,0.984718
+27,Phansidewa,Darjiling,ST,0.01926279,0.97903466,0.0017025219,Bharatiya Janta Party,0.97903466
+227,Pingla,Paschim Medinipur,GEN,0.96106213,0.0348144,0.004123484,All India Trinamool Congress,0.96106213
+268,Purbasthali Dakshin,Barddhaman,GEN,0.9994679,0.0004896048,4.2487707e-05,All India Trinamool Congress,0.9994679
+269,Purbasthali Uttar,Barddhaman,GEN,0.99660647,0.0032119176,0.0001816083,All India Trinamool Congress,0.99660647
+199,Pursurah,Hugli,GEN,0.10322496,0.89466697,0.002108067,Bharatiya Janta Party,0.89466697
+242,Purulia,Puruliya,GEN,0.07748032,0.9211675,0.001352212,Bharatiya Janta Party,0.9211675
+59,Raghunathganj,Murshidabad,GEN,0.991236,0.007823458,0.00094054005,All India Trinamool Congress,0.991236
+246,Raghunathpur,Puruliya,SC,0.051180713,0.94786465,0.0009546235,Bharatiya Janta Party,0.94786465
+134,Raidighi,South  Twenty Four Parganas,GEN,0.9859044,0.0059425696,0.008153076,All India Trinamool Congress,0.9859044
+35,Raiganj,Uttar Dinajpur,GEN,0.746652,0.23649357,0.016854428,All India Trinamool Congress,0.746652
+261,Raina,Barddhaman,SC,0.990657,0.0077194683,0.001623534,All India Trinamool Congress,0.990657
+250,Raipur,Bankura,ST,0.98371524,0.015603492,0.00068128324,All India Trinamool Congress,0.98371524
+117,Rajarhat  Gopalpur,North Twenty Four Parganas,GEN,0.99494725,0.0037510938,0.0013016745,All India Trinamool Congress,0.99494725
+115,Rajarhat New Town,North Twenty Four Parganas,GEN,0.9981542,0.0006797177,0.001166021,All India Trinamool Congress,0.9981542
+18,Rajganj,Jalpaiguri,SC,0.09269804,0.9036522,0.0036497342,Bharatiya Janta Party,0.9036522
+217,Ramnagar,Purba Medinipur,GEN,0.9762083,0.022771098,0.0010205111,All India Trinamool Congress,0.9762083
+291,Rampurhat,Birbhum,GEN,0.9843753,0.014860391,0.00076434866,All India Trinamool Congress,0.9843753
+90,Ranaghat Dakshin,Nadia,SC,0.011492182,0.98706764,0.0014401379,Bharatiya Janta Party,0.98706764
+87,Ranaghat Uttar Paschim,Nadia,GEN,0.040846016,0.9563203,0.0028337277,Bharatiya Janta Party,0.9563203
+89,Ranaghat Uttar Purba,Nadia,SC,0.08535953,0.9130568,0.0015836789,Bharatiya Janta Party,0.9130568
+249,Ranibandh,Bankura,ST,0.9230386,0.07537739,0.001584056,All India Trinamool Congress,0.9230386
+278,Raniganj,Barddhaman,GEN,0.14242731,0.8528579,0.00471475,Bharatiya Janta Party,0.8528579
+63,Raninagar,Murshidabad,GEN,0.9912866,0.008250592,0.0004628701,All India Trinamool Congress,0.9912866
+160,Rashbehari,Kolkata,GEN,0.99583495,0.0030564882,0.0011085967,All India Trinamool Congress,0.99583495
+48,Ratua,Maldah,GEN,0.97181267,0.026877591,0.0013098199,All India Trinamool Congress,0.97181267
+70,Rejinagar,Murshidabad,GEN,0.9990299,0.0008573271,0.00011279453,All India Trinamool Congress,0.9990299
+226,Sabang,Paschim Medinipur,GEN,0.9825036,0.013761955,0.003734398,All India Trinamool Congress,0.9825036
+132,Sagar,South  Twenty Four Parganas,GEN,0.98062176,0.0064738467,0.012904457,All India Trinamool Congress,0.98062176
+60,Sagardighi,Murshidabad,GEN,0.9986847,0.0009543184,0.00036102536,All India Trinamool Congress,0.9986847
+289,Sainthia,Birbhum,SC,0.96523994,0.03393777,0.00082222954,All India Trinamool Congress,0.96523994
+234,Salboni,Paschim Medinipur,GEN,0.66741294,0.27182007,0.060766943,All India Trinamool Congress,0.66741294
+247,Saltora,Bankura,SC,0.055007108,0.9442089,0.0007839177,Bharatiya Janta Party,0.9442089
+56,Samserganj,Murshidabad,GEN,0.99239457,0.0066642766,0.0009411236,All India Trinamool Congress,0.99239457
+123,Sandeshkhali,North Twenty Four Parganas,ST,0.9996351,0.00028994912,7.4934775e-05,All India Trinamool Congress,0.9996351
+174,Sankrail,Haora,SC,0.9990395,0.0006983507,0.0002622034,All India Trinamool Congress,0.9990395
+86,Santipur,Nadia,GEN,0.051974684,0.94688576,0.0011395721,Bharatiya Janta Party,0.94688576
+193,Saptagram,Hugli,GEN,0.9841039,0.014260227,0.0016358116,All India Trinamool Congress,0.9841039
+145,Satgachhia,South  Twenty Four Parganas,GEN,0.98798615,0.00448593,0.0075279195,All India Trinamool Congress,0.98798615
+172,Shibpur,Haora,GEN,0.999206,0.0005224487,0.00027156982,All India Trinamool Congress,0.999206
+166,Shyampukur,Kolkata,GEN,0.9984932,0.001051063,0.00045578112,All India Trinamool Congress,0.9984932
+179,Shyampur,Haora,GEN,0.98781395,0.010842673,0.0013434172,All India Trinamool Congress,0.98781395
+26,Siliguri,Darjiling,GEN,0.7026747,0.2634647,0.033860616,All India Trinamool Congress,0.7026747
+188,Singur,Hugli,GEN,0.9991301,0.0007152294,0.00015467744,All India Trinamool Congress,0.9991301
+6,Sitai,Koch Bihar,SC,0.01975164,0.97557753,0.004670819,Bharatiya Janta Party,0.97557753
+5,Sitalkuchi,Koch Bihar,SC,0.0116383415,0.9861995,0.0021621399,Bharatiya Janta Party,0.9861995
+258,Sonamukhi,Bankura,SC,0.039234787,0.96007055,0.00069468527,Bharatiya Janta Party,0.96007055
+147,Sonarpur Dakshin,South  Twenty Four Parganas,GEN,0.9940274,0.0021605983,0.0038120353,All India Trinamool Congress,0.9940274
+151,Sonarpur Uttar,South  Twenty Four Parganas,GEN,0.9962475,0.002169252,0.0015832346,All India Trinamool Congress,0.9962475
+186,Sreerampur,Hugli,GEN,0.98340005,0.015179574,0.0014203299,All India Trinamool Congress,0.98340005
+53,Sujapur,Maldah,GEN,0.9956756,0.0040682293,0.00025608414,All India Trinamool Congress,0.9956756
+285,Suri,Birbhum,GEN,0.9720348,0.02659232,0.0013728642,All India Trinamool Congress,0.9720348
+57,Suti,Murshidabad,GEN,0.99738866,0.0024752188,0.00013608433,All India Trinamool Congress,0.99738866
+98,Swarupnagar,North Twenty Four Parganas,SC,0.9752715,0.024362305,0.00036620232,All India Trinamool Congress,0.9752715
+251,Taldangra,Bankura,GEN,0.97991973,0.019632384,0.000447835,All India Trinamool Congress,0.97991973
+203,Tamluk,Purba Medinipur,GEN,0.97323316,0.021331295,0.0054355958,All India Trinamool Congress,0.97323316
+40,Tapan,Dakshin Dinajpur,ST,0.039099198,0.9516168,0.009283929,Bharatiya Janta Party,0.9516168
+198,Tarakeswar,Hugli,GEN,0.9953779,0.0041039744,0.0005181062,All India Trinamool Congress,0.9953779
+78,Tehatta,Nadia,GEN,0.95322883,0.045450788,0.0013203542,All India Trinamool Congress,0.95322883
+152,Tollyganj,South  Twenty Four Parganas,GEN,0.99493825,0.0043645343,0.0006971706,All India Trinamool Congress,0.99493825
+9,Tufanganj,Koch Bihar,GEN,0.032947466,0.9647061,0.0023464144,Bharatiya Janta Party,0.9647061
+182,Udaynarayanpur,Haora,GEN,0.99927944,0.00056004984,0.00016057008,All India Trinamool Congress,0.99927944
+178,Uluberia Dakshin,Haora,GEN,0.9971317,0.0026428124,0.0002255003,All India Trinamool Congress,0.9971317
+176,Uluberia Purba,Haora,GEN,0.99946076,0.0003517196,0.00018757087,All India Trinamool Congress,0.99946076
+177,Uluberia Uttar,Haora,SC,0.999012,0.0006040548,0.00038398473,All India Trinamool Congress,0.999012
+185,Uttarpara,Hugli,GEN,0.9977781,0.0017297353,0.00049217476,All India Trinamool Congress,0.9977781

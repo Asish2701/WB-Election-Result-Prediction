@@ -1,0 +1,855 @@
+SubAction,Sno,Candidate_ID,Candidate,Constituency,Party,Criminal_Case_Value
+crime,1,788,Suman Kanjilal,ALIPURDUARS,BJP,12
+crime,2,792,Sourav Chakraborty (Ghutis),ALIPURDUARS,AITC,1
+crime,3,1479,Mafid Mondal,AMDANGA,IND,1
+crime,4,1482,Rafiqur Rahaman,AMDANGA,AITC,1
+crime,5,1483,Sahajan Ali,AMDANGA,United Socialist Party,1
+crime,6,1486,Joydev Manna,AMDANGA,BJP,1
+crime,7,477,Asit Mitra,AMTA,INC,1
+crime,8,561,Debtanu Bhattacharya,AMTA,BJP,2
+crime,10,535,Madhusudan Bag,ARAMBAG (SC),BJP,1
+crime,11,1865,Agnimitra Paul,ASANSOL DAKSHIN,BJP,2
+crime,12,1867,Krishnendu Mukherjee,ASANSOL UTTAR,BJP,17
+crime,13,1868,Mohammad Mustaqim,ASANSOL UTTAR,Rashtriya Secular Majlis Party,9
+crime,14,2112,Danish Aziz,ASANSOL UTTAR,All India Majlis-E-Ittehadul Muslimeen,1
+crime,15,1472,Tanuja Chakraborty,ASHOKNAGAR,BJP,2
+crime,16,1475,Tapas Banerjee,ASHOKNAGAR,Rashtriya Secular Majlis Party,1
+crime,17,1476,Narayan Goswami,ASHOKNAGAR,AITC,3
+crime,19,1452,Abdur Rahim Quazi,BADURIA,AITC,1
+crime,20,1419,Biswajit Das,BAGDA (SC),BJP,6
+crime,21,1422,Kirttaniya Prabir (Bapi),BAGDA (SC),INC,4
+crime,22,38,Nepal Chandra Mahato,BAGHMUNDI,INC,2
+crime,23,439,Arunava Sen (Raja),BAGNAN,AITC,1
+crime,24,560,Anupam Mallik,BAGNAN,BJP,3
+crime,25,658,Subhasish Adhikary,BAGNAN,IND,1
+crime,26,1951,Manoj Chakraborty,BAHARAMPUR,INC,3
+crime,28,1954,Goutam Ghosh (Dwarak Ghosh),BAHARAMPUR,SUCI(C),1
+crime,29,1918,Samir Ghosh,BAISNABNAGAR,IND,1
+crime,30,1922,Swadhin Kumar Sarkar,BAISNABNAGAR,BJP,7
+crime,31,745,Manoranjan Bapari,BALAGARH (SC),AITC,2
+crime,32,89,Shantiram Mahato,BALARAMPUR,AITC,2
+crime,33,192,Baneswar Mahato,BALARAMPUR,BJP,3
+crime,34,1823,Subrata Mukherjee,BALLYGUNGE,AITC,2
+crime,35,1824,Dr. Fuad Halim,BALLYGUNGE,CPI(M),2
+crime,37,1438,Swapan Majumder,BANGAON DAKSHIN (SC),BJP,2
+crime,38,1425,Arabinda Biswas,BANGAON UTTAR (SC),IND,1
+crime,39,1435,Pijush Kanti Saha,BANGAON UTTAR (SC),CPI(M),1
+crime,40,1876,Arijit Roy,BARABANI,BJP,10
+crime,41,1877,Bidhan Upadhyay,BARABANI,AITC,1
+crime,42,1878,Ranendra Nath Bagchi,BARABANI,INC,1
+crime,43,1162,Sankar Chatterjee,BARASAT,BJP,2
+crime,44,1165,Sanjib Chattopadhyay,BARASAT,AIFB,1
+crime,46,1255,Khokan Das,BARDHAMAN DAKSHIN,AITC,9
+crime,47,1257,Rajib Paswan,BARDHAMAN DAKSHIN,National Republic Party Of India,1
+crime,48,1261,Radha Kanta Roy,BARDHAMAN UTTAR (SC),BJP,1
+crime,49,1262,Chandi Choran Let,BARDHAMAN UTTAR (SC),CPI(M),4
+crime,50,1263,Nisith Kumar Malik,BARDHAMAN UTTAR (SC),AITC,4
+crime,51,292,Sujit Chakraborty,BARJORA,CPI(M),2
+crime,52,1531,Bishal Kumar Yadab,BARRACKPUR,IND,18
+crime,53,1534,Debasish Bhowmick,BARRACKPUR,CPI(M),1
+crime,55,542,Debopam Chattopadhyaya(Babu),BARUIPUR PASCHIM,BJP,2
+crime,56,434,Bivas Sardar (Vobo),BARUIPUR PURBA (SC),AITC,1
+crime,57,460,Swapan Naskar,BARUIPUR PURBA (SC),CPI(M),2
+crime,58,626,Chinmay Naskar,BARUIPUR PURBA (SC),IND,2
+crime,59,519,Ramesh Majhi,BASANTI (SC),BJP,2
+crime,60,612,Biswajit Mondal,BASANTI (SC),IND,3
+crime,61,1197,Rafikul Islam Mondal,BASIRHAT UTTAR,AITC,2
+crime,62,1199,Md Baijid Amin,BASIRHAT UTTAR,Rashtriya Secular Majlis Party,3
+crime,64,947,Samita Har Chowdhury,BEHALA PURBA,CPI(M),1
+crime,65,948,Ratna Chatterjee,BEHALA PURBA,AITC,5
+crime,66,1949,Hasanuzzaman Sk,BELDANGA,AITC,4
+crime,67,2014,Paresh Paul,BELEGHATA,AITC,3
+crime,68,2016,Rajib Biswas,BELEGHATA,CPI(M),1
+crime,69,2017,Kashinath Biswas,BELEGHATA,BJP,1
+crime,70,1803,Md. Shadab Khan,BHABANIPUR,INC,1
+crime,71,137,Rabindra Nath Maity,BHAGABANPUR,BJP,1
+crime,73,1778,Idris Ali,BHAGAWANGOLA,AITC,4
+crime,74,1779,Md. Kamal Hossain,BHAGAWANGOLA,CPI(M),5
+crime,75,504,Mirja Hasan,BHANGAR,CPI(ML)(L) Red Star,19
+crime,76,1988,Kamalesh Chatterjee (Gopal),BHARATPUR,INC,3
+crime,77,1990,Sajjad Hossain,BHARATPUR,All India Majlis-E-Ittehadul Muslimeen,2
+crime,78,1991,Humayun Kabir,BHARATPUR,AITC,10
+crime,79,1555,Nazrul Haque,BHATAR,CPI(M),9
+crime,80,1556,Adhikari Mangobinda,BHATAR,AITC,11
+crime,82,1505,Jitendra Shaw (Jitu),BHATPARA,AITC,1
+crime,83,1506,Pawan Kumar Singh,BHATPARA,BJP,12
+crime,84,1507,Dharmendra Shaw,BHATPARA,INC,3
+crime,85,1137,Samir Sardar,BIDHANNAGAR,IND,10
+crime,86,1140,Sabya Sachi Dutta,BIDHANNAGAR,BJP,3
+crime,87,1487,Avijit Biswas,BIJPUR,IND,1
+crime,88,1488,Sukanta Rakshit (Babin),BIJPUR,CPI(M),2
+crime,89,1490,Subhranshu Roy,BIJPUR,BJP,4
+crime,91,186,Palan Saren,BINPUR (ST),BJP,2
+crime,92,419,Dilip Mondal,BISHNUPUR (SC),AITC,1
+crime,93,650,Agniswar Naskar,BISHNUPUR (SC),BJP,1
+crime,94,895,Dr. Tarun Kumar Adak,BUDGE BUDGE,BJP,2
+crime,95,897,Ashok Kumar Deb,BUDGE BUDGE,AITC,1
+crime,96,1931,Shiladitya Haldar,BURWAN (SC),INC,11
+crime,97,427,Paresh Ram Das,CANNING PASCHIM (SC),AITC,9
+crime,98,631,Kalipada Naskar,CANNING PURBA,BJP,1
+crime,100,1082,Subhankar Singha (Jishu),CHAKDAHA,AITC,1
+crime,101,1274,Ali Imran Ramz,CHAKULIA,AIFB,4
+crime,102,1703,Nihar Ranjan Ghosh,CHANCHAL,AITC,2
+crime,103,748,Praloy Mukherjee,CHANDANNAGAR,IND,1
+crime,104,751,Deepanjan Kumar Guha,CHANDANNAGAR,BJP,2
+crime,105,753,Gautam Sarkar,CHANDANNAGAR,CPI(M),3
+crime,106,754,Ratan Kumar Chatterjee (R.K.C),CHANDANNAGAR,IND,1
+crime,107,318,Pulak Kanti Guria,CHANDIPUR,BJP,2
+crime,109,331,Sibaram Das,CHANDRAKONA (SC),BJP,2
+crime,110,1393,Jeber Sekh,CHAPRA,IND,2
+crime,111,109,Falguni Mukherjee,CHHATNA,Revolutionary Socialist Party,1
+crime,112,1265,Hamidul Rahaman,CHOPRA,AITC,3
+crime,113,1266,Anwarul Haque,CHOPRA,CPI(M),7
+crime,114,1609,Md. Shahin Akhter,CHOPRA,BJP,15
+crime,115,1995,Bandyopadhyay Nayna,CHOWRANGEE,AITC,2
+crime,116,1997,Devdutta Maji,CHOWRANGEE,BJP,6
+crime,118,771,Locket Chatterjee,CHUNCHURA,BJP,17
+crime,119,773,Asit Mazumder (Tapan),CHUNCHURA,AITC,1
+crime,120,493,Avijit De Bhowmik,COOCHBEHAR DAKSHIN,AITC,11
+crime,121,575,Akshay Thakur,COOCHBEHAR DAKSHIN,AIFB,2
+crime,122,962,Nikhil Ranjan Dey,COOCHBEHAR DAKSHIN,BJP,4
+crime,123,966,Sukumar Roy,COOCHBEHAR UTTAR (SC),BJP,3
+crime,124,1208,Sikha Chatterjee,DABGRAM-FULBARI,BJP,6
+crime,125,1213,Dilip Singh,DABGRAM-FULBARI,CPI(M),5
+crime,127,1044,Pemba Tshering,DARJEELING,IND,5
+crime,128,1047,Keshav Raj Sharma,DARJEELING,IND,5
+crime,129,1340,Anjani Sharma,DARJEELING,IND,1
+crime,130,1342,Neeraj Tamang Zimba,DARJEELING,BJP,8
+crime,131,281,Prankrishna Mondal,DEBRA,CPI(M),4
+crime,132,325,Bharati Ghosh,DEBRA,BJP,19
+crime,133,566,Tusar Kumar Majumdar,DHANEKHALI (SC),BJP,1
+crime,134,993,Mitali Roy,DHUPGURI (SC),AITC,1
+crime,136,466,Pratik Ur Rahaman,DIAMOND HARBOUR,CPI(M),6
+crime,137,548,Dipak Kumar Halder,DIAMOND HARBOUR,BJP,4
+crime,138,579,Udayan Guha,DINHATA,AITC,2
+crime,139,580,Nisith Pramanik,DINHATA,BJP,13
+crime,140,979,Abdur Rouf,DINHATA,AIFB,2
+crime,141,815,Kalyan Ghosh,DOMJUR,AITC,2
+crime,142,816,Uttam Bera,DOMJUR,CPI(M),4
+crime,143,1969,Md. Mostafijur Rahaman (Rana),DOMKAL,CPI(M),2
+crime,145,1546,Dr. Archana Majumdar,DUM DUM UTTAR,BJP,3
+crime,146,1846,Chandra Mallika Bandopadhyay,DURGAPUR PASCHIM,IND,3
+crime,147,1848,Biswanath Parial,DURGAPUR PASCHIM,AITC,5
+crime,148,1849,Lakshman Chandra Ghorui,DURGAPUR PASCHIM,BJP,11
+crime,149,1850,Debesh Chakraborty,DURGAPUR PASCHIM,INC,1
+crime,150,1842,Colonel Diptansu Chaudhury,DURGAPUR PURBA,BJP,1
+crime,151,1843,Abhas Ray Chaudhuri,DURGAPUR PURBA,CPI(M),2
+crime,152,18,Jagadis Sau,EGRA,SUCI(C),2
+crime,154,241,Arup Dash,EGRA,BJP,1
+crime,155,1893,Koushik Misra(Saheb),ENGLISH BAZAR,CPI(M),2
+crime,156,1896,Sreerupa Mitra Chaudhury(Nirbhoy Didi),ENGLISH BAZAR,BJP,2
+crime,157,1897,Krishnendu Narayan Choudhury,ENGLISH BAZAR,AITC,2
+crime,158,2190,Satish Rajbanshi,ENGLISH BAZAR,IND,3
+crime,159,2007,Priyanka Tibrewal,ENTALLY,BJP,2
+crime,160,670,Subhash Chandra Roy,FALAKATA (SC),AITC,1
+crime,161,783,Kshitish Chandra Ray,FALAKATA (SC),CPI(M),2
+crime,163,552,Abdur Razzak Molla,FALTA,INC,2
+crime,164,646,Bidhan Parui,FALTA,BJP,5
+crime,165,647,Santosh Samanta,FALTA,Akhil Bharat Hindu Mahasabha,1
+crime,166,1725,Mainul Haque,FARAKKA,INC,1
+crime,167,1728,Manirul Islam,FARAKKA,AITC,1
+crime,168,1446,Narottam Biswas,GAIGHATA (SC),AITC,1
+crime,169,1447,Subrata Thakur,GAIGHATA (SC),BJP,2
+crime,170,1592,Nepal Ghorui,GALSI (SC),AITC,2
+crime,172,78,Uttara Singha Hazra,GARBETA,AITC,1
+crime,173,79,Tapan Kumar Ghosh,GARBETA,CPI(M),14
+crime,174,1695,Satish Rajbanshi,GAZOLE (SC),IND,3
+crime,175,1698,Chinmoy Deb Barman,GAZOLE (SC),BJP,1
+crime,176,329,Sital Kapat,GHATAL (SC),BJP,1
+crime,177,1270,Md. Ghulam Rabbani,GOALPOKHAR,AITC,3
+crime,178,568,Biswanath Karak,GOGHAT (SC),BJP,8
+crime,179,148,Jiten Giri,GOPIBALLAVPUR,IND,1
+crime,181,151,Prasanta Kumar Das,GOPIBALLAVPUR,CPI(M),5
+crime,182,154,Sri Subhas Mahata,GOPIBALLAVPUR,IND,1
+crime,183,156,Sanjit Mahata,GOPIBALLAVPUR,BJP,3
+crime,184,126,Jayanta Naskar,GOSABA (SC),AITC,1
+crime,185,253,Haripada Mandal,GOSABA (SC),BSP,1
+crime,186,341,Barun Pramanik (Chitta),GOSABA (SC),BJP,27
+crime,187,1463,Biswajit Sinha,HABRA,BJP,9
+crime,188,270,Swapan Naskar,HALDIA (SC),AITC,2
+crime,190,1961,Mir Alamgir (Palash),HARIHARPARA,INC,3
+crime,191,1962,Niamot Sheikh,HARIHARPARA,AITC,1
+crime,192,1090,Asim Kumar Sarkar,HARINGHATA (SC),BJP,2
+crime,193,1092,Alakesh Das,HARINGHATA (SC),CPI(M),1
+crime,194,1682,Rafikul Islam,HARIRAMPUR,CPI(M),3
+crime,195,1684,Nilanjan Roy,HARIRAMPUR,BJP,11
+crime,196,1179,Rajendra Saha (Somu),HAROA,BJP,7
+crime,197,1281,Chandima Roy,HEMTABAD (SC),BJP,1
+crime,199,1201,Sanjit Mondal,HINGALGANJ (SC),Jan Sangh Party,2
+crime,200,1202,Nemai Das,HINGALGANJ (SC),BJP,1
+crime,201,667,Tapas Kumar Das,HOWRAH DAKSHIN,SUCI(C),2
+crime,202,838,Rajesh Kumar Singh,HOWRAH DAKSHIN,IND,1
+crime,203,840,Amit Kumar Ghosh,HOWRAH DAKSHIN,JD(U),1
+crime,204,861,Sanjay Singh,HOWRAH MADHYA,BJP,8
+crime,205,510,Gautam Chowdhuri,HOWRAH UTTAR,AITC,4
+crime,206,868,Vinit Kumar Rai,HOWRAH UTTAR,IND,1
+crime,208,871,Ashok Kumar Sharma,HOWRAH UTTAR,Hindustani Awam Morcha (Secular),1
+crime,209,872,Umesh Rai,HOWRAH UTTAR,BJP,11
+crime,210,873,Pawan Kumar Singh,HOWRAH UTTAR,CPI(M),2
+crime,211,1267,Abdul Karim Chowdhary,ISLAMPUR,AITC,4
+crime,212,1650,Mofakkerul Islam,ITAHAR,All India Majlis-E-Ittehadul Muslimeen,3
+crime,213,1653,Mosaraf Hussen,ITAHAR,AITC,1
+crime,214,712,Dr. Sujan Chakraborty,JADAVPUR,CPI(M),1
+crime,215,713,Rinku Naskar,JADAVPUR,BJP,2
+crime,217,1513,Somenath Shyam Ichini,JAGATDAL,AITC,6
+crime,218,1514,Suraj Tiwari,JAGATDAL,IND,6
+crime,219,1519,Arindam Bhattacharya,JAGATDAL,BJP,2
+crime,220,1977,Saiful Islam Molla,JALANGI,CPI(M),1
+crime,221,1980,Chandan Mandal,JALANGI,BJP,1
+crime,222,1001,Dr. Pradip Kumar Barma,JALPAIGURI (SC),AITC,1
+crime,223,1330,Haridas Biswas,JALPAIGURI (SC),IND,1
+crime,224,1229,Balaram Bapari,JAMALPUR (SC),BJP,2
+crime,226,1860,Tapas Kumar Roy,JAMURIA,BJP,1
+crime,227,1861,Aishe Ghosh,JAMURIA,CPI(M),4
+crime,228,1862,Gouri Sankar Banerjee,JAMURIA,JD(U),2
+crime,229,422,Snehasis Chakraborty,JANGIPARA,AITC,1
+crime,230,487,Debjit Sarkar,JANGIPARA,BJP,11
+crime,231,695,Sk. Mainuddin,JANGIPARA,Rashtriya Secular Majlis Party,15
+crime,232,1746,Sujit Das,JANGIPUR,BJP,2
+crime,233,2137,Abu Salem,JANGIPUR,Justice and Development Party,2
+crime,235,541,Rabin Sardar,JAYNAGAR (SC),BJP,3
+crime,236,121,Madhuja Sen Roy,JHARGRAM,CPI(M),3
+crime,237,160,Sukhamay Satpathy,JHARGRAM,BJP,2
+crime,238,162,Ramkrishna Sarkar,JHARGRAM,BSP,2
+crime,239,251,Madhusudan Singha,JHARGRAM,IND,1
+crime,240,2022,Meena Devi Purohit,JORASANKO,BJP,3
+crime,241,2025,Ajmal Khan,JORASANKO,INC,2
+crime,242,2220,Anand Singh Kharwar,JORASANKO,IND,1
+crime,244,202,Jawahar Lal Mahato,JOYPUR,Mulnibasi Party of India,1
+crime,245,257,Manturam Pakhira,KAKDWIP,AITC,2
+crime,246,372,Dipankar Jana,KAKDWIP,BJP,2
+crime,247,756,Passang Lama,KALCHINI (ST),AITC,12
+crime,248,757,Bishal Lama,KALCHINI (ST),BJP,6
+crime,249,761,Ashok Lama,KALCHINI (ST),National Peoples Party,1
+crime,250,1632,Soumen Roy,KALIAGANJ (SC),BJP,3
+crime,251,1315,Nasiruddin Ahamed (Lal),KALIGANJ,AITC,2
+crime,253,1599,Kabil Uddin Shaikh,KALIGANJ,IND,2
+crime,254,990,Ujjwal Rai,KALIMPONG,IND,1
+crime,255,991,Ruden Sada Lepcha,KALIMPONG,IND,3
+crime,256,1016,Dr. R.B. Bhujel,KALIMPONG,IND,3
+crime,257,1243,Deboprasad Bag (Poltu),KALNA (SC),AITC,2
+crime,258,1085,Ambika Roy,KALYANI (SC),BJP,1
+crime,259,1105,Sanjib Pandit,KAMARHATI,IND,3
+crime,260,1106,Anindya Banerjee,KAMARHATI,BJP,12
+crime,262,1109,Madan Mitra,KAMARHATI,AITC,6
+crime,263,1934,Goutam Roy,KANDI,BJP,2
+crime,264,1935,Shafiul Alam Khan (Bonu),KANDI,INC,5
+crime,265,1936,Apurba Sarkar (David),KANDI,AITC,4
+crime,266,1937,Sher Alam,KANDI,Justice and Development Party,2
+crime,267,2199,Syed Azizur Hossain(Nashim),KANDI,IND,1
+crime,268,4,Panchanan Das,KANTHI UTTAR,SUCI(C),1
+crime,269,65,Tarun Kumar Jana,KANTHI UTTAR,AITC,6
+crime,271,133,Debasis Das,KANTHI UTTAR,IND,2
+crime,272,1275,Md. Hafizul Iqbal,KARANDIGHI,AIFB,1
+crime,273,1624,Goutam Paul,KARANDIGHI,AITC,3
+crime,274,1298,Samarendranath Ghosh,KARIMPUR,BJP,1
+crime,275,1594,Premananda Mandal,KARIMPUR,IND,2
+crime,276,701,Dr. Indranil Khan,KASBA,BJP,1
+crime,277,702,Shatarup Ghosh,KASBA,CPI(M),3
+crime,278,703,Ahmed Javed Khan,KASBA,AITC,1
+crime,280,2045,Atin Ghosh,KASHIPUR-BELGACHHIA,AITC,1
+crime,281,2046,Pratip Dasgupta,KASHIPUR-BELGACHHIA,CPI(M),2
+crime,282,356,Haru Roy,KATULPUR (SC),BSP,1
+crime,283,75,Dr. Pulin Bihari Baske,KESHIARY (ST),CPI(M),1
+crime,284,128,Rameswar Doloi,KESHPUR (SC),CPI(M),1
+crime,285,1576,Mizanul Kabir (Dhiraj),KETUGRAM,CPI(M),2
+crime,286,1578,Sekh Sahonawez,KETUGRAM,AITC,6
+crime,287,413,Munsi Nazbul Karim,KHANAKUL,AITC,9
+crime,289,1219,Bijan Mandal,KHANDAGHOSH (SC),BJP,1
+crime,290,1223,Nabin Chandra Bag,KHANDAGHOSH (SC),AITC,1
+crime,291,77,Syed Saddam Ali,KHARAGPUR,CPI(M),1
+crime,292,166,Dinen Roy,KHARAGPUR,AITC,13
+crime,293,167,Tapan Bhuya,KHARAGPUR,BJP,2
+crime,294,321,Reeta Sharma,KHARAGPUR SADAR,INC,1
+crime,295,385,Hiranmoy Chattopadhyaya,KHARAGPUR SADAR,BJP,2
+crime,296,1539,Debajyoti Das (Subho),KHARDAHA,CPI(M),2
+crime,298,1541,Kajal Sinha,KHARDAHA,AITC,1
+crime,299,1927,Ashis Marjit,KHARGRAM (SC),AITC,1
+crime,300,1929,Tulu Bala Das,KHARGRAM (SC),CPI(ML)(L),1
+crime,301,68,Himangshu Das,KHEJURI (SC),CPI(M),24
+crime,302,69,Partha Pratim Das,KHEJURI (SC),AITC,10
+crime,303,1807,Md Mukhtar,KOLKATA PORT,INC,12
+crime,304,1808,Sarfaraz Khan,KOLKATA PORT,BSP,1
+crime,305,1809,Firhad Hakim,KOLKATA PORT,AITC,1
+crime,307,1067,Ashis Kumar Biswas,KRISHNAGANJ (SC),BJP,1
+crime,308,1409,Sumit Biswas,KRISHNANAGAR DAKSHIN,CPI(M),3
+crime,309,1411,Mahadev Sarkar,KRISHNANAGAR DAKSHIN,BJP,7
+crime,310,1404,Mukul Roy,KRISHNANAGAR UTTAR,BJP,19
+crime,311,480,Siraj Uddin Gazi,KULPI,Rashtriya Secular Majlis Party,4
+crime,312,401,Jaykrishna Haldar,KULTALI (SC),SUCI(C),2
+crime,313,521,Mintu Halder,KULTALI (SC),BJP,2
+crime,314,614,Gobinda Majhi,KULTALI (SC),IND,1
+crime,316,1874,Chandi Das Chatterjee,KULTI,INC,1
+crime,317,2174,Arun Rajak,KULTI,Bahujan Mukti Party,1
+crime,318,1659,Toraf Hossain Mandal,KUMARGANJ,AITC,1
+crime,319,1662,Manas Sarkar,KUMARGANJ,BJP,8
+crime,320,726,Leos Kujur (Urao),KUMARGRAM (ST),AITC,6
+crime,321,1036,Tshering Lama,KURSEONG,IND,1
+crime,322,1347,Bishnu Prasad Sharma,KURSEONG,BJP,7
+crime,323,1656,Rekha Roy,KUSHMANDI (SC),AITC,1
+crime,325,2073,Biswajit Mondal,LABPUR,BJP,5
+crime,326,2075,Sunil Murmu,LABPUR,BSP,1
+crime,327,2077,Monirul Islam,LABPUR,IND,8
+crime,328,1769,Ali Mohammad,LALGOLA,AITC,1
+crime,329,775,Panchu Oraon,MADARIHAT (ST),National Peoples Party,1
+crime,330,776,Manoj Tigga,MADARIHAT (ST),BJP,7
+crime,331,778,Rajesh Lakra,MADARIHAT (ST),AITC,3
+crime,332,1157,Biswajit Maity,MADHYAMGRAM,Rashtriya Secular Majlis Party,3
+crime,334,639,Maidul Islam Molla,MAGRAHAT PASCHIM,Rashtriya Secular Majlis Party,7
+crime,335,464,Chandan Saha,MAGRAHAT PURBA (SC),CPI(M),1
+crime,336,900,Umesh Das,MAHESHTALA,BJP,3
+crime,337,902,Pravat Chowdhury,MAHESHTALA,CPI(M),2
+crime,338,269,Tilak Kumar Chakraborty,MAHISHADAL,AITC,2
+crime,339,379,Biswanath Banerjee,MAHISHADAL,BJP,5
+crime,340,1005,Mahesh Bagey,MAL (ST),BJP,1
+crime,341,1335,Bablu Majhi,MAL (ST),IND,1
+crime,343,1714,Abdur Rahim Boxi,MALATIPUR,AITC,1
+crime,344,1890,Bhupendra Nath Halder (Arjun),MALDAHA (SC),INC,3
+crime,345,456,Joydeb Halder,MANDIRBAZAR (SC),AITC,2
+crime,346,526,Dilip Kumar Jatua,MANDIRBAZAR (SC),BJP,9
+crime,347,1880,Anil Ch. Mandal,MANIKCHAK,IND,1
+crime,348,1887,Gour Chandra Mandal,MANIKCHAK,BJP,1
+crime,349,2040,Rupa Bagchi,MANIKTALA,CPI(M),1
+crime,350,954,Sushil Barman,MATHABHANGA (SC),BJP,2
+crime,352,1049,Anandamay Barman,MATIGARA-NAXALBARI (SC),BJP,1
+crime,353,1050,Sankar Malakar,MATIGARA-NAXALBARI (SC),INC,5
+crime,354,999,Manoj Roy,MAYNAGURI (SC),AITC,5
+crime,355,1324,Kaushik Roy,MAYNAGURI (SC),BJP,4
+crime,356,2085,Shyamapada Mondal,MAYURESWAR,BJP,9
+crime,357,181,Samit Kumar Dash,MEDINIPUR,BJP,7
+crime,358,570,Gobinda Chandra Roy,MEKLIGANJ (SC),AIFB,2
+crime,359,951,Dadhiram Ray,MEKLIGANJ (SC),BJP,15
+crime,361,1248,Sanat Banerjee,MEMARI,CPI(M),2
+crime,362,1250,Madhusudan Bhattacharya,MEMARI,AITC,2
+crime,363,509,Abdul Khaleque Molla,METIABURUZ,AITC,2
+crime,364,1181,Jayanta Mondal,MINAKHAN (SC),BJP,2
+crime,365,1182,Pradyut Roy,MINAKHAN (SC),CPI(M),1
+crime,366,1581,Rana Protap Goswami,MONGALKOTE,BJP,2
+crime,367,1583,Choudhury Sahajahan,MONGALKOTE,CPI(M),1
+crime,368,1904,Shyamchand Ghosh,MOTHABARI,BJP,2
+crime,370,2192,Saidur Rahaman,MOTHABARI,IND,1
+crime,371,376,Manik Bhaumik,MOYNA,INC,2
+crime,372,1788,Gouri Sankar Ghosh,MURSHIDABAD,BJP,6
+crime,373,1792,Neajuddin Sk,MURSHIDABAD,INC,3
+crime,374,1794,Shaoni Singha Roy,MURSHIDABAD,AITC,1
+crime,375,1407,Sidhartha Shankar Naskar,NABADWIP,BJP,2
+crime,376,1796,Kanai Chandra Mondal,NABAGRAM (SC),AITC,9
+crime,377,1008,Puna Bhengra,NAGRAKATA (ST),BJP,1
+crime,379,1010,Joseph Munda,NAGRAKATA (ST),AITC,6
+crime,380,1336,Robat Munda,NAGRAKATA (ST),IND,1
+crime,381,1498,Phalguni Patra,NAIHATI,BJP,8
+crime,382,1499,Partha Bhowmick,NAIHATI,AITC,1
+crime,383,1387,Kallol Khan,NAKASHIPARA,AITC,2
+crime,384,1389,Sukla Saha,NAKASHIPARA,CPI(M),1
+crime,385,2098,Tapas Kumar Yadav(Ananda Yadav),NALHATI,BJP,4
+crime,386,2099,Dipak Chatterjee,NALHATI,AIFB,2
+crime,388,316,Sk Saddam Hossain,NANDIGRAM,IND,1
+crime,389,380,Minakshi Mukherjee,NANDIGRAM,CPI(M),2
+crime,390,381,Adhikari Suvendu,NANDIGRAM,BJP,1
+crime,391,2069,Tarakeswar Saha,NANOOR (SC),BJP,3
+crime,392,24,Shyama Pada Jana,NARAYANGARH,SUCI(C),1
+crime,393,277,Tapas Sinha,NARAYANGARH,CPI(M),1
+crime,394,278,Rama Prasad Giri,NARAYANGARH,BJP,3
+crime,395,581,Akik Hassan,NATABARI,CPI(M),1
+crime,397,1963,Mosaraf Hossain Mondal (Madhu),NOWDA,INC,2
+crime,398,293,Amarnath Shakha,ONDA,BJP,6
+crime,399,1308,S.M. Sadi,PALASHIPARA,CPI(M),1
+crime,400,1312,Maniruzzaman Mondal,PALASHIPARA,SUCI(C),2
+crime,401,823,Mohit Lal Ghanti,PANCHLA,BJP,1
+crime,402,826,Abdul Jalil Sk,PANCHLA,Rashtriya Secular Majlis Party,2
+crime,403,1831,Narendranath Chakraborty,PANDABESWAR,AITC,7
+crime,404,1832,Jitendra Kumar Tewari,PANDABESWAR,BJP,2
+crime,406,1834,Subhas Bauri,PANDABESWAR,CPI(M),1
+crime,407,738,Sk. Nasiruddin,PANDUA,LJP,2
+crime,408,740,Partha Sharma,PANDUA,BJP,1
+crime,409,742,Amjad Hossain Sk.,PANDUA,CPI(M),2
+crime,410,1098,Sanmoy Bandyopadhyay,PANIHATI,BJP,3
+crime,411,263,Sintu Senapati,PANSKURA PASCHIM,BJP,2
+crime,412,264,Phiroja Bibi,PANSKURA PASCHIM,AITC,2
+crime,413,308,Chittaranjan Dasthakur,PANSKURA PASCHIM,CPI,2
+crime,415,40,Chandramohan Manik,PANSKURA PURBA,SUCI(C),1
+crime,416,305,Debabrata Pattanayek,PANSKURA PURBA,BJP,1
+crime,417,307,Ibrahim Ali Sk,PANSKURA PURBA,CPI(M),5
+crime,418,130,Uttam Barik,PATASHPUR,AITC,4
+crime,419,255,Samir Kumar Jana,PATHARPRATIMA,AITC,2
+crime,420,371,Asit Kumar Haldar,PATHARPRATIMA,BJP,2
+crime,421,1028,Chhotan Kisku,PHANSIDEWA (ST),AITC,1
+crime,422,280,Ajit Maity,PINGLA,AITC,1
+crime,424,1560,Abhijit Bhattacharyya,PURBASTHALI DAKSHIN,INC,3
+crime,425,1561,Swapan Debnath,PURBASTHALI DAKSHIN,AITC,1
+crime,426,1565,Pradip Kumar Saha,PURBASTHALI UTTAR,CPI(M),2
+crime,427,1567,Tapan Chatterjee,PURBASTHALI UTTAR,AITC,3
+crime,428,537,Dilip Yadav,PURSURAH,AITC,1
+crime,429,538,Biman Ghosh,PURSURAH,BJP,2
+crime,430,597,Chiranjit Barik,PURSURAH,IND,3
+crime,431,211,Sudip Kumar Mukherjee,PURULIA,BJP,3
+crime,433,1749,Akhruzzaman,RAGHUNATHGANJ,AITC,1
+crime,434,1750,Abul Kashem Biswas,RAGHUNATHGANJ,INC,1
+crime,435,1752,Nasir Saikh,RAGHUNATHGANJ,IND,3
+crime,436,1753,Golam Modaswer,RAGHUNATHGANJ,BJP,2
+crime,437,415,Gunasindhu Haldar,RAIDIGHI,SUCI(C),5
+crime,438,448,Kanti Ganguly,RAIDIGHI,CPI(M),1
+crime,439,454,Aloke Jaldata,RAIDIGHI,AITC,1
+crime,440,1288,Kanaia Lal Agarwal,RAIGANJ,AITC,3
+crime,442,1292,Raju Paul,RAIGANJ,IND,2
+crime,443,1638,Goutam Biswas,RAIGANJ,Amra Bangalee,1
+crime,444,238,Milan Mandi,RAIPUR (ST),Rashtriya Secular Majlis Party,5
+crime,445,1142,Samik Bhattacharya,RAJARHAT GOPALPUR,BJP,2
+crime,446,1147,Gopal Mondal,RAJARHAT GOPALPUR,IND,1
+crime,447,1130,Saptarshi Deb,RAJARHAT NEW TOWN,CPI(M),1
+crime,448,1131,Tapash Chatterjee,RAJARHAT NEW TOWN,AITC,2
+crime,449,1004,Khageswar Roy,RAJGANJ (SC),AITC,1
+crime,451,72,Akhil Giri,RAMNAGAR,AITC,1
+crime,452,73,Sabyasachi Jana,RAMNAGAR,CPI(M),5
+crime,453,142,Swadesh Ranjan Nayak,RAMNAGAR,BJP,7
+crime,454,2087,Subhasis Choudhury (Khokan),RAMPURHAT,BJP,1
+crime,455,2089,Sanjib Barman (Gopi),RAMPURHAT,CPI(M),1
+crime,456,1076,Rama Biswas,RANAGHAT DAKSHIN (SC),CPI(M),1
+crime,457,1070,Ashim Biswas,RANAGHAT UTTAR PURBA (SC),BJP,4
+crime,458,3,Goutam Kumar Mudi,RANIBANDH (ST),SUCI(C),1
+crime,460,1855,Hemant Kumar Prabhakar,RANIGANJ,CPI(M),5
+crime,461,1856,Tapas Banerjee,RANIGANJ,AITC,7
+crime,462,1785,Abdul Soumik Hossain,RANINAGAR,AITC,2
+crime,463,1813,Pankaj Thakkar,RASHBEHARI,IND,2
+crime,464,1814,Ashutosh Chatterjee,RASHBEHARI,INC,3
+crime,465,2160,Debashis Nath,RASHBEHARI,IND,1
+crime,466,2161,Musarat Parveen,RASHBEHARI,IND,1
+crime,467,1939,Kafiruddin Sk,REJINAGAR,INC,3
+crime,469,1941,Rabiul Alam Chowdhury,REJINAGAR,AITC,1
+crime,470,365,Amulya Maity,SABANG,BJP,1
+crime,471,343,Kamila Bikash,SAGAR,BJP,2
+crime,472,1759,Nure Mahaboob Alam,SAGARDIGHI,All India Majlis-E-Ittehadul Muslimeen,2
+crime,473,1760,Khatun Mafuja,SAGARDIGHI,BJP,3
+crime,474,81,Srikanta Mahata,SALBONI,AITC,3
+crime,475,82,Ghosh Susanta,SALBONI,CPI(M),6
+crime,476,84,Md. Kabirul Islam Khan,SALBONI,Humanity Universal Motion Party,3
+crime,478,1729,Md. Modassar Hossain,SAMSERGANJ,CPI(M),2
+crime,479,1731,Milan Ghosh,SAMSERGANJ,BJP,1
+crime,480,1732,Amirul Islam,SAMSERGANJ,AITC,3
+crime,481,1185,Sukumar Mahata,SANDESHKHALI (ST),AITC,1
+crime,482,678,Samir Malick,SANKRAIL (SC),CPI(M),1
+crime,483,679,Probhakar Pandit,SANKRAIL (SC),BJP,6
+crime,484,1053,Ritzu Ghosal,SANTIPUR,INC,1
+crime,485,1054,Sufal Sarkar,SANTIPUR,Jan Sangh Party,3
+crime,487,1358,Sukdeb Biswas,SANTIPUR,Purvanchal Mahapanchayat,1
+crime,488,2033,Sandipan Biswas,SHYAMPUKUR,BJP,3
+crime,489,486,Amitabha Chakraborti,SHYAMPUR,INC,2
+crime,490,1021,Asok Bhattacharya,SILIGURI,CPI(M),9
+crime,491,1023,Dr. Omprakash Mishra,SILIGURI,AITC,2
+crime,492,1024,Sankar Ghosh,SILIGURI,BJP,2
+crime,493,795,Rabindranath Bhattacharya,SINGUR,BJP,1
+crime,494,796,Srijan Bhattacharyya,SINGUR,CPI(M),2
+crime,496,684,Keshab Chandra Ray,SITAI (SC),INC,1
+crime,497,685,Jagadish Chandra Barma Basunia,SITAI (SC),AITC,1
+crime,498,975,Proshanta Barman,SITAI (SC),LJP,5
+crime,499,578,Sudhangshu Pramanik,SITALKUCHI (SC),CPI(M),3
+crime,500,969,Baren Chandra Barman,SITALKUCHI (SC),BJP,1
+crime,501,799,Santosh Kumar Singh,SREERAMPUR,IND,2
+crime,502,801,Kabir Shankar Bose,SREERAMPUR,BJP,3
+crime,503,1908,Md. Nur Islam Sekh,SUJAPUR,Rashtriya Secular Majlis Party,1
+crime,505,1736,Emani Biswas,SUTI,AITC,1
+crime,506,1738,Koushik Das,SUTI,BJP,1
+crime,507,1740,Maidul Islam,SUTI,IND,4
+crime,508,1461,Brindaban Sarkar,SWARUPNAGAR (SC),BJP,1
+crime,509,286,Manoranjan Patra,TALDANGRA,CPI(M),3
+crime,510,287,Sandip Kumar Dey,TALDANGRA,IND,1
+crime,511,332,Shyamal Kumar Sarkar (Benu),TALDANGRA,BJP,7
+crime,512,31,Jnanananda Roy,TAMLUK,SUCI(C),2
+crime,514,441,Ramendu Sinharay,TARAKESWAR,AITC,4
+crime,515,445,Surajit Ghosh,TARAKESWAR,CPI(M),3
+crime,516,1302,Subodh Chandra Biswas,TEHATTA,CPI(M),1
+crime,517,1305,Ashutosh Paul,TEHATTA,BJP,3
+crime,518,1306,Tapas Kumar Saha,TEHATTA,AITC,1
+crime,519,931,Babul Supriyo,TOLLYGANJ,BJP,13
+crime,520,983,Rabin Roy,TUFANGANJ,INC,2
+crime,521,987,Malati Rava Roy,TUFANGANJ,BJP,9
+crime,523,681,Pratyush Mandal,ULUBERIA PURBA,BJP,1
+crime,524,472,Dr. Nirmal Maji,ULUBERIA UTTAR (SC),AITC,2
+crime,525,473,Ashok Dalui,ULUBERIA UTTAR (SC),CPI(M),1
+crime,526,556,Chiran Bera,ULUBERIA UTTAR (SC),BJP,4
+crime,527,804,Prabir Kumar Ghosal,UTTARPARA,BJP,4
+crime,528,805,Rajat Banerjee (Bappa),UTTARPARA,CPI(M),5
+serious_crime,1,792,Sourav Chakraborty (Ghutis),ALIPURDUARS,AITC,1
+serious_crime,2,1482,Rafiqur Rahaman,AMDANGA,AITC,1
+serious_crime,3,1486,Joydev Manna,AMDANGA,BJP,1
+serious_crime,4,561,Debtanu Bhattacharya,AMTA,BJP,2
+serious_crime,5,1865,Agnimitra Paul,ASANSOL DAKSHIN,BJP,2
+serious_crime,6,1867,Krishnendu Mukherjee,ASANSOL UTTAR,BJP,17
+serious_crime,7,1868,Mohammad Mustaqim,ASANSOL UTTAR,Rashtriya Secular Majlis Party,9
+serious_crime,8,2112,Danish Aziz,ASANSOL UTTAR,All India Majlis-E-Ittehadul Muslimeen,1
+serious_crime,10,1475,Tapas Banerjee,ASHOKNAGAR,Rashtriya Secular Majlis Party,1
+serious_crime,11,1476,Narayan Goswami,ASHOKNAGAR,AITC,3
+serious_crime,12,1587,Chanchal Kumar Majhi,AUSGRAM (SC),CPI(M),1
+serious_crime,13,1452,Abdur Rahim Quazi,BADURIA,AITC,1
+serious_crime,14,1419,Biswajit Das,BAGDA (SC),BJP,6
+serious_crime,15,439,Arunava Sen (Raja),BAGNAN,AITC,1
+serious_crime,16,560,Anupam Mallik,BAGNAN,BJP,3
+serious_crime,17,658,Subhasish Adhikary,BAGNAN,IND,1
+serious_crime,19,1952,Subrata Maitra (Kanchan),BAHARAMPUR,BJP,6
+serious_crime,20,1918,Samir Ghosh,BAISNABNAGAR,IND,1
+serious_crime,21,1922,Swadhin Kumar Sarkar,BAISNABNAGAR,BJP,7
+serious_crime,22,745,Manoranjan Bapari,BALAGARH (SC),AITC,2
+serious_crime,23,192,Baneswar Mahato,BALARAMPUR,BJP,3
+serious_crime,24,1436,Aloke Bain,BANGAON DAKSHIN (SC),IND,4
+serious_crime,25,1425,Arabinda Biswas,BANGAON UTTAR (SC),IND,1
+serious_crime,26,1435,Pijush Kanti Saha,BANGAON UTTAR (SC),CPI(M),1
+serious_crime,28,1877,Bidhan Upadhyay,BARABANI,AITC,1
+serious_crime,29,1878,Ranendra Nath Bagchi,BARABANI,INC,1
+serious_crime,30,1162,Sankar Chatterjee,BARASAT,BJP,2
+serious_crime,31,1165,Sanjib Chattopadhyay,BARASAT,AIFB,1
+serious_crime,32,1252,Sandip Nandi,BARDHAMAN DAKSHIN,BJP,2
+serious_crime,33,1255,Khokan Das,BARDHAMAN DAKSHIN,AITC,9
+serious_crime,34,1261,Radha Kanta Roy,BARDHAMAN UTTAR (SC),BJP,1
+serious_crime,35,1262,Chandi Choran Let,BARDHAMAN UTTAR (SC),CPI(M),4
+serious_crime,37,292,Sujit Chakraborty,BARJORA,CPI(M),2
+serious_crime,38,1531,Bishal Kumar Yadab,BARRACKPUR,IND,18
+serious_crime,39,1534,Debasish Bhowmick,BARRACKPUR,CPI(M),1
+serious_crime,40,1536,Chandramani Shukla,BARRACKPUR,BJP,1
+serious_crime,41,542,Debopam Chattopadhyaya(Babu),BARUIPUR PASCHIM,BJP,2
+serious_crime,42,434,Bivas Sardar (Vobo),BARUIPUR PURBA (SC),AITC,1
+serious_crime,43,460,Swapan Naskar,BARUIPUR PURBA (SC),CPI(M),2
+serious_crime,44,626,Chinmay Naskar,BARUIPUR PURBA (SC),IND,2
+serious_crime,46,612,Biswajit Mondal,BASANTI (SC),IND,3
+serious_crime,47,1197,Rafikul Islam Mondal,BASIRHAT UTTAR,AITC,2
+serious_crime,48,948,Ratna Chatterjee,BEHALA PURBA,AITC,5
+serious_crime,49,1949,Hasanuzzaman Sk,BELDANGA,AITC,4
+serious_crime,50,2014,Paresh Paul,BELEGHATA,AITC,3
+serious_crime,51,2017,Kashinath Biswas,BELEGHATA,BJP,1
+serious_crime,52,1803,Md. Shadab Khan,BHABANIPUR,INC,1
+serious_crime,53,137,Rabindra Nath Maity,BHAGABANPUR,BJP,1
+serious_crime,55,1779,Md. Kamal Hossain,BHAGAWANGOLA,CPI(M),5
+serious_crime,56,504,Mirja Hasan,BHANGAR,CPI(ML)(L) Red Star,19
+serious_crime,57,1990,Sajjad Hossain,BHARATPUR,All India Majlis-E-Ittehadul Muslimeen,2
+serious_crime,58,1991,Humayun Kabir,BHARATPUR,AITC,10
+serious_crime,59,1555,Nazrul Haque,BHATAR,CPI(M),9
+serious_crime,60,1556,Adhikari Mangobinda,BHATAR,AITC,11
+serious_crime,61,1505,Jitendra Shaw (Jitu),BHATPARA,AITC,1
+serious_crime,62,1506,Pawan Kumar Singh,BHATPARA,BJP,12
+serious_crime,64,1137,Samir Sardar,BIDHANNAGAR,IND,10
+serious_crime,65,1140,Sabya Sachi Dutta,BIDHANNAGAR,BJP,3
+serious_crime,66,1487,Avijit Biswas,BIJPUR,IND,1
+serious_crime,67,1488,Sukanta Rakshit (Babin),BIJPUR,CPI(M),2
+serious_crime,68,1490,Subhranshu Roy,BIJPUR,BJP,4
+serious_crime,69,1491,Subodh Adhikary,BIJPUR,AITC,5
+serious_crime,70,186,Palan Saren,BINPUR (ST),BJP,2
+serious_crime,71,419,Dilip Mondal,BISHNUPUR (SC),AITC,1
+serious_crime,73,897,Ashok Kumar Deb,BUDGE BUDGE,AITC,1
+serious_crime,74,1931,Shiladitya Haldar,BURWAN (SC),INC,11
+serious_crime,75,427,Paresh Ram Das,CANNING PASCHIM (SC),AITC,9
+serious_crime,76,631,Kalipada Naskar,CANNING PURBA,BJP,1
+serious_crime,77,1082,Subhankar Singha (Jishu),CHAKDAHA,AITC,1
+serious_crime,78,1274,Ali Imran Ramz,CHAKULIA,AIFB,4
+serious_crime,79,1703,Nihar Ranjan Ghosh,CHANCHAL,AITC,2
+serious_crime,80,748,Praloy Mukherjee,CHANDANNAGAR,IND,1
+serious_crime,82,754,Ratan Kumar Chatterjee (R.K.C),CHANDANNAGAR,IND,1
+serious_crime,83,318,Pulak Kanti Guria,CHANDIPUR,BJP,2
+serious_crime,84,675,Md. Salim,CHANDITALA,CPI(M),1
+serious_crime,85,331,Sibaram Das,CHANDRAKONA (SC),BJP,2
+serious_crime,86,1393,Jeber Sekh,CHAPRA,IND,2
+serious_crime,87,109,Falguni Mukherjee,CHHATNA,Revolutionary Socialist Party,1
+serious_crime,88,1265,Hamidul Rahaman,CHOPRA,AITC,3
+serious_crime,89,1266,Anwarul Haque,CHOPRA,CPI(M),7
+serious_crime,91,1995,Bandyopadhyay Nayna,CHOWRANGEE,AITC,2
+serious_crime,92,1997,Devdutta Maji,CHOWRANGEE,BJP,6
+serious_crime,93,2213,Santosh Kumar Pathak,CHOWRANGEE,INC,9
+serious_crime,94,771,Locket Chatterjee,CHUNCHURA,BJP,17
+serious_crime,95,773,Asit Mazumder (Tapan),CHUNCHURA,AITC,1
+serious_crime,96,493,Avijit De Bhowmik,COOCHBEHAR DAKSHIN,AITC,11
+serious_crime,97,962,Nikhil Ranjan Dey,COOCHBEHAR DAKSHIN,BJP,4
+serious_crime,98,966,Sukumar Roy,COOCHBEHAR UTTAR (SC),BJP,3
+serious_crime,100,1213,Dilip Singh,DABGRAM-FULBARI,CPI(M),5
+serious_crime,101,61,Bikram Chandra Pradhan,DANTAN,AITC,2
+serious_crime,102,1044,Pemba Tshering,DARJEELING,IND,5
+serious_crime,103,1047,Keshav Raj Sharma,DARJEELING,IND,5
+serious_crime,104,1340,Anjani Sharma,DARJEELING,IND,1
+serious_crime,105,1342,Neeraj Tamang Zimba,DARJEELING,BJP,8
+serious_crime,106,281,Prankrishna Mondal,DEBRA,CPI(M),4
+serious_crime,107,325,Bharati Ghosh,DEBRA,BJP,19
+serious_crime,109,993,Mitali Roy,DHUPGURI (SC),AITC,1
+serious_crime,110,1039,Bishnu Pada Ray,DHUPGURI (SC),BJP,1
+serious_crime,111,466,Pratik Ur Rahaman,DIAMOND HARBOUR,CPI(M),6
+serious_crime,112,548,Dipak Kumar Halder,DIAMOND HARBOUR,BJP,4
+serious_crime,113,579,Udayan Guha,DINHATA,AITC,2
+serious_crime,114,580,Nisith Pramanik,DINHATA,BJP,13
+serious_crime,115,979,Abdur Rouf,DINHATA,AIFB,2
+serious_crime,116,815,Kalyan Ghosh,DOMJUR,AITC,2
+serious_crime,118,1969,Md. Mostafijur Rahaman (Rana),DOMKAL,CPI(M),2
+serious_crime,119,1546,Dr. Archana Majumdar,DUM DUM UTTAR,BJP,3
+serious_crime,120,1846,Chandra Mallika Bandopadhyay,DURGAPUR PASCHIM,IND,3
+serious_crime,121,1848,Biswanath Parial,DURGAPUR PASCHIM,AITC,5
+serious_crime,122,1849,Lakshman Chandra Ghorui,DURGAPUR PASCHIM,BJP,11
+serious_crime,123,1843,Abhas Ray Chaudhuri,DURGAPUR PURBA,CPI(M),2
+serious_crime,124,18,Jagadis Sau,EGRA,SUCI(C),2
+serious_crime,125,240,Manas Kumar Karmahapatra,EGRA,INC,3
+serious_crime,127,1893,Koushik Misra(Saheb),ENGLISH BAZAR,CPI(M),2
+serious_crime,128,1896,Sreerupa Mitra Chaudhury(Nirbhoy Didi),ENGLISH BAZAR,BJP,2
+serious_crime,129,1897,Krishnendu Narayan Choudhury,ENGLISH BAZAR,AITC,2
+serious_crime,130,2190,Satish Rajbanshi,ENGLISH BAZAR,IND,3
+serious_crime,131,2007,Priyanka Tibrewal,ENTALLY,BJP,2
+serious_crime,132,670,Subhash Chandra Roy,FALAKATA (SC),AITC,1
+serious_crime,133,783,Kshitish Chandra Ray,FALAKATA (SC),CPI(M),2
+serious_crime,134,784,Dipak Barman,FALAKATA (SC),BJP,8
+serious_crime,136,647,Santosh Samanta,FALTA,Akhil Bharat Hindu Mahasabha,1
+serious_crime,137,1725,Mainul Haque,FARAKKA,INC,1
+serious_crime,138,1728,Manirul Islam,FARAKKA,AITC,1
+serious_crime,139,1446,Narottam Biswas,GAIGHATA (SC),AITC,1
+serious_crime,140,1447,Subrata Thakur,GAIGHATA (SC),BJP,2
+serious_crime,141,1592,Nepal Ghorui,GALSI (SC),AITC,2
+serious_crime,142,1677,Nanda Lal Hazra,GANGARAMPUR (SC),CPI(M),1
+serious_crime,143,78,Uttara Singha Hazra,GARBETA,AITC,1
+serious_crime,145,1695,Satish Rajbanshi,GAZOLE (SC),IND,3
+serious_crime,146,1698,Chinmoy Deb Barman,GAZOLE (SC),BJP,1
+serious_crime,147,329,Sital Kapat,GHATAL (SC),BJP,1
+serious_crime,148,1270,Md. Ghulam Rabbani,GOALPOKHAR,AITC,3
+serious_crime,149,568,Biswanath Karak,GOGHAT (SC),BJP,8
+serious_crime,150,148,Jiten Giri,GOPIBALLAVPUR,IND,1
+serious_crime,151,149,Ashoke Mahata,GOPIBALLAVPUR,IND,2
+serious_crime,152,151,Prasanta Kumar Das,GOPIBALLAVPUR,CPI(M),5
+serious_crime,154,156,Sanjit Mahata,GOPIBALLAVPUR,BJP,3
+serious_crime,155,253,Haripada Mandal,GOSABA (SC),BSP,1
+serious_crime,156,341,Barun Pramanik (Chitta),GOSABA (SC),BJP,27
+serious_crime,157,1463,Biswajit Sinha,HABRA,BJP,9
+serious_crime,158,270,Swapan Naskar,HALDIA (SC),AITC,2
+serious_crime,159,2092,Nikhil Banerjee,HANSAN,BJP,1
+serious_crime,160,1961,Mir Alamgir (Palash),HARIHARPARA,INC,3
+serious_crime,161,1090,Asim Kumar Sarkar,HARINGHATA (SC),BJP,2
+serious_crime,163,1684,Nilanjan Roy,HARIRAMPUR,BJP,11
+serious_crime,164,1179,Rajendra Saha (Somu),HAROA,BJP,7
+serious_crime,165,1201,Sanjit Mondal,HINGALGANJ (SC),Jan Sangh Party,2
+serious_crime,166,1202,Nemai Das,HINGALGANJ (SC),BJP,1
+serious_crime,167,667,Tapas Kumar Das,HOWRAH DAKSHIN,SUCI(C),2
+serious_crime,168,861,Sanjay Singh,HOWRAH MADHYA,BJP,8
+serious_crime,169,510,Gautam Chowdhuri,HOWRAH UTTAR,AITC,4
+serious_crime,170,868,Vinit Kumar Rai,HOWRAH UTTAR,IND,1
+serious_crime,172,871,Ashok Kumar Sharma,HOWRAH UTTAR,Hindustani Awam Morcha (Secular),1
+serious_crime,173,872,Umesh Rai,HOWRAH UTTAR,BJP,11
+serious_crime,174,873,Pawan Kumar Singh,HOWRAH UTTAR,CPI(M),2
+serious_crime,175,1267,Abdul Karim Chowdhary,ISLAMPUR,AITC,4
+serious_crime,176,1650,Mofakkerul Islam,ITAHAR,All India Majlis-E-Ittehadul Muslimeen,3
+serious_crime,177,1512,Raja Ansari,JAGATDAL,IND,5
+serious_crime,178,1513,Somenath Shyam Ichini,JAGATDAL,AITC,6
+serious_crime,179,1514,Suraj Tiwari,JAGATDAL,IND,6
+serious_crime,181,1980,Chandan Mandal,JALANGI,BJP,1
+serious_crime,182,1001,Dr. Pradip Kumar Barma,JALPAIGURI (SC),AITC,1
+serious_crime,183,1330,Haridas Biswas,JALPAIGURI (SC),IND,1
+serious_crime,184,1229,Balaram Bapari,JAMALPUR (SC),BJP,2
+serious_crime,185,1234,Alok Kumar Majhi,JAMALPUR (SC),AITC,5
+serious_crime,186,1860,Tapas Kumar Roy,JAMURIA,BJP,1
+serious_crime,187,1861,Aishe Ghosh,JAMURIA,CPI(M),4
+serious_crime,188,1862,Gouri Sankar Banerjee,JAMURIA,JD(U),2
+serious_crime,190,695,Sk. Mainuddin,JANGIPARA,Rashtriya Secular Majlis Party,15
+serious_crime,191,1746,Sujit Das,JANGIPUR,BJP,2
+serious_crime,192,2137,Abu Salem,JANGIPUR,Justice and Development Party,2
+serious_crime,193,459,Apurba Pramanik (Apu),JAYNAGAR (SC),CPI(M),4
+serious_crime,194,541,Rabin Sardar,JAYNAGAR (SC),BJP,3
+serious_crime,195,121,Madhuja Sen Roy,JHARGRAM,CPI(M),3
+serious_crime,196,160,Sukhamay Satpathy,JHARGRAM,BJP,2
+serious_crime,197,162,Ramkrishna Sarkar,JHARGRAM,BSP,2
+serious_crime,199,2022,Meena Devi Purohit,JORASANKO,BJP,3
+serious_crime,200,2025,Ajmal Khan,JORASANKO,INC,2
+serious_crime,201,202,Jawahar Lal Mahato,JOYPUR,Mulnibasi Party of India,1
+serious_crime,202,257,Manturam Pakhira,KAKDWIP,AITC,2
+serious_crime,203,372,Dipankar Jana,KAKDWIP,BJP,2
+serious_crime,204,756,Passang Lama,KALCHINI (ST),AITC,12
+serious_crime,205,757,Bishal Lama,KALCHINI (ST),BJP,6
+serious_crime,206,761,Ashok Lama,KALCHINI (ST),National Peoples Party,1
+serious_crime,208,1316,Abul Kashem,KALIGANJ,INC,2
+serious_crime,209,991,Ruden Sada Lepcha,KALIMPONG,IND,3
+serious_crime,210,1016,Dr. R.B. Bhujel,KALIMPONG,IND,3
+serious_crime,211,1243,Deboprasad Bag (Poltu),KALNA (SC),AITC,2
+serious_crime,212,1085,Ambika Roy,KALYANI (SC),BJP,1
+serious_crime,213,1105,Sanjib Pandit,KAMARHATI,IND,3
+serious_crime,214,1106,Anindya Banerjee,KAMARHATI,BJP,12
+serious_crime,215,1108,Sayandeep Mitra,KAMARHATI,CPI(M),6
+serious_crime,217,1934,Goutam Roy,KANDI,BJP,2
+serious_crime,218,1935,Shafiul Alam Khan (Bonu),KANDI,INC,5
+serious_crime,219,1936,Apurba Sarkar (David),KANDI,AITC,4
+serious_crime,220,1937,Sher Alam,KANDI,Justice and Development Party,2
+serious_crime,221,2199,Syed Azizur Hossain(Nashim),KANDI,IND,1
+serious_crime,222,65,Tarun Kumar Jana,KANTHI UTTAR,AITC,6
+serious_crime,223,66,Sutanu Maity,KANTHI UTTAR,CPI(M),2
+serious_crime,224,133,Debasis Das,KANTHI UTTAR,IND,2
+serious_crime,226,1624,Goutam Paul,KARANDIGHI,AITC,3
+serious_crime,227,1594,Premananda Mandal,KARIMPUR,IND,2
+serious_crime,228,701,Dr. Indranil Khan,KASBA,BJP,1
+serious_crime,229,702,Shatarup Ghosh,KASBA,CPI(M),3
+serious_crime,230,703,Ahmed Javed Khan,KASBA,AITC,1
+serious_crime,231,96,Swapan Kumar Beltharia,KASHIPUR,AITC,1
+serious_crime,232,356,Haru Roy,KATULPUR (SC),BSP,1
+serious_crime,233,128,Rameswar Doloi,KESHPUR (SC),CPI(M),1
+serious_crime,235,1578,Sekh Sahonawez,KETUGRAM,AITC,6
+serious_crime,236,413,Munsi Nazbul Karim,KHANAKUL,AITC,9
+serious_crime,237,1219,Bijan Mandal,KHANDAGHOSH (SC),BJP,1
+serious_crime,238,1223,Nabin Chandra Bag,KHANDAGHOSH (SC),AITC,1
+serious_crime,239,77,Syed Saddam Ali,KHARAGPUR,CPI(M),1
+serious_crime,240,167,Tapan Bhuya,KHARAGPUR,BJP,2
+serious_crime,241,321,Reeta Sharma,KHARAGPUR SADAR,INC,1
+serious_crime,242,385,Hiranmoy Chattopadhyaya,KHARAGPUR SADAR,BJP,2
+serious_crime,244,1540,Silbhadra Datta,KHARDAHA,BJP,1
+serious_crime,245,1541,Kajal Sinha,KHARDAHA,AITC,1
+serious_crime,246,1927,Ashis Marjit,KHARGRAM (SC),AITC,1
+serious_crime,247,1929,Tulu Bala Das,KHARGRAM (SC),CPI(ML)(L),1
+serious_crime,248,68,Himangshu Das,KHEJURI (SC),CPI(M),24
+serious_crime,249,69,Partha Pratim Das,KHEJURI (SC),AITC,10
+serious_crime,250,1807,Md Mukhtar,KOLKATA PORT,INC,12
+serious_crime,251,1808,Sarfaraz Khan,KOLKATA PORT,BSP,1
+serious_crime,253,1409,Sumit Biswas,KRISHNANAGAR DAKSHIN,CPI(M),3
+serious_crime,254,1411,Mahadev Sarkar,KRISHNANAGAR DAKSHIN,BJP,7
+serious_crime,255,1404,Mukul Roy,KRISHNANAGAR UTTAR,BJP,19
+serious_crime,256,480,Siraj Uddin Gazi,KULPI,Rashtriya Secular Majlis Party,4
+serious_crime,257,401,Jaykrishna Haldar,KULTALI (SC),SUCI(C),2
+serious_crime,258,521,Mintu Halder,KULTALI (SC),BJP,2
+serious_crime,259,614,Gobinda Majhi,KULTALI (SC),IND,1
+serious_crime,260,1873,Ajay Kumar Poddar,KULTI,BJP,2
+serious_crime,262,1662,Manas Sarkar,KUMARGANJ,BJP,8
+serious_crime,263,726,Leos Kujur (Urao),KUMARGRAM (ST),AITC,6
+serious_crime,264,1036,Tshering Lama,KURSEONG,IND,1
+serious_crime,265,1347,Bishnu Prasad Sharma,KURSEONG,BJP,7
+serious_crime,266,2073,Biswajit Mondal,LABPUR,BJP,5
+serious_crime,267,2075,Sunil Murmu,LABPUR,BSP,1
+serious_crime,268,2077,Monirul Islam,LABPUR,IND,8
+serious_crime,269,1769,Ali Mohammad,LALGOLA,AITC,1
+serious_crime,271,778,Rajesh Lakra,MADARIHAT (ST),AITC,3
+serious_crime,272,1157,Biswajit Maity,MADHYAMGRAM,Rashtriya Secular Majlis Party,3
+serious_crime,273,545,Haji Mursid Uddin Sekh,MAGRAHAT PASCHIM,IND,3
+serious_crime,274,639,Maidul Islam Molla,MAGRAHAT PASCHIM,Rashtriya Secular Majlis Party,7
+serious_crime,275,900,Umesh Das,MAHESHTALA,BJP,3
+serious_crime,276,269,Tilak Kumar Chakraborty,MAHISHADAL,AITC,2
+serious_crime,277,379,Biswanath Banerjee,MAHISHADAL,BJP,5
+serious_crime,278,1335,Bablu Majhi,MAL (ST),IND,1
+serious_crime,280,1714,Abdur Rahim Boxi,MALATIPUR,AITC,1
+serious_crime,281,1890,Bhupendra Nath Halder (Arjun),MALDAHA (SC),INC,3
+serious_crime,282,456,Joydeb Halder,MANDIRBAZAR (SC),AITC,2
+serious_crime,283,526,Dilip Kumar Jatua,MANDIRBAZAR (SC),BJP,9
+serious_crime,284,1880,Anil Ch. Mandal,MANIKCHAK,IND,1
+serious_crime,285,1887,Gour Chandra Mandal,MANIKCHAK,BJP,1
+serious_crime,286,954,Sushil Barman,MATHABHANGA (SC),BJP,2
+serious_crime,287,956,Kangsa Raj Barman,MATHABHANGA (SC),Kamatapur Peoples Party (United),1
+serious_crime,289,999,Manoj Roy,MAYNAGURI (SC),AITC,5
+serious_crime,290,1324,Kaushik Roy,MAYNAGURI (SC),BJP,4
+serious_crime,291,2085,Shyamapada Mondal,MAYURESWAR,BJP,9
+serious_crime,292,181,Samit Kumar Dash,MEDINIPUR,BJP,7
+serious_crime,293,570,Gobinda Chandra Roy,MEKLIGANJ (SC),AIFB,2
+serious_crime,294,951,Dadhiram Ray,MEKLIGANJ (SC),BJP,15
+serious_crime,295,1247,Bhismadeb Bhattacharya,MEMARI,BJP,2
+serious_crime,296,1248,Sanat Banerjee,MEMARI,CPI(M),2
+serious_crime,298,509,Abdul Khaleque Molla,METIABURUZ,AITC,2
+serious_crime,299,1181,Jayanta Mondal,MINAKHAN (SC),BJP,2
+serious_crime,300,1583,Choudhury Sahajahan,MONGALKOTE,CPI(M),1
+serious_crime,301,1904,Shyamchand Ghosh,MOTHABARI,BJP,2
+serious_crime,302,2192,Saidur Rahaman,MOTHABARI,IND,1
+serious_crime,303,376,Manik Bhaumik,MOYNA,INC,2
+serious_crime,304,1788,Gouri Sankar Ghosh,MURSHIDABAD,BJP,6
+serious_crime,305,1792,Neajuddin Sk,MURSHIDABAD,INC,3
+serious_crime,307,1407,Sidhartha Shankar Naskar,NABADWIP,BJP,2
+serious_crime,308,1796,Kanai Chandra Mondal,NABAGRAM (SC),AITC,9
+serious_crime,309,1009,Benam Oraon,NAGRAKATA (ST),Progressive Peoples Party,1
+serious_crime,310,1010,Joseph Munda,NAGRAKATA (ST),AITC,6
+serious_crime,311,1498,Phalguni Patra,NAIHATI,BJP,8
+serious_crime,312,1499,Partha Bhowmick,NAIHATI,AITC,1
+serious_crime,313,2098,Tapas Kumar Yadav(Ananda Yadav),NALHATI,BJP,4
+serious_crime,314,2099,Dipak Chatterjee,NALHATI,AIFB,2
+serious_crime,316,316,Sk Saddam Hossain,NANDIGRAM,IND,1
+serious_crime,317,380,Minakshi Mukherjee,NANDIGRAM,CPI(M),2
+serious_crime,318,2069,Tarakeswar Saha,NANOOR (SC),BJP,3
+serious_crime,319,24,Shyama Pada Jana,NARAYANGARH,SUCI(C),1
+serious_crime,320,278,Rama Prasad Giri,NARAYANGARH,BJP,3
+serious_crime,321,581,Akik Hassan,NATABARI,CPI(M),1
+serious_crime,322,1525,Sunil Singh,NOAPARA,BJP,7
+serious_crime,323,1963,Mosaraf Hossain Mondal (Madhu),NOWDA,INC,2
+serious_crime,325,1312,Maniruzzaman Mondal,PALASHIPARA,SUCI(C),2
+serious_crime,326,823,Mohit Lal Ghanti,PANCHLA,BJP,1
+serious_crime,327,826,Abdul Jalil Sk,PANCHLA,Rashtriya Secular Majlis Party,2
+serious_crime,328,1831,Narendranath Chakraborty,PANDABESWAR,AITC,7
+serious_crime,329,1832,Jitendra Kumar Tewari,PANDABESWAR,BJP,2
+serious_crime,330,1833,Pradip Kumar Poddar,PANDABESWAR,IND,3
+serious_crime,331,740,Partha Sharma,PANDUA,BJP,1
+serious_crime,332,742,Amjad Hossain Sk.,PANDUA,CPI(M),2
+serious_crime,334,263,Sintu Senapati,PANSKURA PASCHIM,BJP,2
+serious_crime,335,309,Narayan Kinkar Mishra,PANSKURA PASCHIM,IND,1
+serious_crime,336,305,Debabrata Pattanayek,PANSKURA PURBA,BJP,1
+serious_crime,337,307,Ibrahim Ali Sk,PANSKURA PURBA,CPI(M),5
+serious_crime,338,130,Uttam Barik,PATASHPUR,AITC,4
+serious_crime,339,255,Samir Kumar Jana,PATHARPRATIMA,AITC,2
+serious_crime,340,371,Asit Kumar Haldar,PATHARPRATIMA,BJP,2
+serious_crime,341,1028,Chhotan Kisku,PHANSIDEWA (ST),AITC,1
+serious_crime,343,1559,Rajib Kumar Bhowmick,PURBASTHALI DAKSHIN,BJP,3
+serious_crime,344,1560,Abhijit Bhattacharyya,PURBASTHALI DAKSHIN,INC,3
+serious_crime,345,1561,Swapan Debnath,PURBASTHALI DAKSHIN,AITC,1
+serious_crime,346,1565,Pradip Kumar Saha,PURBASTHALI UTTAR,CPI(M),2
+serious_crime,347,1567,Tapan Chatterjee,PURBASTHALI UTTAR,AITC,3
+serious_crime,348,537,Dilip Yadav,PURSURAH,AITC,1
+serious_crime,349,538,Biman Ghosh,PURSURAH,BJP,2
+serious_crime,350,597,Chiranjit Barik,PURSURAH,IND,3
+serious_crime,352,213,Mritunjoy Pandey,PURULIA,IND,1
+serious_crime,353,1750,Abul Kashem Biswas,RAGHUNATHGANJ,INC,1
+serious_crime,354,1752,Nasir Saikh,RAGHUNATHGANJ,IND,3
+serious_crime,355,1753,Golam Modaswer,RAGHUNATHGANJ,BJP,2
+serious_crime,356,415,Gunasindhu Haldar,RAIDIGHI,SUCI(C),5
+serious_crime,357,454,Aloke Jaldata,RAIDIGHI,AITC,1
+serious_crime,358,1288,Kanaia Lal Agarwal,RAIGANJ,AITC,3
+serious_crime,359,1289,Mohit Sengupta,RAIGANJ,INC,3
+serious_crime,361,1638,Goutam Biswas,RAIGANJ,Amra Bangalee,1
+serious_crime,362,238,Milan Mandi,RAIPUR (ST),Rashtriya Secular Majlis Party,5
+serious_crime,363,1142,Samik Bhattacharya,RAJARHAT GOPALPUR,BJP,2
+serious_crime,364,1147,Gopal Mondal,RAJARHAT GOPALPUR,IND,1
+serious_crime,365,1130,Saptarshi Deb,RAJARHAT NEW TOWN,CPI(M),1
+serious_crime,366,1131,Tapash Chatterjee,RAJARHAT NEW TOWN,AITC,2
+serious_crime,367,72,Akhil Giri,RAMNAGAR,AITC,1
+serious_crime,368,73,Sabyasachi Jana,RAMNAGAR,CPI(M),5
+serious_crime,370,1076,Rama Biswas,RANAGHAT DAKSHIN (SC),CPI(M),1
+serious_crime,371,1070,Ashim Biswas,RANAGHAT UTTAR PURBA (SC),BJP,4
+serious_crime,372,3,Goutam Kumar Mudi,RANIBANDH (ST),SUCI(C),1
+serious_crime,373,113,Deblina Hembram,RANIBANDH (ST),CPI(M),1
+serious_crime,374,1855,Hemant Kumar Prabhakar,RANIGANJ,CPI(M),5
+serious_crime,375,1856,Tapas Banerjee,RANIGANJ,AITC,7
+serious_crime,376,1785,Abdul Soumik Hossain,RANINAGAR,AITC,2
+serious_crime,377,1813,Pankaj Thakkar,RASHBEHARI,IND,2
+serious_crime,379,2160,Debashis Nath,RASHBEHARI,IND,1
+serious_crime,380,2161,Musarat Parveen,RASHBEHARI,IND,1
+serious_crime,381,1939,Kafiruddin Sk,REJINAGAR,INC,3
+serious_crime,382,1940,Arabinda Biswas,REJINAGAR,BJP,2
+serious_crime,383,1941,Rabiul Alam Chowdhury,REJINAGAR,AITC,1
+serious_crime,384,365,Amulya Maity,SABANG,BJP,1
+serious_crime,385,343,Kamila Bikash,SAGAR,BJP,2
+serious_crime,386,1759,Nure Mahaboob Alam,SAGARDIGHI,All India Majlis-E-Ittehadul Muslimeen,2
+serious_crime,388,81,Srikanta Mahata,SALBONI,AITC,3
+serious_crime,389,82,Ghosh Susanta,SALBONI,CPI(M),6
+serious_crime,390,84,Md. Kabirul Islam Khan,SALBONI,Humanity Universal Motion Party,3
+serious_crime,391,174,Rajib Kundu,SALBONI,BJP,8
+serious_crime,392,1729,Md. Modassar Hossain,SAMSERGANJ,CPI(M),2
+serious_crime,393,1731,Milan Ghosh,SAMSERGANJ,BJP,1
+serious_crime,394,1732,Amirul Islam,SAMSERGANJ,AITC,3
+serious_crime,395,1185,Sukumar Mahata,SANDESHKHALI (ST),AITC,1
+serious_crime,397,1054,Sufal Sarkar,SANTIPUR,Jan Sangh Party,3
+serious_crime,398,1055,Jagannath Sarkar,SANTIPUR,BJP,4
+serious_crime,399,1358,Sukdeb Biswas,SANTIPUR,Purvanchal Mahapanchayat,1
+serious_crime,400,1021,Asok Bhattacharya,SILIGURI,CPI(M),9
+serious_crime,401,1024,Sankar Ghosh,SILIGURI,BJP,2
+serious_crime,402,795,Rabindranath Bhattacharya,SINGUR,BJP,1
+serious_crime,403,796,Srijan Bhattacharyya,SINGUR,CPI(M),2
+serious_crime,404,797,Becharam Manna,SINGUR,AITC,1
+serious_crime,406,975,Proshanta Barman,SITAI (SC),LJP,5
+serious_crime,407,578,Sudhangshu Pramanik,SITALKUCHI (SC),CPI(M),3
+serious_crime,408,969,Baren Chandra Barman,SITALKUCHI (SC),BJP,1
+serious_crime,409,799,Santosh Kumar Singh,SREERAMPUR,IND,2
+serious_crime,410,801,Kabir Shankar Bose,SREERAMPUR,BJP,3
+serious_crime,411,1908,Md. Nur Islam Sekh,SUJAPUR,Rashtriya Secular Majlis Party,1
+serious_crime,412,1910,Sk Ziauddin,SUJAPUR,BJP,1
+serious_crime,413,1736,Emani Biswas,SUTI,AITC,1
+serious_crime,415,1461,Brindaban Sarkar,SWARUPNAGAR (SC),BJP,1
+serious_crime,416,286,Manoranjan Patra,TALDANGRA,CPI(M),3
+serious_crime,417,287,Sandip Kumar Dey,TALDANGRA,IND,1
+serious_crime,418,332,Shyamal Kumar Sarkar (Benu),TALDANGRA,BJP,7
+serious_crime,419,31,Jnanananda Roy,TAMLUK,SUCI(C),2
+serious_crime,420,441,Ramendu Sinharay,TARAKESWAR,AITC,4
+serious_crime,421,445,Surajit Ghosh,TARAKESWAR,CPI(M),3
+serious_crime,422,1302,Subodh Chandra Biswas,TEHATTA,CPI(M),1
+serious_crime,424,931,Babul Supriyo,TOLLYGANJ,BJP,13
+serious_crime,425,987,Malati Rava Roy,TUFANGANJ,BJP,9
+serious_crime,426,529,Sumit Ranjan Karar,UDAYNARAYANPUR,BJP,2
+serious_crime,427,472,Dr. Nirmal Maji,ULUBERIA UTTAR (SC),AITC,2
+serious_crime,428,473,Ashok Dalui,ULUBERIA UTTAR (SC),CPI(M),1
+serious_crime,429,556,Chiran Bera,ULUBERIA UTTAR (SC),BJP,4
+serious_crime,430,804,Prabir Kumar Ghosal,UTTARPARA,BJP,4
+serious_crime,431,805,Rajat Banerjee (Bappa),UTTARPARA,CPI(M),5
