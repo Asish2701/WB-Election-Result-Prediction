@@ -88,22 +88,65 @@ def pick_prob_cols(df):
     return []
 
 
-def get_winner_columns(df):
-    # Check for various column name patterns
-    if "Predicted_Winner" in df.columns:
+def find_winner_columns(df):
+    for winner_col in [
+        "Predicted_Winner",
+        "Predicted_Winner_adjusted",
+        "Predicted_Winner_baseline",
+    ]:
+        prob_col = winner_col.replace("Predicted_Winner", "Predicted_Winner_Prob")
+        if winner_col in df.columns and prob_col in df.columns:
+            return winner_col, prob_col
+
+    for winner_col in [col for col in df.columns if "Predicted_Winner" in col]:
+        prob_col = winner_col.replace("Predicted_Winner", "Predicted_Winner_Prob")
+        if prob_col in df.columns:
+            return winner_col, prob_col
+
+    return None, None
+
+
+def normalize_prediction_columns(df):
+    if df is None:
+        return None
+
+    df = df.copy()
+    winner_col, winner_prob_col = find_winner_columns(df)
+
+    if winner_col and "Predicted_Winner" not in df.columns:
+        df["Predicted_Winner"] = df[winner_col]
+    if winner_prob_col and "Predicted_Winner_Prob" not in df.columns:
+        df["Predicted_Winner_Prob"] = df[winner_prob_col]
+
+    return df
+
+
+def require_winner_columns(df, label):
+    winner_col, winner_prob_col = find_winner_columns(df)
+    if winner_col and winner_prob_col:
         return "Predicted_Winner", "Predicted_Winner_Prob"
-    elif "Predicted_Winner_baseline" in df.columns:
-        return "Predicted_Winner_baseline", "Predicted_Winner_Prob_baseline"
-    elif "Predicted_Winner_adjusted" in df.columns:
-        return "Predicted_Winner_adjusted", "Predicted_Winner_Prob_adjusted"
-    else:
-        # Fallback to first matching columns
-        for col in df.columns:
-            if "Predicted_Winner" in col:
-                prob_col = col.replace("Predicted_Winner", "Predicted_Winner_Prob")
-                if prob_col in df.columns:
-                    return col, prob_col
-        return "Predicted_Winner_baseline", "Predicted_Winner_Prob_baseline"
+
+    st.error(
+        f"{label} is missing prediction columns. Expected Predicted_Winner/Predicted_Winner_Prob "
+        "or a suffixed variant like Predicted_Winner_baseline."
+    )
+    st.stop()
+
+
+def add_baseline_table_columns(display_df, baseline_df):
+    passthrough_cols = [
+        col
+        for col in baseline_df.columns
+        if col.startswith("Candidate_") and col not in display_df.columns
+    ]
+    if not passthrough_cols:
+        return display_df.copy()
+
+    return display_df.merge(
+        baseline_df[["AC_Number", *passthrough_cols]],
+        on="AC_Number",
+        how="left",
+    )
 
 
 def build_grid(df, risk_col, winner_col, winner_prob_col):
@@ -152,10 +195,17 @@ if df is None:
     st.error("Missing outputs/wb_2026_powerbi_dataset.csv. Generate it first.")
     st.stop()
 
+df = normalize_prediction_columns(df)
+flip = normalize_prediction_columns(flip)
+adjusted_squeeze = normalize_prediction_columns(adjusted_squeeze)
+antiinc = normalize_prediction_columns(antiinc)
+combined = normalize_prediction_columns(combined)
+
 # Use combined scenario if available, otherwise fall back to baseline
 df_display = combined if combined is not None else df
 
-winner_col, winner_prob_col = get_winner_columns(df_display)
+winner_col, winner_prob_col = require_winner_columns(df_display, "Display dataset")
+df_display = add_baseline_table_columns(df_display, df)
 
 if flip is not None:
     df_display = df_display.merge(flip[["AC_Number", "Flip_Risk"]], on="AC_Number", how="left")
@@ -255,8 +305,8 @@ with tab1:
 
     party_filter = st.multiselect(
         "Filter by party",
-        sorted(df[winner_col].dropna().unique()),
-        default=sorted(df[winner_col].dropna().unique()),
+        sorted(df_display[winner_col].dropna().unique()),
+        default=sorted(df_display[winner_col].dropna().unique()),
     )
 
     risk_filter = st.multiselect(
@@ -273,7 +323,7 @@ with tab1:
         & (df_display[winner_prob_col].between(prob_range[0], prob_range[1]))
     ].copy()
 
-    candidate_cols = [col for col in df.columns if col.startswith("Candidate_")]
+    candidate_cols = [col for col in df_display.columns if col.startswith("Candidate_")]
 
     columns = [
         "AC_Number",
@@ -286,9 +336,10 @@ with tab1:
     ]
 
     for col in sorted(candidate_cols):
-        if col in df.columns:
+        if col in df_display.columns:
             columns.append(col)
 
+    columns = [col for col in columns if col in filtered.columns]
     st.dataframe(filtered[columns], use_container_width=True, height=420)
 
     st.subheader("Win Probability Distribution")
@@ -352,11 +403,11 @@ with tab2:
         # Comparison: baseline vs adjusted
         if adjusted_squeeze is not None:
             st.subheader("Baseline vs Squeeze-Adjusted Predictions")
-            baseline_tmc = len(df[df[winner_col] == "All India Trinamool Congress"])
-            adjusted_tmc = len(adjusted_squeeze[adjusted_squeeze['Predicted_Winner'] == "All India Trinamool Congress"])
+            baseline_tmc = len(df[df["Predicted_Winner"] == "All India Trinamool Congress"])
+            adjusted_tmc = len(adjusted_squeeze[adjusted_squeeze["Predicted_Winner"] == "All India Trinamool Congress"])
             
-            baseline_bjp = len(df[df[winner_col] == "Bharatiya Janta Party"])
-            adjusted_bjp = len(adjusted_squeeze[adjusted_squeeze['Predicted_Winner'] == "Bharatiya Janta Party"])
+            baseline_bjp = len(df[df["Predicted_Winner"] == "Bharatiya Janta Party"])
+            adjusted_bjp = len(adjusted_squeeze[adjusted_squeeze["Predicted_Winner"] == "Bharatiya Janta Party"])
             
             comparison_data = pd.DataFrame({
                 'Scenario': ['Baseline', 'After Margin Squeeze'],
