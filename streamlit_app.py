@@ -171,10 +171,96 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
+<<<<<<< HEAD
 if constituency_comp is None and actual_vs_pred is None:
     st.error(
         "Missing comparison files in outputs/. Expected wb_2026_constituency_comparison.csv "
         "and/or wb_2026_actual_vs_predicted.csv"
+=======
+# Create tabs for different analyses
+tab1, tab2, tab3, tab4, tab5 = st.tabs([
+    "📊 Overview", 
+    " Margin Squeeze", 
+    " Anti-Incumbency",
+    " Scenarios",
+    "🔍 Details"
+])
+
+with tab1:
+    # Determine which scenario we're showing
+    is_combined = combined is not None
+    scenario_title = "Comprehensive Scenario" if is_combined else "Baseline Predictions"
+    scenario_subtitle = "All factors combined (margin squeeze + anti-incumbency + turnout + swing)" if is_combined else "Baseline model without scenario adjustments"
+    
+    st.subheader(scenario_title)
+    st.caption(scenario_subtitle)
+    
+    col_a, col_b, col_c, col_d = st.columns(4)
+    
+    party_counts = df_display[winner_col].value_counts()
+    col_a.metric("AITC Seats", int(party_counts.get("All India Trinamool Congress", 0)))
+    col_b.metric("BJP Seats", int(party_counts.get("Bharatiya Janta Party", 0)))
+    col_c.metric("Other Seats", int(party_counts.get("OTHER", 0)))
+    col_d.metric("Median Win Prob", f"{df_display[winner_prob_col].median():.2f}")
+
+    st.divider()
+
+    # Show scenario comparison if combined data is available
+    if is_combined:
+        st.subheader("Scenario Progression")
+        scenario_comparison = pd.DataFrame({
+            'Scenario': ['Baseline', 'Margin Squeeze', 'Margin Squeeze\n+ Anti-Inc', 'All Factors\nCombined'],
+            'TMC Seats': [197, 194, '188-190', int(party_counts.get("All India Trinamool Congress", 0))],
+            'BJP Seats': [95, 98, '102-104', int(party_counts.get("Bharatiya Janta Party", 0))]
+        })
+        st.dataframe(scenario_comparison, use_container_width=True, hide_index=True)
+        st.divider()
+
+    left, right = st.columns([2.2, 1.2])
+
+    with left:
+        st.subheader("Seat Grid Map (Flip Risk)")
+        st.plotly_chart(build_grid(df_display, "Flip_Risk", winner_col, winner_prob_col), use_container_width=True)
+
+    with right:
+        st.subheader("Exit Polls vs Model")
+        if exit_polls is not None:
+            model_row = pd.DataFrame(
+                [
+                    {
+                        "Pollster": "Model (Combined)",
+                        "BJP": int(party_counts.get("Bharatiya Janta Party", 0)),
+                        "TMC": int(party_counts.get("All India Trinamool Congress", 0)),
+                        "Others": int(party_counts.get("OTHER", 0)),
+                    }
+                ]
+            )
+            poll_df = pd.concat([exit_polls, model_row], ignore_index=True)
+            poll_long = poll_df.melt(id_vars="Pollster", var_name="Party", value_name="Seats")
+            fig_poll = px.bar(
+                poll_long,
+                x="Pollster",
+                y="Seats",
+                color="Party",
+                barmode="group",
+                color_discrete_map={
+                    "BJP": "#f97316",
+                    "TMC": "#e11d48",
+                    "Others": "#94a3b8",
+                },
+            )
+            fig_poll.update_layout(height=420, legend_title_text="")
+            st.plotly_chart(fig_poll, use_container_width=True)
+        else:
+            st.info("Exit poll file missing. Add outputs/wb_2026_exit_polls.csv")
+
+    st.subheader("Seat Table")
+
+    party_filter = st.multiselect(
+        "Filter by party",
+        sorted(df_display[winner_col].dropna().unique()),
+        default=sorted(df_display[winner_col].dropna().unique()),
+>>>>>>> b28b9c0eb9e9fc9095e1d3e86ec8f51a74feb81a
     )
     st.stop()
 
