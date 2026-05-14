@@ -1,4 +1,0 @@
-AC_Number,Constituency_Name,District,Predicted_Winner_baseline,Predicted_Winner_Prob_baseline,Predicted_Winner_adjusted,Predicted_Winner_Prob_adjusted,flip
-205,Panskura Paschim,Purba Medinipur,Bharatiya Janta Party,0.48686163864152554,All India Trinamool Congress,0.5229940890875449,True
-260,Burdwan Dakshin,Barddhaman,Bharatiya Janta Party,0.49183506625737783,All India Trinamool Congress,0.5493169743671192,True
-67,Burwan,Murshidabad,Bharatiya Janta Party,0.47359832881988373,All India Trinamool Congress,0.5592669965459537,True

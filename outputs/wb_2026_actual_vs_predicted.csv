@@ -1,0 +1,8 @@
+Party,Predicted_Seats,Actual_Seats,Difference,Error_Percentage
+All India Trinamool Congress,218,80,-138,-63.3%
+Bharatiya Janata Party,74,207,133,179.7%
+OTHER,2,0,-2,-100.0%
+Indian National Congress,0,2,2,N/A
+Aam Janata Unnayan Party,0,2,2,N/A
+All India Secular Front,0,1,1,N/A
+Communist Party Of India (MARXIST),0,1,1,N/A

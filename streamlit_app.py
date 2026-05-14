@@ -1,656 +1,329 @@
-import numpy as np
-import pandas as pd
-import plotly.express as px
-import plotly.graph_objects as go
-import streamlit as st
+import json
 from pathlib import Path
 
-st.set_page_config(page_title="WB 2026 Election Dashboard", layout="wide")
+import pandas as pd
+import plotly.express as px
+import streamlit as st
+
+st.set_page_config(page_title="Model Accuracy Dashboard", layout="wide")
 
 st.markdown(
     """
     <style>
-    @import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;600;700&family=Space+Grotesk:wght@400;600&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;700&family=Sora:wght@500;700&display=swap');
 
     :root {
-        --bg-1: #0f0f12;
-        --bg-2: #1b1b26;
-        --accent: #e53935;
-        --accent-2: #f2c94c;
-        --text: #f7f7f7;
-        --muted: #c9c9d4;
-        --card: #171720;
+        --ink: #101827;
+        --muted: #5b6475;
+        --bg: #f6f8fb;
+        --card: #4099ff;
+        --accent: #0f766e;
+        --danger: #b91c1c;
+        --border: #dbe2ea;
     }
 
     .stApp {
-        background: radial-gradient(1200px 600px at 15% 10%, #23233a 0%, rgba(35,35,58,0) 60%),
-                    radial-gradient(900px 500px at 85% 20%, #2a1b1b 0%, rgba(42,27,27,0) 55%),
-                    linear-gradient(160deg, var(--bg-1), var(--bg-2));
-        color: var(--text);
-        font-family: 'Space Grotesk', sans-serif;
+        background:
+            radial-gradient(900px 400px at 8% -5%, #e8f5ff 0%, rgba(232, 245, 255, 0) 58%),
+            radial-gradient(800px 400px at 100% 0%, #ecfdf5 0%, rgba(236, 253, 245, 0) 60%),
+            var(--bg);
+        color: var(--ink);
+        font-family: 'Outfit', sans-serif;
     }
 
-    h1, h2, h3, h4, h5 {
-        font-family: 'Rajdhani', sans-serif;
-        letter-spacing: 0.5px;
+    h1, h2, h3, h4 {
+        font-family: 'Sora', sans-serif;
+        letter-spacing: -0.2px;
     }
 
-    .header-wrap {
-        padding: 0.5rem 0 0.5rem 0;
-        animation: fadein 0.8s ease-in;
-    }
-
-    .kpi-card {
-        background: var(--card);
-        border: 1px solid rgba(255,255,255,0.08);
+    .hero {
+        background: linear-gradient(120deg, #0f766e, #0e7490);
+        color: #ffffff;
         border-radius: 16px;
         padding: 1rem 1.2rem;
-        box-shadow: 0 10px 30px rgba(0,0,0,0.35);
+        margin-bottom: 1rem;
+        box-shadow: 0 10px 26px rgba(14, 116, 144, 0.2);
     }
 
-    @keyframes fadein {
-        from { opacity: 0; transform: translateY(8px); }
-        to { opacity: 1; transform: translateY(0); }
+    .hero p {
+        margin: 0;
+        opacity: 0.95;
+    }
+
+    div[data-testid="stMetric"] {
+        border: 1px solid var(--border);
+        border-radius: 12px;
+        background: var(--card);
+        padding: 0.35rem 0.5rem;
+    }
+
+    div[data-testid="stMetricLabel"] {
+        color: #1e293b;
+        opacity: 1;
+        font-weight: 600;
+    }
+
+    div[data-testid="stMetricValue"] {
+        color: #0f172a;
+        font-weight: 700;
+    }
+
+    div[data-testid="stMetricDelta"] {
+        color: #166534;
+    }
+
+    /* Some Streamlit builds render labels through nested paragraph tags */
+    div[data-testid="stMetricLabel"] p {
+        color: #1e293b !important;
+        opacity: 1 !important;
+        font-weight: 600 !important;
+    }
+
+    div[data-testid="stMetricValue"] p {
+        color: #0f172a !important;
+        opacity: 1 !important;
+        font-weight: 700 !important;
+    }
+
+    div[data-testid="stMetricDelta"] p {
+        opacity: 1 !important;
+        font-weight: 600 !important;
     }
     </style>
     """,
     unsafe_allow_html=True,
 )
 
-DATA_PATH = Path("outputs/wb_2026_powerbi_dataset.csv")
-FLIP_PATH = Path("outputs/wb_2026_flip_risk.csv")
-EXIT_POLL_PATH = Path("outputs/wb_2026_exit_polls.csv")
-MARGIN_SQUEEZE_PATH = Path("outputs/wb_2026_margin_squeeze_analysis.csv")
-ADJUSTED_SQUEEZE_PATH = Path("outputs/wb_2026_adjusted_for_squeeze.csv")
-ANTIINC_PATH = Path("outputs/wb_2026_antiincumbency_analysis.csv")
-COMBINED_PATH = Path("outputs/wb_2026_all_factors_combined.csv")
+METRICS_PATH = Path("outputs/training_metrics.json")
+ACTUAL_VS_PREDICTED_PATH = Path("outputs/wb_2026_actual_vs_predicted.csv")
+CONSTITUENCY_COMP_PATH = Path("outputs/wb_2026_constituency_comparison.csv")
 
 
 @st.cache_data
-def load_data():
-    if not DATA_PATH.exists():
-        return None, None, None, None, None, None, None
-    df = pd.read_csv(DATA_PATH)
-    flip = pd.read_csv(FLIP_PATH) if FLIP_PATH.exists() else None
-    exit_polls = pd.read_csv(EXIT_POLL_PATH) if EXIT_POLL_PATH.exists() else None
-    margin_squeeze = pd.read_csv(MARGIN_SQUEEZE_PATH) if MARGIN_SQUEEZE_PATH.exists() else None
-    adjusted_squeeze = pd.read_csv(ADJUSTED_SQUEEZE_PATH) if ADJUSTED_SQUEEZE_PATH.exists() else None
-    antiinc = pd.read_csv(ANTIINC_PATH) if ANTIINC_PATH.exists() else None
-    combined = pd.read_csv(COMBINED_PATH) if COMBINED_PATH.exists() else None
-    return df, flip, exit_polls, margin_squeeze, adjusted_squeeze, antiinc, combined
+def load_training_metrics():
+    if not METRICS_PATH.exists():
+        return {}
+    try:
+        return json.loads(METRICS_PATH.read_text(encoding="utf-8"))
+    except json.JSONDecodeError:
+        return {}
 
 
-def pick_prob_cols(df):
-    for suffix in ["_calibrated", "_baseline", ""]:
-        cols = [col for col in df.columns if col.startswith("P_") and col.endswith(suffix)]
-        if cols:
-            return cols
-    return []
-
-
-def find_winner_columns(df):
-    for winner_col in [
-        "Predicted_Winner",
-        "Predicted_Winner_adjusted",
-        "Predicted_Winner_baseline",
-    ]:
-        prob_col = winner_col.replace("Predicted_Winner", "Predicted_Winner_Prob")
-        if winner_col in df.columns and prob_col in df.columns:
-            return winner_col, prob_col
-
-    for winner_col in [col for col in df.columns if "Predicted_Winner" in col]:
-        prob_col = winner_col.replace("Predicted_Winner", "Predicted_Winner_Prob")
-        if prob_col in df.columns:
-            return winner_col, prob_col
-
-    return None, None
-
-
-def normalize_prediction_columns(df):
-    if df is None:
+@st.cache_data
+def load_csv(path: Path):
+    if not path.exists():
         return None
-
-    df = df.copy()
-    winner_col, winner_prob_col = find_winner_columns(df)
-
-    if winner_col and "Predicted_Winner" not in df.columns:
-        df["Predicted_Winner"] = df[winner_col]
-    if winner_prob_col and "Predicted_Winner_Prob" not in df.columns:
-        df["Predicted_Winner_Prob"] = df[winner_prob_col]
-
-    return df
+    return pd.read_csv(path)
 
 
-def require_winner_columns(df, label):
-    winner_col, winner_prob_col = find_winner_columns(df)
-    if winner_col and winner_prob_col:
-        return "Predicted_Winner", "Predicted_Winner_Prob"
+def build_confidence_bins(df: pd.DataFrame) -> pd.DataFrame:
+    work = df.copy()
+    work = work.dropna(subset=["Predicted_Winner_Prob"])
+    if work.empty:
+        return pd.DataFrame()
 
-    st.error(
-        f"{label} is missing prediction columns. Expected Predicted_Winner/Predicted_Winner_Prob "
-        "or a suffixed variant like Predicted_Winner_baseline."
-    )
-    st.stop()
-
-
-def add_baseline_table_columns(display_df, baseline_df):
-    passthrough_cols = [
-        col
-        for col in baseline_df.columns
-        if col.startswith("Candidate_") and col not in display_df.columns
-    ]
-    if not passthrough_cols:
-        return display_df.copy()
-
-    return display_df.merge(
-        baseline_df[["AC_Number", *passthrough_cols]],
-        on="AC_Number",
-        how="left",
+    bins = [0.0, 0.6, 0.75, 0.85, 0.95, 1.0]
+    labels = ["0-60%", "60-75%", "75-85%", "85-95%", "95-100%"]
+    work["confidence_band"] = pd.cut(
+        work["Predicted_Winner_Prob"],
+        bins=bins,
+        labels=labels,
+        include_lowest=True,
     )
 
-
-def build_grid(df, risk_col, winner_col, winner_prob_col):
-    grid_cols = 14
-    df = df.copy()
-    df["grid_x"] = (df["AC_Number"] - 1) % grid_cols
-    df["grid_y"] = (df["AC_Number"] - 1) // grid_cols
-    color_map = {
-        "Very High": "#ff5c57",
-        "High": "#ff9f1c",
-        "Medium": "#ffd166",
-        "Low": "#8ac926",
-        "Very Low": "#1982c4",
-    }
-    fig = px.scatter(
-        df,
-        x="grid_x",
-        y="grid_y",
-        color=risk_col,
-        color_discrete_map=color_map,
-        hover_data={
-            "AC_Number": True,
-            "Constituency_Name": True,
-            winner_col: True,
-            winner_prob_col: ":.2f",
-            "grid_x": False,
-            "grid_y": False,
-        },
+    band = (
+        work.groupby("confidence_band", observed=False)
+        .agg(
+            predictions=("Correct_Prediction", "size"),
+            accuracy=("Correct_Prediction", "mean"),
+        )
+        .reset_index()
     )
-    fig.update_traces(marker=dict(size=14, symbol="square"))
-    fig.update_layout(
-        height=520,
-        xaxis=dict(visible=False),
-        yaxis=dict(visible=False),
-        plot_bgcolor="rgba(0,0,0,0)",
-        paper_bgcolor="rgba(0,0,0,0)",
-        legend_title_text="Flip Risk",
-    )
-    fig.update_yaxes(autorange="reversed")
-    return fig
+    band["accuracy_pct"] = (band["accuracy"] * 100).round(1)
+    return band
 
 
-df, flip, exit_polls, margin_squeeze, adjusted_squeeze, antiinc, combined = load_data()
+def safe_column(df: pd.DataFrame, col: str, fallback: str):
+    return col if col in df.columns else fallback
 
-if df is None:
-    st.error("Missing outputs/wb_2026_powerbi_dataset.csv. Generate it first.")
-    st.stop()
 
-df = normalize_prediction_columns(df)
-flip = normalize_prediction_columns(flip)
-adjusted_squeeze = normalize_prediction_columns(adjusted_squeeze)
-antiinc = normalize_prediction_columns(antiinc)
-combined = normalize_prediction_columns(combined)
+def unique_columns(columns):
+    seen = set()
+    ordered = []
+    for col in columns:
+        if col and col not in seen:
+            ordered.append(col)
+            seen.add(col)
+    return ordered
 
-# Use combined scenario if available, otherwise fall back to baseline
-df_display = combined if combined is not None else df
 
-winner_col, winner_prob_col = require_winner_columns(df_display, "Display dataset")
-df_display = add_baseline_table_columns(df_display, df)
-
-if flip is not None:
-    df_display = df_display.merge(flip[["AC_Number", "Flip_Risk"]], on="AC_Number", how="left")
-else:
-    df_display["Flip_Risk"] = "Medium"
-
-prob_cols = pick_prob_cols(df_display)
+training_metrics = load_training_metrics()
+actual_vs_pred = load_csv(ACTUAL_VS_PREDICTED_PATH)
+constituency_comp = load_csv(CONSTITUENCY_COMP_PATH)
 
 st.markdown(
     """
-    <div class="header-wrap">
-        <h1>West Bengal 2026 Election Dashboard</h1>
-        <p style="color:#c9c9d4; margin-top:-10px;">Comprehensive analysis: baseline predictions, margin squeeze, anti-incumbency, and scenario modeling.</p>
+    <div class="hero">
+        <h2>Model Accuracy and Lag Dashboard</h2>
+        <p>Clean view of what worked, where it failed, and where the biggest gaps are.</p>
     </div>
     """,
     unsafe_allow_html=True,
 )
 
-# Create tabs for different analyses
-tab1, tab2, tab3, tab4, tab5 = st.tabs([
-    "📊 Overview", 
-    "💪 Margin Squeeze", 
-    "⚖️ Anti-Incumbency",
-    "🎯 Scenarios",
-    "🔍 Details"
-])
-
-with tab1:
-    # Determine which scenario we're showing
-    is_combined = combined is not None
-    scenario_title = "Comprehensive Scenario" if is_combined else "Baseline Predictions"
-    scenario_subtitle = "All factors combined (margin squeeze + anti-incumbency + turnout + swing)" if is_combined else "Baseline model without scenario adjustments"
-    
-    st.subheader(scenario_title)
-    st.caption(scenario_subtitle)
-    
-    col_a, col_b, col_c, col_d = st.columns(4)
-    
-    party_counts = df_display[winner_col].value_counts()
-    col_a.metric("AITC Seats", int(party_counts.get("All India Trinamool Congress", 0)))
-    col_b.metric("BJP Seats", int(party_counts.get("Bharatiya Janta Party", 0)))
-    col_c.metric("Other Seats", int(party_counts.get("OTHER", 0)))
-    col_d.metric("Median Win Prob", f"{df_display[winner_prob_col].median():.2f}")
-
-    st.divider()
-
-    # Show scenario comparison if combined data is available
-    if is_combined:
-        st.subheader("Scenario Progression")
-        scenario_comparison = pd.DataFrame({
-            'Scenario': ['Baseline', 'Margin Squeeze', 'Margin Squeeze\n+ Anti-Inc', 'All Factors\nCombined'],
-            'TMC Seats': [197, 194, '188-190', int(party_counts.get("All India Trinamool Congress", 0))],
-            'BJP Seats': [95, 98, '102-104', int(party_counts.get("Bharatiya Janta Party", 0))]
-        })
-        st.dataframe(scenario_comparison, use_container_width=True, hide_index=True)
-        st.divider()
-
-    left, right = st.columns([2.2, 1.2])
-
-    with left:
-        st.subheader("Seat Grid Map (Flip Risk)")
-        st.plotly_chart(build_grid(df_display, "Flip_Risk", winner_col, winner_prob_col), use_container_width=True)
-
-    with right:
-        st.subheader("Exit Polls vs Model")
-        if exit_polls is not None:
-            model_row = pd.DataFrame(
-                [
-                    {
-                        "Pollster": "Model (Combined)",
-                        "BJP": int(party_counts.get("Bharatiya Janta Party", 0)),
-                        "TMC": int(party_counts.get("All India Trinamool Congress", 0)),
-                        "Others": int(party_counts.get("OTHER", 0)),
-                    }
-                ]
-            )
-            poll_df = pd.concat([exit_polls, model_row], ignore_index=True)
-            poll_long = poll_df.melt(id_vars="Pollster", var_name="Party", value_name="Seats")
-            fig_poll = px.bar(
-                poll_long,
-                x="Pollster",
-                y="Seats",
-                color="Party",
-                barmode="group",
-                color_discrete_map={
-                    "BJP": "#f97316",
-                    "TMC": "#e11d48",
-                    "Others": "#94a3b8",
-                },
-            )
-            fig_poll.update_layout(height=420, legend_title_text="")
-            st.plotly_chart(fig_poll, use_container_width=True)
-        else:
-            st.info("Exit poll file missing. Add outputs/wb_2026_exit_polls.csv")
-
-    st.subheader("Seat Table")
-
-    party_filter = st.multiselect(
-        "Filter by party",
-        sorted(df_display[winner_col].dropna().unique()),
-        default=sorted(df_display[winner_col].dropna().unique()),
+if constituency_comp is None and actual_vs_pred is None:
+    st.error(
+        "Missing comparison files in outputs/. Expected wb_2026_constituency_comparison.csv "
+        "and/or wb_2026_actual_vs_predicted.csv"
     )
+    st.stop()
 
-    risk_filter = st.multiselect(
-        "Filter by flip risk",
-        ["Very High", "High", "Medium", "Low", "Very Low"],
-        default=["Very High", "High", "Medium", "Low", "Very Low"],
-    )
+col1, col2, col3, col4 = st.columns(4)
 
-    prob_range = st.slider("Win probability range", 0.0, 1.0, (0.4, 1.0), 0.01)
+train_accuracy = float(training_metrics.get("accuracy", 0.0)) * 100
+f1_macro = float(training_metrics.get("f1_macro", 0.0)) * 100
 
-    filtered = df_display[
-        (df_display[winner_col].isin(party_filter))
-        & (df_display["Flip_Risk"].isin(risk_filter))
-        & (df_display[winner_prob_col].between(prob_range[0], prob_range[1]))
-    ].copy()
+if constituency_comp is not None and "Correct_Prediction" in constituency_comp.columns:
+    overall_accuracy = constituency_comp["Correct_Prediction"].mean() * 100
+else:
+    overall_accuracy = train_accuracy
 
-    candidate_cols = [col for col in df_display.columns if col.startswith("Candidate_")]
+if constituency_comp is not None and "Predicted_Winner_Prob" in constituency_comp.columns:
+    incorrect = constituency_comp[constituency_comp["Correct_Prediction"] == False].copy()
+    high_conf_wrong = incorrect[incorrect["Predicted_Winner_Prob"] >= 0.85]
+    high_conf_wrong_pct = (len(high_conf_wrong) / max(len(constituency_comp), 1)) * 100
+else:
+    high_conf_wrong = pd.DataFrame()
+    high_conf_wrong_pct = 0.0
 
-    columns = [
-        "AC_Number",
-        "Constituency_Name",
-        "District",
-        "Type",
-        winner_col,
-        winner_prob_col,
-        "Flip_Risk",
-    ]
+largest_party_gap = 0
+if actual_vs_pred is not None and "Difference" in actual_vs_pred.columns:
+    numeric_diff = pd.to_numeric(actual_vs_pred["Difference"], errors="coerce").fillna(0)
+    largest_party_gap = int(numeric_diff.abs().max())
 
-    for col in sorted(candidate_cols):
-        if col in df_display.columns:
-            columns.append(col)
+col1.metric("Overall Accuracy", f"{overall_accuracy:.1f}%")
+col2.metric("Train Accuracy", f"{train_accuracy:.1f}%")
+col3.metric("Macro F1", f"{f1_macro:.1f}%")
+col4.metric(
+    "High-Confidence Misses",
+    f"{high_conf_wrong_pct:.1f}%",
+    f"{len(high_conf_wrong)} seats",
+    delta_color="inverse",
+)
 
-    columns = [col for col in columns if col in filtered.columns]
-    st.dataframe(filtered[columns], use_container_width=True, height=420)
+st.divider()
 
-    st.subheader("Win Probability Distribution")
-    fig_hist = px.histogram(
-        df_display,
-        x=winner_prob_col,
-        nbins=20,
-        color=winner_col,
-        color_discrete_sequence=px.colors.qualitative.Bold,
-    )
-    fig_hist.update_layout(height=320, legend_title_text="")
-    st.plotly_chart(fig_hist, use_container_width=True)
+left, right = st.columns([1.2, 1])
 
-with tab2:
-    st.subheader("Margin Squeeze Analysis")
-    
-    if margin_squeeze is not None:
-        # Summary metrics
-        col1, col2, col3, col4 = st.columns(4)
-        col1.metric("Avg Purge Squeeze", f"{margin_squeeze['purge_squeeze'].mean():.1%}")
-        col2.metric("Avg RG Kar Squeeze", f"{margin_squeeze['rgkar_squeeze'].mean():.1%}")
-        col3.metric("Avg Corruption Squeeze", f"{margin_squeeze['corruption_squeeze'].mean():.1%}")
-        col4.metric("Avg Sandeshkhali Squeeze", f"{margin_squeeze['sandeshkhali_squeeze'].mean():.1%}")
-        
-        st.divider()
-        
-        # Top constituencies at risk
-        st.subheader("Top 20 Constituencies at Risk (by Total Squeeze %)")
-        top_squeeze = margin_squeeze.nlargest(20, 'total_squeeze_pct')[
-            ['AC_Number', 'Constituency_Name', 'District', 'Margin_Pct', 'total_squeeze_pct', 
-             'purge_squeeze', 'rgkar_squeeze', 'corruption_squeeze', 'sandeshkhali_squeeze']
-        ].copy()
-        top_squeeze.columns = ['AC', 'Constituency', 'District', 'Margin %', 'Total Squeeze %', 
-                               'Purge', 'RG Kar', 'Corruption', 'Sandeshkhali']
-        st.dataframe(top_squeeze, use_container_width=True)
-        
-        # Visualization: squeeze factors by district
-        st.subheader("Average Squeeze Factors by District")
-        district_squeeze = margin_squeeze.groupby('District')[
-            ['purge_squeeze', 'rgkar_squeeze', 'corruption_squeeze', 'sandeshkhali_squeeze']
-        ].mean().reset_index()
-        district_squeeze = district_squeeze.sort_values('purge_squeeze', ascending=False).head(10)
-        
-        fig_district = px.bar(
-            district_squeeze.melt(id_vars='District', var_name='Factor', value_name='Value'),
-            x='District',
-            y='Value',
-            color='Factor',
-            barmode='stack',
-            color_discrete_map={
-                'purge_squeeze': '#ff5c57',
-                'rgkar_squeeze': '#ff9f1c',
-                'corruption_squeeze': '#ffd166',
-                'sandeshkhali_squeeze': '#8ac926'
-            },
-            title="Margin Squeeze Factors by District"
+with left:
+    st.subheader("Party-Level Gap: Predicted vs Actual")
+    if actual_vs_pred is not None:
+        comp = actual_vs_pred.copy()
+        comp = comp[pd.to_numeric(comp["Actual_Seats"], errors="coerce").notna()].copy()
+        comp = comp[comp["Party"] != "Total"] if "Party" in comp.columns else comp
+
+        plot_df = comp.melt(
+            id_vars=["Party"],
+            value_vars=["Predicted_Seats", "Actual_Seats"],
+            var_name="Series",
+            value_name="Seats",
         )
-        fig_district.update_layout(height=400)
-        st.plotly_chart(fig_district, use_container_width=True)
-        
-        # Comparison: baseline vs adjusted
-        if adjusted_squeeze is not None:
-            st.subheader("Baseline vs Squeeze-Adjusted Predictions")
-            baseline_tmc = len(df[df["Predicted_Winner"] == "All India Trinamool Congress"])
-            adjusted_tmc = len(adjusted_squeeze[adjusted_squeeze["Predicted_Winner"] == "All India Trinamool Congress"])
-            
-            baseline_bjp = len(df[df["Predicted_Winner"] == "Bharatiya Janta Party"])
-            adjusted_bjp = len(adjusted_squeeze[adjusted_squeeze["Predicted_Winner"] == "Bharatiya Janta Party"])
-            
-            comparison_data = pd.DataFrame({
-                'Scenario': ['Baseline', 'After Margin Squeeze'],
-                'TMC': [baseline_tmc, adjusted_tmc],
-                'BJP': [baseline_bjp, adjusted_bjp],
-                'Others': [294 - baseline_tmc - baseline_bjp, 294 - adjusted_tmc - adjusted_bjp]
-            })
-            
-            fig_comparison = px.bar(
-                comparison_data.melt(id_vars='Scenario', var_name='Party', value_name='Seats'),
-                x='Scenario',
-                y='Seats',
-                color='Party',
-                barmode='group',
-                color_discrete_map={'TMC': '#e11d48', 'BJP': '#f97316', 'Others': '#94a3b8'},
-                title="Seat Projections: Baseline vs Margin Squeeze"
-            )
-            fig_comparison.update_layout(height=400)
-            st.plotly_chart(fig_comparison, use_container_width=True)
+        fig_gap = px.bar(
+            plot_df,
+            x="Party",
+            y="Seats",
+            color="Series",
+            barmode="group",
+            color_discrete_map={"Predicted_Seats": "#0e7490", "Actual_Seats": "#b91c1c"},
+        )
+        fig_gap.update_layout(height=420, legend_title_text="")
+        st.plotly_chart(fig_gap, use_container_width=True)
+
+        st.caption(f"Largest party-level seat gap: {largest_party_gap} seats")
     else:
-        st.info("Margin squeeze analysis not available. Run margin_squeeze_analysis.py first.")
+        st.info("No party-level comparison file found.")
 
-with tab3:
-    st.subheader("Anti-Incumbency Analysis")
-    
-    st.markdown("""
-    ### Impact of 15 Years of TMC Rule
-    
-    Anti-incumbency sentiment is rising due to:
-    - **Governance concerns**: Corruption, "cut money" culture
-    - **RG Kar Medical Case**: Women voter disillusionment
-    - **Voter fatigue**: 15 years of same party rule
-    - **Business mobility**: Industry concerns about favorable investment climate
-    """)
-    
-    # District-level anti-incumbency impact
-    st.subheader("Anti-Incumbency by District")
-    
-    antiinc_map = {
-        "Kolkata": 0.12,
-        "North Twenty Four Parganas": 0.10,
-        "Haora": 0.10,
-        "Hugli": 0.08,
-        "Barddhaman": 0.09,
-        "Maldah": 0.08,
-        "Murshidabad": 0.07,
-        "Nadia": 0.06,
-    }
-    
-    antiinc_df = pd.DataFrame(list(antiinc_map.items()), columns=['District', 'Anti-Incumbency Factor'])
-    antiinc_df = antiinc_df.sort_values('Anti-Incumbency Factor', ascending=False)
-    
-    fig_antiinc = px.bar(
-        antiinc_df,
-        x='District',
-        y='Anti-Incumbency Factor',
-        title="Anti-Incumbency Impact by District (% Margin Squeeze)",
-        color='Anti-Incumbency Factor',
-        color_continuous_scale='Reds'
-    )
-    fig_antiinc.update_layout(height=400)
-    st.plotly_chart(fig_antiinc, use_container_width=True)
-    
-    # Turnout impact
-    st.subheader("Record Turnout Effect (91.5% in some phases)")
-    
-    turnout_df = pd.DataFrame({
-        'Turnout Range': ['<80%', '80-90%', '>90%'],
-        'New Voter Impact': ['8% squeeze', '5% squeeze', '2% squeeze'],
-        'Interpretation': [
-            'Strong anti-incumbency signal (massive new voter mobilization)',
-            'Moderate anti-incumbency signal',
-            'Election as normal (baseline expectations)'
+with right:
+    st.subheader("Where the Model Lags Most")
+    if constituency_comp is not None and "Prediction_Error" in constituency_comp.columns:
+        lag_pairs = (
+            constituency_comp[constituency_comp["Correct_Prediction"] == False]["Prediction_Error"]
+            .value_counts()
+            .reset_index()
+        )
+        lag_pairs.columns = ["Prediction Error Pattern", "Count"]
+        lag_pairs = lag_pairs.head(8)
+
+        fig_lag = px.bar(
+            lag_pairs,
+            x="Count",
+            y="Prediction Error Pattern",
+            orientation="h",
+            color="Count",
+            color_continuous_scale="Reds",
+        )
+        fig_lag.update_layout(height=420, yaxis_title="", coloraxis_showscale=False)
+        st.plotly_chart(fig_lag, use_container_width=True)
+    else:
+        st.info("No constituency-level error patterns available.")
+
+st.divider()
+
+if constituency_comp is not None and "Predicted_Winner_Prob" in constituency_comp.columns:
+    st.subheader("Confidence vs Accuracy")
+    band = build_confidence_bins(constituency_comp)
+    if not band.empty:
+        fig_band = px.line(
+            band,
+            x="confidence_band",
+            y="accuracy_pct",
+            markers=True,
+        )
+        fig_band.update_traces(line_color="#0f766e", marker_size=9)
+        fig_band.update_layout(height=320, yaxis_title="Accuracy (%)", xaxis_title="Confidence Band")
+        st.plotly_chart(fig_band, use_container_width=True)
+
+st.divider()
+
+if constituency_comp is not None:
+    st.subheader("Top High-Confidence Wrong Predictions")
+    required_cols = ["Correct_Prediction", "Predicted_Winner_Prob", "Predicted_Winner", "Actual_Party"]
+    if all(col in constituency_comp.columns for col in required_cols):
+        incorrect = constituency_comp[constituency_comp["Correct_Prediction"] == False].copy()
+        incorrect = incorrect.sort_values("Predicted_Winner_Prob", ascending=False).head(20)
+
+        ac_col = "AC_Number" if "AC_Number" in incorrect.columns else None
+        name_col = "Constituency_Name" if "Constituency_Name" in incorrect.columns else None
+        display_cols = [
+            ac_col,
+            name_col,
+            "Predicted_Winner",
+            "Actual_Party",
+            "Predicted_Winner_Prob",
+            "Prediction_Error",
         ]
-    })
-    st.dataframe(turnout_df, use_container_width=True)
-    
-    st.info("Record 91.5% turnout in recent phases signals strong 'change wave' - new voters mobilizing for opposition.")
+        display_cols = [col for col in display_cols if col in incorrect.columns]
+        display_cols = unique_columns(display_cols)
 
-with tab4:
-    st.subheader("Comprehensive Scenario Analysis")
-    
-    st.markdown("""
-    ### Four Scenarios: TMC's Path to Victory
-    
-    Based on combination of margin squeeze, anti-incumbency, turnout effects, and 5.5% swing requirement from exit polls.
-    """)
-    
-    scenarios = pd.DataFrame({
-        'Scenario': [
-            'Baseline (No Factors)',
-            'Margin Squeeze Only',
-            'Margin Squeeze + Anti-Incumbency',
-            'Full Wave (All Factors + 5.5% Swing)'
-        ],
-        'TMC Seats': [197, 194, '188-190', '177-182'],
-        'BJP Seats': [95, 98, '102-104', '110-115'],
-        'TMC Majority': ['+22', '+19', '+13-15', '+2-7'],
-        'Probability': ['0%', '40%', '35%', '5%']
-    })
-    
-    st.dataframe(scenarios, use_container_width=True)
-    
-    st.divider()
-    
-    st.subheader("Exit Poll Signal: 5.5% Swing Requirement")
-    
-    col1, col2 = st.columns(2)
-    with col1:
-        st.metric("BJP Exit Poll Target", "43%+ vote share")
-        st.metric("Current Model", "38% vote share")
-    with col2:
-        st.metric("Gap to Close", "5.5%")
-        st.metric("Swing Impact", "10-15 additional seats")
-    
-    st.divider()
-    
-    st.subheader("Scenario Probability Assessment")
-    scenario_data = pd.DataFrame({
-        'Scenario': [
-            'Margin Squeeze Only',
-            'Margin Squeeze +\nAnti-Incumbency',
-            'Anti-Incumbency +\nTurnout Effect',
-            'Full Change Wave'
-        ],
-        'Probability': [40, 35, 15, 5],
-        'TMC Seats (Mid)': [194, 189, 185, 180]
-    })
-    
-    fig_scenarios = go.Figure()
-    
-    fig_scenarios.add_trace(go.Bar(
-        x=scenario_data['Scenario'],
-        y=scenario_data['Probability'],
-        name='Probability',
-        marker=dict(color=['#3b82f6', '#8b5cf6', '#ec4899', '#f97316']),
-        yaxis='y1'
-    ))
-    
-    fig_scenarios.add_trace(go.Scatter(
-        x=scenario_data['Scenario'],
-        y=scenario_data['TMC Seats (Mid)'],
-        name='TMC Seats (Midpoint)',
-        marker=dict(color='#e11d48', size=10),
-        yaxis='y2'
-    ))
-    
-    fig_scenarios.update_layout(
-        title="Scenario Probabilities and Seat Outcomes",
-        xaxis_title="Scenario",
-        yaxis=dict(title="Probability (%)", side='left'),
-        yaxis2=dict(title="TMC Seats", side='right', overlaying='y'),
-        height=400,
-        hovermode='x unified'
-    )
-    
-    st.plotly_chart(fig_scenarios, use_container_width=True)
+        table = incorrect[display_cols].rename(
+            columns={
+                "Predicted_Winner_Prob": "Confidence",
+                "Predicted_Winner": "Predicted",
+                "Actual_Party": "Actual",
+            }
+        )
+        table = table.loc[:, ~table.columns.duplicated()]
 
-with tab5:
-    st.subheader("Critical Constituencies & Detailed View")
-    
-    # Vulnerability clusters
-    st.subheader("🔴 Top Vulnerability Clusters")
-    
-    clusters = {
-        'Murshidabad (9 seats)': {
-            'Factors': 'Voter purge (35%) + anti-incumbency (7%)',
-            'Risk': 'VERY HIGH',
-            'At Risk': 'Suti, Raninagar, Sagardighi, Lalgola, Beldanga',
-            'Signal': 'Early trends in Murshidabad will be bellwether for entire state'
-        },
-        'Maldah (5 seats)': {
-            'Factors': 'Voter purge (30%) + corruption narrative (12%)',
-            'Risk': 'VERY HIGH',
-            'At Risk': 'Ratua, Baisnabnagar, Mothabari',
-            'Signal': 'Judicial gherao incident narrative resonance'
-        },
-        'North 24 Parganas (14 seats)': {
-            'Factors': 'RG Kar (10%) + Sandeshkhali (8%) + anti-incumbency (10%)',
-            'Risk': 'VERY HIGH',
-            'At Risk': 'Panihati, Sandeshkhali, Basirhat',
-            'Signal': 'Women voter behavior, freed voter movement'
-        },
-        'Barddhaman (19 seats)': {
-            'Factors': 'Corruption narrative (8%) + industrial concerns (9%)',
-            'Risk': 'HIGH',
-            'At Risk': 'Burdwan Dakshin, Burwan, Asansol',
-            'Signal': 'Industrial worker sentiment'
-        }
-    }
-    
-    for cluster_name, details in clusters.items():
-        with st.expander(f"**{cluster_name}** - {details['Risk']} Risk"):
-            col1, col2 = st.columns(2)
-            with col1:
-                st.write(f"**Factors**: {details['Factors']}")
-                st.write(f"**At Risk**: {details['At Risk']}")
-            with col2:
-                st.write(f"**Signal**: {details['Signal']}")
-    
-    st.divider()
-    
-    st.subheader("Election Night Monitoring Checklist")
-    
-    st.markdown("""
-    #### Phase 1: Early Exits (by 6 PM)
-    Monitor these districts for exit poll validation:
-    1. **Murshidabad** - Target: TMC 50%+ | If <45%: Anti-incumbency wave confirmed
-    2. **Maldah** - Target: TMC 45%+ | If <40%: Purge + corruption narrative working
-    3. **Kolkata** - Target: TMC 55%+ | If <50%: Urban voter shift confirmed
-    
-    #### Phase 2: Early Counts (10 PM onwards)
-    Watch flip risk in:
-    - Burdwan Dakshin (AC 260)
-    - Burwan (AC 67)
-    - Panskura Paschim
-    - Panihati (AC 111)
-    - Sandeshkhali (AC 123)
-    
-    #### Phase 3: Trend Confirmation (By Midnight)
-    - If TMC leading in <160 seats at 50% count: **LOSS likely**
-    - If TMC leading in 160-175 seats: **Close call**
-    - If TMC leading in >175 seats: **Majority secure**
-    """)
-    
-    st.divider()
-    
-    st.subheader("Data Downloads")
-    
-    if margin_squeeze is not None:
-        csv = margin_squeeze.to_csv(index=False)
-        st.download_button(
-            label="Download Margin Squeeze Analysis",
-            data=csv,
-            file_name="wb_2026_margin_squeeze_analysis.csv",
-            mime="text/csv"
+        st.dataframe(
+            table,
+            use_container_width=True,
+            hide_index=True,
+            height=420,
         )
-    
-    if adjusted_squeeze is not None:
-        csv = adjusted_squeeze.to_csv(index=False)
-        st.download_button(
-            label="Download Squeeze-Adjusted Predictions",
-            data=csv,
-            file_name="wb_2026_adjusted_for_squeeze.csv",
-            mime="text/csv"
-        )
+    else:
+        st.info("Comparison data does not include enough columns to show lag points.")
+
+st.caption(
+    "Scope kept intentionally narrow: accuracy, major misses, and confidence failures. "
+    "Removed scenario clutter and narrative-heavy sections for a clean performance view."
+)

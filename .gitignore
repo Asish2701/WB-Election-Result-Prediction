@@ -1,0 +1,12 @@
+# Python cache and virtual environment
+__pycache__/
+*.py[cod]
+.venv/
+
+# Generated output artifacts: ignore all by default
+outputs/*
+
+# Keep only files used by the current frontend
+!outputs/wb_2026_actual_vs_predicted.csv
+!outputs/wb_2026_constituency_comparison.csv
+!outputs/training_metrics.json
